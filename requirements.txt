@@ -1,0 +1,2 @@
+jupyter
+https://github.com/hipe-eval/HIPE-pycommons/archive/refs/heads/develop.zip
