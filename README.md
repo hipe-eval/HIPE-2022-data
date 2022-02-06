@@ -105,9 +105,9 @@ The primary datasets which compose HIPE-2022 data are released under different l
 ## Additional resources
 
 
-## Primary2HIPE-2022: Overview
+## Primary datasets to 2HIPE-2022: mapping comprehensive overview
 
-![](doc/HIPE2022-Dataset-Mapping.pdf)
+![](./doc/HIPE2022-Dataset-Mapping.png)
 
 
 ## Acknowledgements
