@@ -114,10 +114,7 @@ Each annotated line consists of 9 columns:
 
 Non-specified values are marked by the underscore character  `_`. 
 
-Since they were created according to different annotation schemes, datasets do not systematically include all columns. When a column does not apply for a specific dataset, all its values are `_ ` Applicable columns for a dataset are specified in the document metadata.
-
-Applicable columns for each dataset:
-
+Since they were created according to different annotation schemes, datasets do not systematically include all columns. When a column does not apply for a specific dataset, all its values are `_ `. Applicable columns for a dataset are specified in the document metadata, and as follows:
 
 
 |Column | ajmc       | hipe2020   | letemps    | topres19th | newseye    | sonar |
