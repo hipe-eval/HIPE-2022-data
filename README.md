@@ -15,7 +15,7 @@ HIPE-2022 primary datasets are composed of historical newspapers and classic com
 | ajmc       | [link](doc/README-ajmc.md)  | classical commentaries | de, fr, en | NERC and EL | AjMC |
 | hipe2020   | [link](doc/README-hipe2020.md)| historical newspapers | de, fr, en | NERC and EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)|
 | letemps    | [link](doc/README-letemps.md) | historical newspapers    | fr | NERC  | LeTemps |
-| topRes19th | [link](doc/README-topres19th.md) | historical newspapers | en | NERC and EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
+| topres19th | [link](doc/README-topres19th.md) | historical newspapers | en | NERC and EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
 | newseye    | [link](doc/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC and EL |  [NewsEye](https://www.newseye.eu/) | 
 | sonar      | [link](doc/README-sonar.md) | historical newspapers  | de | NERC and EL |  [SoNAR](https://sonar.fh-potsdam.de/)  |
 
@@ -66,7 +66,7 @@ data
 
 HIPE format is a simple tab-separated column textual format using an [IOB]( https://en.wikipedia.org/wiki/Inside–outside–beginning_(tagging)) tagging scheme (inside-outside-beginning format), in a similar fashion to that of the [CoNLL-U](https://universaldependencies.org/format.html) format. 
 
-**File contents**
+**File structure**
 
 Files encode annotations needed for all tasks (NERC-Coarse, NERC-Fine and entity linking) and contain the following lines:
 - empty lines, which mark the boundaries between documents;    
@@ -93,8 +93,45 @@ HIPE-2022 document metadata blocks uses name spacing to distinguish between mand
 # to be continued....
 ```
 
+**Columns**
+
+Each annotated line consists of 9 columns:
+
+- TOKEN: the annotated token.
+- NE-COARSE-LIT: the coarse type (IOB-type) of the entity mention token, according to the literal sense.
+- NE-COARSE-METO: the coarse type (IOB-type) of the entity mention token, according to the metonymic sense.
+- NE-FINE-LIT: the fine-grained type (IOB-type.subtype.subtype) of the entity mention token, according to the literal sense.
+- NE-FINE-METO: the fine-grained type (IOB-type.subtype.subtype) of the entity mention token, according to the metonymic sense.
+- NE-FINE-COMP: the component type of the entity mention token.
+- NE-NESTED: the coarse type of the nested entity (if any).
+- NEL-LIT: the Wikidata Qid of the literal sense, or `NIL`.
+- NEL-METO: the Wikidata Qid of the metonymic sense, or `NIL`.
+- MISC: a flag which can take the following values:
+    - `NoSpaceAfter’, to indicate the absence of white space after the token.
+    - `EndOfLine’, to indicate the end of a layout line.
+    - `EndOfSentence`
+    - `Partial-START:END’, to indicate the character on/offsets of mentions that do not cover the full token (esp. for German compounds).
+
+Non-specified values are marked by the underscore character  `_`. 
+
+Since they were created according to different annotation schemes, datasets do not systematically include all columns. When a column does not apply for a specific dataset, all its values are `_ ` Applicable columns for a dataset are specified in the document metadata.
+
+Applicable columns for each dataset:
 
 
+
+|Column | ajmc       | hipe2020   | letemps    | topres19th | newseye    | sonar |
+|---------|---------|---------|---------|---------|---------|---------|
+|  TOKEN |  x  |  x  |  x  | x   |  x  |  x  |
+|  NE-COARSE-LIT | x    | x   |  x  | x   | x   |  x  |
+|  NE-COARSE-METO |    |    |    |    |    |    | 
+|  NE-FINE-LIT |    |    |    |    |    |    | 
+|  NE-FINE-METO |    |    |    |    |    |    | 
+|  NE-FINE-COMP |    |    |    |    |    |    | 
+|  NE-NESTED |    |    |    |    |    |    | 
+|  NEL-LIT |  x  |  x  |    |  x  | x   |  x  | 
+|  NEL-METO |    |    |    |    |    |    |
+|  MISC |   x  |  x  |  x  | x   |  x  |  x  |
 
 
 
