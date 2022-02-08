@@ -1,6 +1,6 @@
 # Newseye dataset
 
-### Dataset profile
+### Profile
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
@@ -27,16 +27,16 @@
 
 ### HIPE-2022 Tasks and Challenges
 
-The newseye dataset can be used for:    
+The _newseye_ dataset can be used for:    
 
 - **Tasks**: NERC-Coarse, NERC-Fine, NEL.
-- **Challenges**: Multilingual Newspaper Coarse (MNC), Multilingual Newspaper Fine (MNF), Global Adaptation Coarse (GAC).
+- **Challenges**: Multilingual Newspaper Coarse, Multilingual Newspaper Fine, Global Adaptation Coarse.
 
 
 ### Specificities and important information
 
-- **Guidelines:** newseye annotation guidelines are compatible with the HIPE-2020 impresso guidelines (except for the consideration of metonymic sense for entity linking, see below).
-- **Documents:** newseye documents corresponds to newspaper pages.
+- **Guidelines:** _newseye_ annotation guidelines are compatible with the HIPE-2020 impresso guidelines (except for the consideration of metonymic sense for entity linking, see below).
+- **Documents:** _newseye_ documents corresponds to newspaper pages.
 - **Document IDs:** document ID were added during HIPE-2022 conversion and are composed of: `split_language_docNumber (in file)`. 
 - **Sentence splitting:** performed automatically on OCRed text (performances not perfect).
 - **Entity linking and metonymic sense:** only one linking annotation exists per linked entity. 
