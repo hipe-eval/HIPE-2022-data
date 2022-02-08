@@ -1,6 +1,6 @@
 # TopRes19th dataset
 
-### Dataset profile
+### Profile
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
@@ -17,7 +17,7 @@
 
 ### Entity tagset 
 
-The topres19th dataset focuses exclusively on toponyms.
+The _topres19th_ dataset focuses exclusively on toponyms.
 
 | Coarse-grained tagset | Fine-grained tagset | Nesting applies | Linking applies | 
 | ------| ------------| --------| --------|
@@ -43,10 +43,10 @@ Type explanation (from original release guidelines):
 
 ### HIPE-2022 Tasks and Challenges
 
-The topres19th dataset can be used for:    
+The _topres19th_ dataset can be used for:    
 
 - **Tasks**: NERC-Coarse,  NEL.
-- **Challenges**: Multilingual Newspaper Coarse (MNC), Global Adaptation Coarse (GAC).
+- **Challenges**: Multilingual Newspaper Coarse, Global Adaptation Coarse.
 
 
 ### Specificities and important information
