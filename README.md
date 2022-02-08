@@ -114,22 +114,9 @@ Each annotated line consists of 9 columns:
 
 Non-specified values are marked by the underscore character  `_`. 
 
-Since they were created according to different annotation schemes, datasets do not systematically include all columns. When a column does not apply for a specific dataset, all its values are `_ `. Applicable columns for a dataset are specified in the document metadata, and as follows:
+Since they were created according to different annotation schemes, datasets do not systematically include all columns. When a column does not apply for a specific dataset, all its values are `_`.     
 
-
-|Column | ajmc       | hipe2020   | letemps    | topres19th | newseye    | sonar |
-|---------|---------|---------|---------|---------|---------|---------|
-|  TOKEN |  x  |  x  |  x  | x   |  x  |  x  |
-|  NE-COARSE-LIT | x    | x   |  x  | x   | x   |  x  |
-|  NE-COARSE-METO |    |    |    |    |    |    | 
-|  NE-FINE-LIT |    |    |    |    |    |    | 
-|  NE-FINE-METO |    |    |    |    |    |    | 
-|  NE-FINE-COMP |    |    |    |    |    |    | 
-|  NE-NESTED |    |    |    |    |    |    | 
-|  NEL-LIT |  x  |  x  |    |  x  | x   |  x  | 
-|  NEL-METO |    |    |    |    |    |    |
-|  MISC |   x  |  x  |  x  | x   |  x  |  x  |
-
+Applicable columns for a dataset are specified in each document metadata. For an overview of HIPE-2022 primary dataset tagsets please refer to the participation guidelines and this README-NEtagset-overview.md.
 
 
 ## Licenses
