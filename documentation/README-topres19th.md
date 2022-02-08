@@ -51,3 +51,11 @@ The topres19th dataset can be used for:
 
 ### Specificities and important information
 
+- **Guidelines:** topres19th annotation guidelines are ad hoc. 
+- **Documents:** topres19th documents corresponds to newspaper articles.
+- **Metadata:** topres19th has rich metadata, reported in the HIPE-2022 converted files.
+- **Sentence splitting:** performed automatically on OCRed text (performances not perfect).
+- **Entity linking and metonymic sense:** originally towards Wikipedia, mapped to Wikidata during HIPE-2022 conversion.
+- **Known glitches:**
+	-  ...
+
