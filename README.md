@@ -24,12 +24,12 @@ HIPE-2022 primary datasets are composed of historical newspapers and classic com
 
 | Dataset alias | README | Document type | Languages |  Suitable for | Project | 
 |---------|---------|---------------|-----------| ---------------|---------------|
-| ajmc       | [link](doc/README-ajmc.md)  | classical commentaries | de, fr, en | NERC and EL | AjMC |
-| hipe2020   | [link](doc/README-hipe2020.md)| historical newspapers | de, fr, en | NERC and EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)|
-| letemps    | [link](doc/README-letemps.md) | historical newspapers    | fr | NERC  | LeTemps |
-| topres19th | [link](doc/README-topres19th.md) | historical newspapers | en | NERC and EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
-| newseye    | [link](doc/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC and EL |  [NewsEye](https://www.newseye.eu/) | 
-| sonar      | [link](doc/README-sonar.md) | historical newspapers  | de | NERC and EL |  [SoNAR](https://sonar.fh-potsdam.de/)  |
+| ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC and EL | AjMC |
+| hipe2020   | [link](documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC and EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)|
+| letemps    | [link](documentation/README-letemps.md) | historical newspapers    | fr | NERC  | LeTemps |
+| topres19th | [link](documentation/README-topres19th.md) | historical newspapers | en | NERC and EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
+| newseye    | [link](documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC and EL |  [NewsEye](https://www.newseye.eu/) | 
+| sonar      | [link](documentation/README-sonar.md) | historical newspapers  | de | NERC and EL |  [SoNAR](https://sonar.fh-potsdam.de/)  |
 
 **Licenses:** The primary datasets which compose HIPE-2022 data are released under different licenses, please refer to each dataset specific README.
 
@@ -168,13 +168,13 @@ The annotation types `NE-COARSE-METO, NE-FINE-METO, NE-FINE-COMP` are not consid
 
 ## HIPE-2022 Primary Dataset Entity Tagsets
 
-HIPE-2022 datasets features different entity tagsets. In practice, datasets are converted to the HIPE *format*, but the entity tag sets are left untouched.
+HIPE-2022 datasets feature different entity tagsets. In practice, datasets are converted to the HIPE *format*, but the entity tagsets are left untouched.
 
 
 
 ## Additional resources
 
-To be updated soon
+To be updated soon.
 
 
 ## Primary datasets to HIPE-2022: mapping overview

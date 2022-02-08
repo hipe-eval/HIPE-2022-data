@@ -9,8 +9,8 @@
 | **Languages**           |Finnish, French, German, Swedish |
 | **Annotation guidelines** |[https://zenodo.org/record/4574199](https://zenodo.org/record/4574199)  |
 | **Annotation tool**     |transkribus |
-| **Format and tagging scheme** |`.tsv, IOB` |
-| **Annotation**          | NERC, EL (towards Wikidata, unknown dump) |
+| **Original format and tagging scheme** |`.tsv, IOB` |
+| **Annotations**          | NERC, EL (towards Wikidata, unknown dump) |
 | **Version (used in HIPE-2022)**   | v1.0 |
 | **Paper**               |[link](https://dl.acm.org/doi/abs/10.1145/3404835.3463255)  |
 

@@ -1,0 +1,53 @@
+# TopRes19th dataset
+
+### Dataset profile
+
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| **Original dataset**    |[https://doi.org/10.23636/b1c4-py78](https://doi.org/10.23636/b1c4-py78)  |
+| **Document type**       | newspaper (19C) |
+| **Languages**           | English |
+| **Annotation guidelines** | see README in original release and below |
+| **Annotation tool**     | INCEpTION |
+| **Original format and tagging scheme** | WebAnno 2.3 |
+| **Annotations**          | NERC, EL (towards Wikipedia) |
+| **Version (used in HIPE-2022)**   | v2 |
+| **Paper**               |[link](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/)  |
+
+
+### Entity tagset 
+
+The topres19th dataset focuses exclusively on toponyms.
+
+| Coarse-grained tagset | Fine-grained tagset | Nesting applies | Linking applies | 
+| ------| ------------| --------| --------|
+|LOC    | _        | no      | yes     |
+|BUILDING  | -     | no      | yes     |
+| STREET  | -      | no      | yes     |
+| ALIEN | -        | no      | yes     |
+| OTHER | -        | no      | yes     |
+| UNKNOWN | -      | no      | yes?    |
+| FICTION | -      | no      | yes     |
+
+
+Type explanation (from original release guidelines):
+
+- `LOC`:  Refers to a real world place regardless of scale (region, city, neighborhood) with the exception of the additional, separate categories listed below;
+- `BUILDING`: Names of buildings (e.g. schools, hospitals, factories, palaces, etc.). Optional link to Wikipedia article if it exists.
+-  `STREET`: Streets, squares, etc. Optional link to Wikipedia article if it exists.
+-  `ALIEN`: Extraterrestrial locations (e.g. the moon). Optional link to Wikipedia article if it exists.
+-  `OTHER`: Others, as in famous trees (https://en.wikipedia.org/wiki/Lone_Cypress) or battlefields (https://en.wikipedia.org/wiki/Battle_of_Waterloo). Optional link to Wikipedia article if it exists.
+-  `UNKNOWN`: If the location has no Wikipedia entry OR if you cannot determine what place it is, but are confident that it is a place. No link to Wikipedia.
+-  `FICTION`: If it is a fictional/mythical place (e.g. Lilliput). Optional link to Wikipedia article if it exists.
+
+
+### HIPE-2022 Tasks and Challenges
+
+The topres19th dataset can be used for:    
+
+- **Tasks**: NERC-Coarse,  NEL.
+- **Challenges**: Multilingual Newspaper Coarse (MNC), Global Adaptation Coarse (GAC).
+
+
+### Specificities and important information
+
