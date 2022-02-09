@@ -157,7 +157,7 @@ Given its wide scope in terms of languages and datasets, **HIPE-2022 tasks only 
 Overview of HIPE-2022 tasks and their annotation types:
 
 
-| HIPE-2022 Tasks  | NE annotation type | 
+| HIPE-2022 Tasks  | NE annotation types | 
 | -------| -------|
 | NERC-Coarse | NE-COARSE-LIT |
 | NERC-Fine | NE-FINE-LIT, NE-NESTED|
