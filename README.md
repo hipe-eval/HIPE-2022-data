@@ -24,12 +24,12 @@ HIPE-2022 primary datasets are composed of historical newspapers and classic com
 
 | Dataset alias | README | Document type | Languages |  Suitable for | Project | 
 |---------|---------|---------------|-----------| ---------------|---------------|
-| ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC and EL | AjMC |
-| hipe2020   | [link](documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC and EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)|
-| letemps    | [link](documentation/README-letemps.md) | historical newspapers    | fr | NERC  | LeTemps |
-| topres19th | [link](documentation/README-topres19th.md) | historical newspapers | en | NERC and EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
-| newseye    | [link](documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC and EL |  [NewsEye](https://www.newseye.eu/) | 
-| sonar      | [link](documentation/README-sonar.md) | historical newspapers  | de | NERC and EL |  [SoNAR](https://sonar.fh-potsdam.de/)  |
+| ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC-Coarse, NERC-Fine, EL | AjMC |
+| hipe2020   | [link](documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC-Coarse, NERC-Fine, EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)|
+| letemps    | [link](documentation/README-letemps.md) | historical newspapers    | fr | NERC-Coarse, NERC-Fine | LeTemps |
+| topres19th | [link](documentation/README-topres19th.md) | historical newspapers | en | NERC-Coarse, EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
+| newseye    | [link](documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC-Coarse, NERC-Fine, EL |  [NewsEye](https://www.newseye.eu/) | 
+| sonar      | [link](documentation/README-sonar.md) | historical newspapers  | de | NERC-Coarse, EL |  [SoNAR](https://sonar.fh-potsdam.de/)  |
 
 **Licenses:** The primary datasets which compose HIPE-2022 data are released under different licenses, please refer to each dataset specific README.
 
@@ -40,7 +40,7 @@ A HIPE-2022 release corresponds to a single package composed of neatly structure
 - conversion to the HIPE format (with correction of data inconsistencies and metadata consolidation);
 - rearrangement or composition of train and dev splits.
 
-### Directory structure and naming conventions
+### Directory structure, naming conventions and versioning:
 
 HIPE-2022 data directory is organised per HIPE release version, dataset and language, as follows:
 
@@ -72,9 +72,9 @@ data
 
 **Versioning**  
 
-- HIPE-2022 release are versioned with a two-part version number (Major.Minor) which is part of 1) the data directory structure and 2) the filename of each file.     
+- HIPE-2022 release are versioned with a two-part version number (Major.Minor) which is present in 1) the data directory structure and 2) the filename of each file.     
 - Each HIPE-2022 release has an equivalent git repository release, with release notes.    
-- The version of each specific dataset is mentioned in document metadata (see below).    
+- The version of a primary dataset is mentioned in its document metadata (see below).    
 
 
 ### HIPE format and tagging scheme
@@ -93,20 +93,22 @@ A file contains all the documents of one dataset/language/split. Documents are s
 
 **Document metadata**
 
-Primary datasets provide different document metadata, with different granularity. This information is kept in HIPE-2022 files in the form of "metadata blocks". HIPE-2022 metadata blocks encode as much information as necessary to ensure that each document is 'self-contained' with respect to HIPE-2022 settings.
+Primary datasets provide different document metadata, with different granularity. This information is kept in HIPE-2022 files in the form of "metadata blocks". HIPE-2022 metadata blocks encode as much information as necessary to ensure that each document is self-contained with respect to HIPE-2022 settings.
 
 Metadata blocks uses name spacing to distinguish between mandatory HIPE-2022 metadata and dataset-specific (optional) metadata:
 
 
 ```
-# hipe2022:document_id     = [value: identifier for the document inside a dataset]
-# hipe2022:date            = [value: original document publication date (YYYY-MM-DD, with YYYY-01-01 if month or date are not available)]
-# hipe2022:language        = [value: iso two-letter language code]
-# hipe2022:dataset         = [value: dataset alias as in file name]
-# hipe2022:original_source = [value: path to source file in original dataset release] 
-# DATASET:doi              = [value: DOI url of primary dataset release (if available)]   
-# DATASET:version          = [value: version of primary dataset as indicated in latest release]   
-# to be continued....
+# hipe2022:document_id     = [identifier for the document inside a dataset]
+# hipe2022:date            = [original document publication date (YYYY-MM-DD, with YYYY-01-01 if month or date are not available)]
+# hipe2022:language        = [iso two-letter language code]
+# hipe2022:dataset         = [dataset alias as in file name]
+# hipe2022:document_type   = [newspaper or commentary]
+# hipe2022:original_source = [path to source file in original dataset release] 
+# hipe2022:applicable_columns = [all relevant columns for this dataset (TOKEN NE-COARSE etc.) Non-applicable columns have _ values everywhere] 
+# DATASET:doi              = [DOI url of primary dataset release (if available)]   
+# DATASET:version          = [version of the primary dataset used in the HIPE-2022 release]   
+# DATASET: xxx	           = [any other metadata provided with the dataset]
 ```
 
 **Columns**
@@ -157,7 +159,7 @@ Given its wide scope in terms of languages and datasets, **HIPE-2022 tasks only 
 Overview of HIPE-2022 tasks and their annotation types:
 
 
-| HIPE-2022 Tasks  | NE annotation type | 
+| HIPE-2022 Tasks  | NE annotation types | 
 | -------| -------|
 | NERC-Coarse | NE-COARSE-LIT |
 | NERC-Fine | NE-FINE-LIT, NE-NESTED|
