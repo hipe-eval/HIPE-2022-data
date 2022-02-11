@@ -28,7 +28,7 @@ N.B. SoNAR guidelines indicate other possible entity types but they are not pres
 
 ### HIPE-2022 Tasks and Challenges
 
-The sonar dataset can be used for:    
+The *sonar* dataset can be used for:    
 
 - **Tasks**: NERC-Coarse,  NEL.
 - **Challenges**: Multilingual Newspaper Coarse (MNC), Multilingual Newspaper Fine (MNF), Global Adaptation Coarse (GAC).
