@@ -40,7 +40,7 @@ A HIPE-2022 release corresponds to a single package composed of neatly structure
 - conversion to the HIPE format (with correction of data inconsistencies and metadata consolidation);
 - rearrangement or composition of train and dev splits.
 
-### Directory structure, naming conventions and versioning:
+### Directory structure and naming conventions
 
 HIPE-2022 data directory is organised per HIPE release version, dataset and language, as follows:
 
@@ -146,10 +146,10 @@ Datasets and their annotation types:
 |---------|---------|---------|---------|---------|---------|---------|
 |  NE-COARSE-LIT  | x  | x  |  x | x  | x  |  x |
 |  NE-COARSE-METO |    |    |    |    |    |    | 
-|  NE-FINE-LIT    |    |    |    |    |    |    | 
+|  NE-FINE-LIT    | x   |    |    |    |    |    | 
 |  NE-FINE-METO   |    |    |    |    |    |    | 
 |  NE-FINE-COMP   |    |    |    |    |    |    | 
-|  NE-NESTED      |    |    |    |    |    |    | 
+|  NE-NESTED      |  x  |    |    |    |    |    | 
 |  NEL-LIT        |  x |  x |    |  x | x  |  x | 
 |  NEL-METO       |    |    |    |    |    |    |
 
