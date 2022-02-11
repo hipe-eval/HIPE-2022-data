@@ -1,6 +1,6 @@
 # Newseye dataset
 
-### Profile
+### Dataset profile
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
@@ -28,21 +28,27 @@
 
 ### HIPE-2022 Tasks and Challenges
 
-The _newseye_ dataset can be used for:    
+The *newseye* dataset can be used for:    
 
 - **Tasks**: NERC-Coarse, NERC-Fine, NEL.
-- **Challenges**: Multilingual Newspaper Coarse, Multilingual Newspaper Fine, Global Adaptation Coarse.
+- **Challenges**: Multilingual Newspaper Coarse (MNC), Multilingual Newspaper Fine (MNF), Global Adaptation Coarse (GAC).
 
 
 ### Specificities and important information
 
-- **Guidelines:** _newseye_ annotation guidelines are compatible with the HIPE-2020 impresso guidelines (except for the consideration of metonymic sense for entity linking, see below).
-- **Documents:** _newseye_ documents corresponds to newspaper pages.
+- **Guidelines:** newseye annotation guidelines are compatible with the HIPE-2020 impresso guidelines (except for the consideration of metonymic sense for entity linking, see participation guidelines p. 12).
+- **Documents:** newseye documents corresponds to newspaper pages.
 - **Document IDs:** document ID were added during HIPE-2022 conversion and are composed of: `split_language_docNumber (in file)`. 
 - **Sentence splitting:** performed automatically on OCRed text (performances not perfect).
 - **Entity linking and metonymic sense:** only one linking annotation exists per linked entity. 
 - **Known glitches:**
 	-  309 lines/tokens across all datasets in all languages contain the `###` subword marker.
+
+
+	
+**HIPE-2022 v1.0 release notes**
+
+-  Some parts (mainly tables) of some German documents seem to be missing annotations. This will be fixed for the next HIPE-2022 release. 
 
 	
 	
