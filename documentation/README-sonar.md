@@ -13,7 +13,7 @@
 | **Annotations**          | NERC, EL (towards Wikidata, unknown dump) |
 | **Version (used in HIPE-2022)**   | v1.0 |
 | **Paper**               |[link](https://doi.org/10.1515/9783110691597-012)  |
-| **License** | UPDATE |
+| **License** | [Creative Commons Attribution 4.0 (CC-BY)](https://creativecommons.org/licenses/by/4.0/)|
 
 
 ### Entity tagset 
