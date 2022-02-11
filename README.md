@@ -24,7 +24,7 @@ HIPE-2022 primary datasets are composed of historical newspapers and classic com
 
 | Dataset alias | README | Document type | Languages |  Suitable for | Project | 
 |---------|---------|---------------|-----------| ---------------|---------------|
-| ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC and EL | AjMC |
+| ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC and EL | [AjMC](https://mromanello.github.io/ajax-multi-commentary/) |
 | hipe2020   | [link](documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC and EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)|
 | letemps    | [link](documentation/README-letemps.md) | historical newspapers    | fr | NERC  | LeTemps |
 | topres19th | [link](documentation/README-topres19th.md) | historical newspapers | en | NERC and EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
