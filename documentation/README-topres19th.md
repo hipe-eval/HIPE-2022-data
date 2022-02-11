@@ -13,6 +13,7 @@
 | **Annotations**          | NERC, EL (towards Wikipedia) |
 | **Version (used in HIPE-2022)**   | v2 |
 | **Paper**               |[link](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/)  |
+| **License**              |[CC BY-NC-SA 4.0 Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)  |
 
 
 ### Entity tagset 
