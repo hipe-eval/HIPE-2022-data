@@ -4,7 +4,7 @@
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| **Original dataset**    |updated soon  |
+| **Original dataset**    | [https://zenodo.org/record/6046853](https://zenodo.org/record/6046853)  |
 | **Document type**       | newspaper (mid-19C to mid 20C) |
 | **Languages**           |French |
 | **Annotation guidelines** | Aligned on Quaero guidelines, see paper |
