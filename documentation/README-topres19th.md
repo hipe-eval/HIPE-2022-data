@@ -1,6 +1,6 @@
 # TopRes19th dataset
 
-### Profile
+### Dataset profile
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
@@ -8,7 +8,7 @@
 | **Document type**       | newspaper (19C) |
 | **Languages**           | English |
 | **Annotation guidelines** | see README in original release and below |
-| **Annotation tool**     | INCEpTION |
+| **Annotation tool**     | [INCEpTION](https://inception-project.github.io/) |
 | **Original format and tagging scheme** | WebAnno 2.3 |
 | **Annotations**          | NERC, EL (towards Wikipedia) |
 | **Version (used in HIPE-2022)**   | v2 |
@@ -18,7 +18,7 @@
 
 ### Entity tagset 
 
-The _topres19th_ dataset focuses exclusively on toponyms.
+The topres19th dataset focuses exclusively on toponyms.
 
 | Coarse-grained tagset | Fine-grained tagset | Nesting applies | Linking applies | 
 | ------| ------------| --------| --------|
@@ -44,19 +44,19 @@ Type explanation (from original release guidelines):
 
 ### HIPE-2022 Tasks and Challenges
 
-The _topres19th_ dataset can be used for:    
+The *topres19th* dataset can be used for:    
 
 - **Tasks**: NERC-Coarse,  NEL.
-- **Challenges**: Multilingual Newspaper Coarse, Global Adaptation Coarse.
+- **Challenges**: Multilingual Newspaper Coarse (MNC), Global Adaptation Coarse (GAC).
 
 
 ### Specificities and important information
 
-- **Guidelines:** topres19th annotation guidelines are ad hoc. 
-- **Documents:** topres19th documents corresponds to newspaper articles.
-- **Metadata:** topres19th has rich metadata, reported in the HIPE-2022 converted files.
+- **Guidelines:** *topres19th* annotation guidelines are ad hoc. 
+- **Documents:** *topres19th* documents corresponds to newspaper articles.
+- **Metadata:** *topres19th* has rich metadata, reported in the HIPE-2022 converted files.
 - **Sentence splitting:** performed automatically on OCRed text (performances not perfect).
 - **Entity linking and metonymic sense:** originally towards Wikipedia, mapped to Wikidata during HIPE-2022 conversion.
 - **Known glitches:**
-	-  ...
+	-  none at present
 
