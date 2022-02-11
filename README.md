@@ -40,7 +40,7 @@ A HIPE-2022 release corresponds to a single package composed of neatly structure
 - conversion to the HIPE format (with correction of data inconsistencies and metadata consolidation);
 - rearrangement or composition of train and dev splits.
 
-### Directory structure and naming conventions
+### Directory structure, naming conventions and versioning:
 
 HIPE-2022 data directory is organised per HIPE release version, dataset and language, as follows:
 
@@ -144,15 +144,16 @@ Datasets and their annotation types:
 
 | NE annotation type | ajmc | hipe2020 | letemps  | topres19th | newseye | sonar |
 |---------|---------|---------|---------|---------|---------|---------|
-|  NE-COARSE-LIT  | x  | x  |  x | x  | x  |  x |
-|  NE-COARSE-METO |    |    |    |    |    |    | 
-|  NE-FINE-LIT    | x   |    |    |    |    |    | 
-|  NE-FINE-METO   |    |    |    |    |    |    | 
-|  NE-FINE-COMP   |    |    |    |    |    |    | 
-|  NE-NESTED      |  x  |    |    |    |    |    | 
-|  NEL-LIT        |  x |  x |    |  x | x  |  x | 
-|  NEL-METO       |    |    |    |    |    |    |
+|  NE-COARSE-LIT     | x  | x    |  x | x  | x* |  x |
+|  NE-COARSE-METO    | x  | x    |    |    |    |    | 
+|  NE-FINE-LIT       | x  | x    |  x |    | x* |    | 
+|  NE-FINE-METO      |    | x    |    |    |    |    | 
+|  NE-FINE-COMP      |    | x    |    |    |    |    | 
+|  NE-NESTED         |  x | x    |  x |    | x  |    | 
+|  NEL-LIT           |  x | x    |  x |  x | x* |  x | 
+|  NEL-METO          |    | x    |    |    |    |    |
 
+*: For this dataset, this column includes the metonymic sense when present.
 
 Given its wide scope in terms of languages and datasets, **HIPE-2022 tasks only focuses on a selection of NE annotation types** (in contrast to CLEF-HIPE-2020 which focused on fine-grained NE processing).
 
