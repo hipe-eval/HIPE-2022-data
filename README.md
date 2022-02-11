@@ -144,10 +144,10 @@ Datasets and their annotation types:
 |---------|---------|---------|---------|---------|---------|---------|
 |  NE-COARSE-LIT  | x  | x  |  x | x  | x  |  x |
 |  NE-COARSE-METO |    |    |    |    |    |    | 
-|  NE-FINE-LIT    |    |    |    |    |    |    | 
+|  NE-FINE-LIT    | x   |    |    |    |    |    | 
 |  NE-FINE-METO   |    |    |    |    |    |    | 
 |  NE-FINE-COMP   |    |    |    |    |    |    | 
-|  NE-NESTED      |    |    |    |    |    |    | 
+|  NE-NESTED      |  x  |    |    |    |    |    | 
 |  NEL-LIT        |  x |  x |    |  x | x  |  x | 
 |  NEL-METO       |    |    |    |    |    |    |
 
