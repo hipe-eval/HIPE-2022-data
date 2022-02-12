@@ -1,21 +1,10 @@
 # HIPE-2022-data
 
-[HIPE 2022 shared task](https://hipe-eval.github.io/HIPE-2022/) is a [CLEF 2022 Evaluation Lab](https://clef2022.clef-initiative.eu/) which focuses on the tasks of **named entity recognition and classification (NERC) and entity linking (EL) in multilingual historical documents**. Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) evaluation lab on historical newspapers in three languages, HIPE-2022 is based on diverse datasets and aims at confronting systems with the challenges of **dealing with more languages, learning domain-specific entities, and adapting to diverse annotation tag sets**. The main objective is to gain new insights into the _transferability_ of named entity processing approaches across languages, time periods, document types, and annotation tag sets.
+[HIPE 2022 shared task](https://hipe-eval.github.io/HIPE-2022/) is a [CLEF 2022 Evaluation Lab](https://clef2022.clef-initiative.eu/) on **named entity recognition and classification (NERC) and entity linking (EL) in multilingual historical documents**. Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) evaluation lab on historical newspapers in three languages, HIPE-2022 is based on diverse datasets and aims at confronting systems with the challenges of **dealing with more languages, learning domain-specific entities, and adapting to diverse annotation tag sets**. The objective is to gain new insights into the _transferability_ of named entity processing approaches across languages, time periods, document types, and annotation tag sets.
 
 Please refer to:    
 - :computer: the [website](https://hipe-eval.github.io/HIPE-2022/) for general information on the shared task and registration;    
-- :notebook: the [participation guidelines]() for detailed information on the tasks, datasets and evaluation settings.
-
-**CONTENTS**
-
-- [Primary datasets](README.md#primary-datasets)    
-- [HIPE-2022 releases (structure, format, tagging scheme)](README.md#HIPE-2022-releases)   
-- [HIPE-2022 NE annotation types](README.md#HIPE-2022-NE-annotation-types)
-- [Entity tagsets](README.md#HIPE-2022-primary-dataset-entity-tagsets)      
-- [Primary datasets to HIPE-2022: mapping overview](README.md#Primary-datasets-to-HIPE-2022:-mapping-overview)
-- [References](README.md#acknowledgments)
-- [Acknowledgments](README.md#acknowledgments)    
-
+- :notebook: the [participation guidelines](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings.
 
 
 ## Primary datasets
@@ -31,14 +20,34 @@ HIPE-2022 primary datasets are composed of historical newspapers and classic com
 | newseye    | [link](documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC-Coarse, NERC-Fine, EL |  [NewsEye](https://www.newseye.eu/) | 
 | sonar      | [link](documentation/README-sonar.md) | historical newspapers  | de | NERC-Coarse, EL |  [SoNAR](https://sonar.fh-potsdam.de/)  |
 
-**Licenses:** The primary datasets which compose HIPE-2022 data are released under different licenses, please refer to each dataset specific README.
 
 
 ## HIPE-2022 releases 
 
-A HIPE-2022 release corresponds to a single package composed of neatly structured and homogeneously formatted datasets of diverse origins. Primary datasets undergo the following preparation steps:
+A HIPE-2022 release corresponds to a single package composed of neatly structured and homogeneously formatted primary datasets of diverse origins. Primary datasets undergo the following preparation steps:
 - conversion to the HIPE format (with correction of data inconsistencies and metadata consolidation);
 - rearrangement or composition of train and dev splits.
+
+### License(s):
+
+**HIPE-2022 data** is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+The **primary datasets** which compose HIPE-2022 data are released under different licenses as listed below and mentioned in each dataset-pecific README:
+
+- ajmc:
+- hipe2020: [Creative Commons Attribution Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+- letemps: [Creative Commons Attribution Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+- topres19th: [CC BY-NC-SA 4.0 Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+- newseye: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)  [![CC BY 4.0][cc-by-shield]][cc-by]
+- sonar: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)  [![CC BY 4.0][cc-by-shield]][cc-by]
+
+
 
 ### Directory structure, naming conventions and versioning:
 
@@ -115,16 +124,16 @@ Metadata blocks uses name spacing to distinguish between mandatory HIPE-2022 met
 
 Each annotated line consists of 10 columns:
 
-- `TOKEN`: the annotated token.
-- `NE-COARSE-LIT`: the coarse type (IOB-type) of the entity mention token, according to the literal sense.
-- `NE-COARSE-METO`: the coarse type (IOB-type) of the entity mention token, according to the metonymic sense.
-- `NE-FINE-LIT`: the fine-grained type (IOB-type.subtype.subtype) of the entity mention token, according to the literal sense.
-- `NE-FINE-METO`: the fine-grained type (IOB-type.subtype.subtype) of the entity mention token, according to the metonymic sense.
-- `NE-FINE-COMP`: the component type of the entity mention token.
-- `NE-NESTED`: the coarse type of the nested entity (if any).
-- `NEL-LIT`: the Wikidata Qid of the literal sense, or `NIL`.
-- `NEL-METO`: the Wikidata Qid of the metonymic sense, or `NIL`.
-- `MISC`: a flag which can take the following values:
+1. `TOKEN`: the annotated token.
+2. `NE-COARSE-LIT`: the coarse type (IOB-type) of the entity mention token, according to the literal sense.
+3. `NE-COARSE-METO`: the coarse type (IOB-type) of the entity mention token, according to the metonymic sense.
+4. `NE-FINE-LIT`: the fine-grained type (IOB-type.subtype.subtype) of the entity mention token, according to the literal sense.
+5. `NE-FINE-METO`: the fine-grained type (IOB-type.subtype.subtype) of the entity mention token, according to the metonymic sense.
+6. `NE-FINE-COMP`: the component type of the entity mention token.
+7. `NE-NESTED`: the coarse type of the nested entity (if any).
+8. `NEL-LIT`: the Wikidata Qid of the literal sense, or `NIL` if an entity cannot be linked. Rows without link annotations have value `_’.
+9. `NEL-METO`: the Wikidata Qid of the metonymic sense, or `NIL`.
+10. `MISC`: a flag which can take the following values:
     - `NoSpaceAfter`, to indicate the absence of white space after the token.
     - `EndOfLine`, to indicate the end of a layout line.
     - `EndOfSentence`, to indicate the end of a sentence.
@@ -168,6 +177,13 @@ Overview of HIPE-2022 tasks and their annotation types:
 
 The annotation types `NE-COARSE-METO, NE-FINE-METO, NE-FINE-COMP` are not considered in HIPE-2022 tasks and evaluation scenarios but are left in the IOB files when present with a dataset, for systems to use this information if beneficial.
 
+## HIPE-2022 Evaluation
+
+To accommodate the different dimensions that characterize the HIPE-2022 Evaluation Lab (tasks, languages, document types, entity tag sets) and foster research on transferability, the evaluation lab is organized around **challenges** and **tracks**. 
+
+An overview of the evaluation settings is given below; refer to the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) for more information.
+
+![](./documentation/HIPE2022-EvaluationSettingOverview.png)
 
 ## HIPE-2022 Primary Dataset Entity Tagsets
 
