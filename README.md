@@ -135,7 +135,7 @@ Non-specified values are marked by the underscore character (`_`).
 Since they were created according to different annotation schemes, datasets do not systematically include all columns. Applicable columns for a dataset are specified in each document metadata. When a column does not apply for a specific dataset, all its values are `_`.     
 
 
-## HIPE-2022 NE annotation types
+### HIPE-2022 NE annotation types
 
 HIPE-2022 annotation scheme originates from the CLEF-HIPE-2020 shared task and contains detailed named entity annotation types (reflected in the IOB file columns and presented above). All HIPE-2022 primary datasets do not necessarily have all annotation types. 
 
@@ -167,6 +167,10 @@ Overview of HIPE-2022 tasks and their annotation types:
 | NEL | NEL-LIT | 
 
 The annotation types `NE-COARSE-METO, NE-FINE-METO, NE-FINE-COMP` are not considered in HIPE-2022 tasks and evaluation scenarios but are left in the IOB files when present with a dataset, for systems to use this information if beneficial.
+
+### Dataset statistics
+
+Available via this [jupyter notebook]().
 
 ## HIPE-2022 Evaluation
 
