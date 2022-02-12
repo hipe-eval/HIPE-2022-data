@@ -4,10 +4,10 @@
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| **Original dataset**    |[https://zenodo.org/record/4573313](https://zenodo.org/record/4573313)  |
+| **Original dataset**    |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4573313.svg)](https://doi.org/10.5281/zenodo.4573313)|
 | **Document type**       | newspaper (mid-19C to mid 20C) |
 | **Languages**           |Finnish, French, German, Swedish |
-| **Annotation guidelines** |[https://zenodo.org/record/4574199](https://zenodo.org/record/4574199)  |
+| **Annotation guidelines** |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4574199.svg)](https://doi.org/10.5281/zenodo.4574199)  |
 | **Annotation tool**     |transkribus |
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata, unknown dump) |

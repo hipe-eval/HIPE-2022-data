@@ -7,7 +7,7 @@
 | **Original dataset**    | not available yet  |
 | **Document type**       | newspaper (mid-19C to mid 20C) |
 | **Languages**           | German |
-| **Annotation guidelines** |[https://zenodo.org/record/5116015#.YgTt0N_MKUk](https://zenodo.org/record/5116015#.YgTt0N_MKUk)  |
+| **Annotation guidelines** |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5116015.svg)](https://doi.org/10.5281/zenodo.5116015)  |
 | **Annotation tool**     | [neat](https://github.com/qurator-spk/neat/blob/master/README.md#22-data-format) |
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata, unknown dump) |

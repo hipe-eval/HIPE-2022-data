@@ -4,17 +4,19 @@
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| **Original dataset**    | UPDATE ZENODO LINK |
+| **Original dataset**    | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6046853.svg)](https://doi.org/10.5281/zenodo.6046853) |
 | **Document type**       | newspaper (mid-19C to mid 20C) |
 | **Languages**           | English, French, German |
-| **Annotation guidelines** |[impresso HIPE-2020 NE Annotation Guidelines](https://zenodo.org/record/3585750)  |
-| **Annotation tool**     | [neat](https://github.com/qurator-spk/neat/blob/master/README.md#22-data-format) |
+| **Annotation guidelines** |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3585750.svg)](https://doi.org/10.5281/zenodo.3585750)|
+| **Annotation tool**     | [INCEpTION](https://inception-project.github.io/) |
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata, dump of [2019.11.13](https://files.ifi.uzh.ch/cl/siclemat/impresso/clef-hipe-2020/wikidata-2019-11-13.nt.bz2) ) |
-| **Version (used in HIPE-2022)**   | v1.4 |
+| **Version (used in HIPE-2022)**   | `v1.4` |
 | **Paper**               |[Overview of CLEF-HIPE-2020](https://dl.acm.org/doi/abs/10.1007/978-3-030-58219-7_21), [Extended Overview of CLEF-HIPE-2020](https://infoscience.epfl.ch/record/281054)|
-| **License** | UPDATE |
+| **License** | [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]|
 
+
+ 
 
 ### Entity tagset 
 
