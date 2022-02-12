@@ -1,24 +1,36 @@
 # HIPE-2022-data
 
-[HIPE 2022 shared task](https://hipe-eval.github.io/HIPE-2022/) is a [CLEF 2022 Evaluation Lab](https://clef2022.clef-initiative.eu/) on **named entity recognition and classification (NERC) and entity linking (EL) in multilingual historical documents**. Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) evaluation lab on historical newspapers in three languages, HIPE-2022 is based on diverse datasets and aims at confronting systems with the challenges of **dealing with more languages, learning domain-specific entities, and adapting to diverse annotation tag sets**. The objective is to gain new insights into the _transferability_ of named entity processing approaches across languages, time periods, document types, and annotation tag sets.
+[HIPE 2022 shared task](https://hipe-eval.github.io/HIPE-2022/) is a [CLEF 2022 Evaluation Lab](https://clef2022.clef-initiative.eu/) on **named entity recognition and classification (NERC) and entity linking (EL) in multilingual historical documents**.     
+
+Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) evaluation lab on historical newspapers in three languages, HIPE-2022 is based on diverse datasets and aims at confronting systems with the challenges of **dealing with more languages, learning domain-specific entities, and adapting to diverse annotation tag sets**. The objective is to gain new insights into the _transferability_ of named entity processing approaches across languages, time periods, document types, and annotation tag sets.
 
 Please refer to:    
 - :computer: the [website](https://hipe-eval.github.io/HIPE-2022/) for general information on the shared task and registration;    
-- :notebook: the [participation guidelines](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings.
+- :notebook: the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6045662.svg)](https://doi.org/10.5281/zenodo.6045662)
+
+
+HIPE-2022 data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
 ## Primary datasets
 
 HIPE-2022 primary datasets are composed of historical newspapers and classic commentaries covering ca. 200 years, feature several languages and different entity tag sets and annotation schemes. They originate from several European cultural heritage projects, from HIPE organisers’ previous research project, and from the previous HIPE-2020 campaign. Some are already published, others are released for the first time for HIPE-2022.
 
-| Dataset alias | README | Document type | Languages |  Suitable for | Project | 
-|---------|---------|---------------|-----------| ---------------|---------------|
+| Dataset alias | README | Document type | Languages |  Suitable for | Project | License |
+|---------|---------|---------------|-----------| ---------------|---------------| ---------------|
 | ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC-Coarse, NERC-Fine, EL | AjMC |
-| hipe2020   | [link](documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC-Coarse, NERC-Fine, EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)|
-| letemps    | [link](documentation/README-letemps.md) | historical newspapers    | fr | NERC-Coarse, NERC-Fine | LeTemps |
-| topres19th | [link](documentation/README-topres19th.md) | historical newspapers | en | NERC-Coarse, EL |[Living with Machines](https://livingwithmachines.ac.uk/) |
-| newseye    | [link](documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC-Coarse, NERC-Fine, EL |  [NewsEye](https://www.newseye.eu/) | 
-| sonar      | [link](documentation/README-sonar.md) | historical newspapers  | de | NERC-Coarse, EL |  [SoNAR](https://sonar.fh-potsdam.de/)  |
+| hipe2020   | [link](documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC-Coarse, NERC-Fine, EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)| [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| letemps    | [link](documentation/README-letemps.md) | historical newspapers    | fr | NERC-Coarse, NERC-Fine | LeTemps | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| topres19th | [link](documentation/README-topres19th.md) | historical newspapers | en | NERC-Coarse, EL |[Living with Machines](https://livingwithmachines.ac.uk/) | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| newseye    | [link](documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC-Coarse, NERC-Fine, EL |  [NewsEye](https://www.newseye.eu/) |  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
+| sonar      | [link](documentation/README-sonar.md) | historical newspapers  | de | NERC-Coarse, EL |  [SoNAR](https://sonar.fh-potsdam.de/)  | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 
 
@@ -27,27 +39,6 @@ HIPE-2022 primary datasets are composed of historical newspapers and classic com
 A HIPE-2022 release corresponds to a single package composed of neatly structured and homogeneously formatted primary datasets of diverse origins. Primary datasets undergo the following preparation steps:
 - conversion to the HIPE format (with correction of data inconsistencies and metadata consolidation);
 - rearrangement or composition of train and dev splits.
-
-### License(s):
-
-**HIPE-2022 data** is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-The **primary datasets** which compose HIPE-2022 data are released under different licenses as listed below and mentioned in each dataset-pecific README:
-
-- ajmc:
-- hipe2020: [Creative Commons Attribution Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-- letemps: [Creative Commons Attribution Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-- topres19th: [CC BY-NC-SA 4.0 Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-- newseye: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)  [![CC BY 4.0][cc-by-shield]][cc-by]
-- sonar: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)  [![CC BY 4.0][cc-by-shield]][cc-by]
-
-
 
 ### Directory structure, naming conventions and versioning:
 
@@ -181,28 +172,37 @@ The annotation types `NE-COARSE-METO, NE-FINE-METO, NE-FINE-COMP` are not consid
 
 To accommodate the different dimensions that characterize the HIPE-2022 Evaluation Lab (tasks, languages, document types, entity tag sets) and foster research on transferability, the evaluation lab is organized around **challenges** and **tracks**. 
 
-An overview of the evaluation settings is given below; refer to the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) for more information.
+An overview of the evaluation settings is given below; refer to the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) for more information (entity tagsets, evalaution metrics, etc.).
 
 ![](./documentation/HIPE2022-EvaluationSettingOverview.png)
 
-## HIPE-2022 Primary Dataset Entity Tagsets
+## Acknowledgements
 
-HIPE-2022 datasets feature different entity tagsets. In practice, datasets are converted to the HIPE *format*, but the entity tagsets are left untouched.
-
-
-
-## Additional resources
-
-To be updated soon.
-
-
-## Primary datasets to HIPE-2022: mapping overview
-
-![](./documentation/HIPE2022-Dataset-Mapping.png)
+The HIPE 2022 organizing team expresses her greatest appreciation to the CLEF-2022 Lab Organising Committee for the overall organization, to the members of the HIPE-2022 advisory board, namely Sally Chambers, Frédéric Kaplan and Clemens Neudecker, for their support, and to the partnering projects, namely AJMC, impresso-HIPE-2020, Living with Machines, NewsEye, and SoNAR, for contributing (and hiding) their NE-annotated datasets.
 
 ## References
 
-## Acknowledgements
+[1]    M. Ehrmann, A. Hamdi, E. L. Pontes, M. Romanello, and A. Doucet, [Named Entity Recognition and Classification on Historical Documents: A Survey](http://arxiv.org/abs/2109.11406) ArXiv210911406, Sep. 2021. 
+
+[2]    M. Ehrmann, M. Romanello, A. Flückiger, and S. Clematide, [Extended Overview of CLEF HIPE 2020: Named Entity Processing on Historical Newspapers](https://infoscience.epfl.ch/record/281054) in Working Notes of CLEF 2020 - Conference and Labs of the Evaluation Forum, Thessaloniki, Greece, 2020, vol. 2696, p. 38. doi: 10.5281/zenodo.4117566. 
+
+[3]    A. Hamdi et al., [A Multilingual Dataset for Named Entity Recognition, Entity Linking and Stance Detection in Historical Newspapers](https://doi.org/10.1145/3404835.3463255) in Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, New York, NY, USA, Jul. 2021, pp. 2328–2334. 
+
+[4]    M. Ehrmann, G. Colavizza, Y. Rochat, and F. Kaplan, [Diachronic evaluation of NER systems on old newspapers](https://infoscience.epfl.ch/record/221391) in Proceedings of the 13th Conference on Natural Language Processing (KONVENS 2016), Bochum, 2016, pp. 97–107.
+
+[5]    M. C. Ardanuy et al., [A Dataset for Toponym Resolution in Nineteenth-Century English Newspapers](http://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/) J. Open Humanit. Data, vol. 8, Jan. 2022, doi: 10.5334/johd.56. 
+
+[6]    M. Romanello, N.-M. Sven, and R. Bruce, [Optical Character Recognition of 19th Century Classical Commentaries: the Current State of Affairs](https://doi.org/10.1145/3476887.3476911) in The 6th International Workshop on Historical Document Imaging and Processing, New York, NY, USA, Sep. 2021, pp. 1–6. doi: 10.1145/3476887.3476911.
+
+[7] CLEF-HIPE-2020 Participant Papers in [Working Notes of CLEF 2020 - Conference and Labs of the Evaluation Forum](http://ceur-ws.org/Vol-2696/), edited by Linda Cappellato, Carsten Eickhoff, Nicola Ferro, Aurélie Névéol.
+
+[8] CLEF-HIPE-2020 Workshop [Presentation Video Recordings](https://www.youtube.com/playlist?list=PLB45F159nVx-3bee7G_1jdTfUAtsLD0FU)
+
+
+## Appendix: Overview of Mapping of Primary Dataset to HIPE-2022
+
+![](./documentation/HIPE2022-Dataset-Mapping.png)
+
 
 
 
