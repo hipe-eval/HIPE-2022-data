@@ -37,6 +37,7 @@ The *sonar* dataset can be used for:
 ### Specificities and important information
 
 - **Documents:** sonar documents corresponds to newspaper articles (UPDATE)
+- **Train set:** for this dataset, there is no training set. Only a dev set that is representative for the test set in terms of newspapers and periods.
 - **Sentence splitting:** performed automatically on OCRed text (performances not perfect) (UPDATE).
 - **Entity linking and metonymic sense:** only one linking annotation exists per linked entity. 
 - **Known glitches:**
@@ -45,3 +46,4 @@ The *sonar* dataset can be used for:
 **HIPE-2022 v1.0 release notes**
 
 - EL annotation are not present in current sonar file and will be added in the next release.
+
