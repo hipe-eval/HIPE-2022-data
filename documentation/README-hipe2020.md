@@ -56,6 +56,7 @@ The *hipe2020* dataset can be used for:
 ### Specificities and important information
 
 - **Documents:** *hipe2020* documents corresponds to newspaper articles.
+- **Train set:** for this dataset, there is no training set. Only a dev set that is representative for the test set in terms of newspapers and periods.
 - **Sentence splitting:** performed automatically on OCRed text using pySBD (performances not perfect).
 - **Metonymic sense:** literal and metonymic annotations are in separated columns. 
 - **Known glitches:**
