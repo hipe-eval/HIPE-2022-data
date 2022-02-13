@@ -49,7 +49,7 @@
 
 The *hipe2020* dataset can be used for:    
 
-- **Tasks**: NERC-Coarse,  NEL.
+- **Tasks**: NERC-Coarse, NERC-Fine, NEL.
 - **Challenges**: Multilingual Newspaper Coarse (MNC), Multilingual Newspaper Fine (MNF), Global Adaptation Coarse (GAC).
 
 
@@ -59,6 +59,6 @@ The *hipe2020* dataset can be used for:
 - **Sentence splitting:** performed automatically on OCRed text using pySBD (performances not perfect).
 - **Metonymic sense:** literal and metonymic annotations are in separated columns. 
 - **Known glitches:**
-	 - none at present
+	 - some negative offsets in Partial are wrong/off
 
 **HIPE-2022 v1.0 release notes**
