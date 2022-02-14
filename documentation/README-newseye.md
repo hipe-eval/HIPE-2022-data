@@ -12,7 +12,7 @@
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata, unknown dump) |
 | **Version (used in HIPE-2022)**   | v1.0 |
-| **Paper**               |[link](https://dl.acm.org/doi/abs/10.1145/3404835.3463255)  |
+| **Related publication**               |[Link](https://dl.acm.org/doi/abs/10.1145/3404835.3463255)  |
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 
@@ -31,18 +31,19 @@
 The *newseye* dataset can be used for:    
 
 - **Tasks**: NERC-Coarse, NERC-Fine, NEL.
-- **Challenges**: Multilingual Newspaper Coarse (MNC), Multilingual Newspaper Fine (MNF), Global Adaptation Coarse (GAC).
+- **Challenges**: Multilingual Newspaper Coarse, Multilingual Newspaper Fine, Global Adaptation Coarse.
 
 
 ### Specificities and important information
 
-- **Guidelines:** newseye annotation guidelines are compatible with the HIPE-2020 impresso guidelines (except for the consideration of metonymic sense for entity linking, see participation guidelines p. 12).
+- **Annotation guidelines:** mostly compatible with *hipe2020* dataset (except for the consideration of metonymic sense for entity linking, see participation guidelines p. 12).
 - **Documents:** newseye documents corresponds to newspaper pages.
 - **Document IDs:** document ID were added during HIPE-2022 conversion and are composed of: `split_language_docNumber (in file)`. 
 - **Sentence splitting:** performed automatically on OCRed text (performances not perfect).
 - **Entity linking and metonymic sense:** only one linking annotation exists per linked entity. 
 - **Known glitches:**
 	-  309 lines/tokens across all datasets in all languages contain the `###` subword marker.
+	-  at conversion time, some missing tab (`\t`) and malformed Wikidata QID were manually corrected.
 
 
 	

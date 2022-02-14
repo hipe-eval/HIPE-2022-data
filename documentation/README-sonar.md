@@ -4,7 +4,7 @@
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| **Original dataset**    | not available yet  |
+| **Original dataset**    | DOI not available yet  |
 | **Document type**       | newspaper (mid-19C to mid 20C) |
 | **Languages**           | German |
 | **Annotation guidelines** |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5116015.svg)](https://doi.org/10.5281/zenodo.5116015)  |
@@ -12,7 +12,7 @@
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (originally towards Wikipedia page URLS, mapped to wikidata IDs with [wikimapper](https://pypi.org/project/wikimapper/) and our own recent [DB dump (2022) ](https://files.ifi.uzh.ch/cl/siclemat/hipe-2022/data/wikimapper/index_enwiki-latest.db) |
 | **Version (used in HIPE-2022)**   | v1.0 |
-| **Paper**               |[link](https://doi.org/10.1515/9783110691597-012)  |
+| **Related publication**               |[Link](https://doi.org/10.1515/9783110691597-012)  |
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 
@@ -31,7 +31,7 @@ N.B. SoNAR guidelines indicate other possible entity types but they are not pres
 The *sonar* dataset can be used for:    
 
 - **Tasks**: NERC-Coarse,  NEL.
-- **Challenges**: Multilingual Newspaper Coarse (MNC), Multilingual Newspaper Fine (MNF), Global Adaptation Coarse (GAC).
+- **Challenges**: Multilingual Newspaper Coarse, Global Adaptation Coarse.
 
 
 ### Specificities and important information

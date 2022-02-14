@@ -12,7 +12,7 @@
 | **Original format and tagging scheme** | WebAnno 2.3 |
 | **Annotations**          | NERC, EL (towards Wikipedia) |
 | **Version (used in HIPE-2022)**   | v2 |
-| **Paper**               |[link](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/)  |
+| **Related publication**               |[Link](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/)  |
 | **License**              |[CC BY-NC-SA 4.0 Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)  |
 
 
@@ -47,12 +47,11 @@ Type explanation (from original release guidelines):
 The *topres19th* dataset can be used for:    
 
 - **Tasks**: NERC-Coarse,  NEL.
-- **Challenges**: Multilingual Newspaper Coarse (MNC), Global Adaptation Coarse (GAC).
+- **Challenges**: Multilingual Newspaper Coarse, Global Adaptation Coarse.
 
 
 ### Specificities and important information
-
-- **Guidelines:** *topres19th* annotation guidelines are ad hoc. 
+ 
 - **Documents:** *topres19th* documents corresponds to newspaper articles.
 - **Metadata:** *topres19th* has rich metadata, reported in the HIPE-2022 converted files.
 - **Sentence splitting:** performed automatically on OCRed text (performances not perfect).

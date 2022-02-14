@@ -12,7 +12,7 @@
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata) |
 | **Version (used in HIPE-2022)**   | `v1.0` |
-| **Paper**               | – |
+| **Related publication**               | – |
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) |
 
 
@@ -52,7 +52,7 @@ For this dataset, we annotated randomly selected pages from three 19th century c
 The *ajmc* dataset can be used for:    
 
 - **Tasks**: NERC-Coarse, NERC-Fine, NEL.
-- **Challenges**: Multilingual Classical Commentary Challenge (MCC), Global Adaptation Challenge (GAC).
+- **Challenges**: Multilingual Classical Commentary Challenge, Global Adaptation Challenge.
 
 
 ### Specificities and important information
