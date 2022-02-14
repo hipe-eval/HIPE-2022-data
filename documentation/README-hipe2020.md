@@ -13,7 +13,7 @@
 | **Annotations**          | NERC, EL (towards Wikidata, dump of [2019.11.13](https://files.ifi.uzh.ch/cl/siclemat/impresso/clef-hipe-2020/wikidata-2019-11-13.nt.bz2) ) |
 | **Version (used in HIPE-2022)**   | `v1.4` |
 | **Paper**               |[Overview of CLEF-HIPE-2020](https://dl.acm.org/doi/abs/10.1007/978-3-030-58219-7_21), [Extended Overview of CLEF-HIPE-2020](https://infoscience.epfl.ch/record/281054)|
-| **License** | [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]|
+| **License** | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
 
 
  
