@@ -2238,6 +2238,7 @@ dieser	O	_	O	_	_	O	_	_	_
 Notiz	O	_	O	_	_	O	_	_	_
 gebeten	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_2290
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -5030,6 +5031,7 @@ bis	O	_	O	_	_	O	_	_	_
 Uhr	O	_	O	_	_	O	_	_	_
 geschlossen	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_5211
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
@@ -7902,6 +7904,7 @@ gegen	O	_	O	_	_	O	_	_	_
 Vorwärts	O	_	O	_	_	O	_	_	_
 aus	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_8206
 # hipe2022:date = 1864-07-02
 # hipe2022:language = de
@@ -10518,6 +10521,7 @@ und	O	_	O	_	_	O	_	_	_
 ihr	O	_	O	_	_	O	_	_	_
 Zuhälter	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_10865
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -12843,6 +12847,7 @@ Bl	O	_	O	_	_	O	_	_	NoSpaceAfter
 13350	O	_	O	_	_	O	_	_	NoSpaceAfter
 —	O	_	O	_	_	O	_	_	NoSpaceAfter
 3s1	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_13272
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
@@ -19302,6 +19307,7 @@ wieder	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 Danksagung	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_19923
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -21596,6 +21602,7 @@ Der	O	_	O	_	_	O	_	_	_
 Vorarlberger	B-LOC	_	O	_	_	O	Q38981	_	_
 Sender	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_22296
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
@@ -23999,6 +24006,7 @@ Mauer	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 14	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_24873
 # hipe2022:date = 1873-07-05
 # hipe2022:language = de
@@ -26732,6 +26740,7 @@ Szegedin	B-LOC	_	O	_	_	O	Q81581	_	_
 10˙7	O	_	O	_	_	O	_	_	NoSpaceAfter
 )	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_27703
 # hipe2022:date = 1895-07-06
 # hipe2022:language = de
@@ -33665,6 +33674,7 @@ Prag	B-LOC	_	O	_	_	O	NIL	_	_
 zu	O	_	O	_	_	O	_	_	_
 canalisiren	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_34923
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -36121,6 +36131,7 @@ von	O	_	O	_	_	O	_	_	_
 Mühlberg	O	_	O	_	_	O	_	_	_
 an	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_de_37463
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de

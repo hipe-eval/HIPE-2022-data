@@ -1165,6 +1165,7 @@ Ver¬	B-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter|EndOfLine
 einigten	I-LOC	_	O	_	_	O	NIL	_	_
 Staaten	I-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_1182
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -2928,6 +2929,7 @@ bleiben	O	_	O	_	_	O	_	_	_
 auch	O	_	O	_	_	O	_	_	_
 hier	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_2966
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
@@ -7076,6 +7078,7 @@ andern	O	_	O	_	_	O	_	_	_
 rechtsradikalen	O	_	O	_	_	O	_	_	_
 Verbände	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_7169
 # hipe2022:date = 1864-07-02
 # hipe2022:language = de
@@ -14727,6 +14730,7 @@ darstellt	O	_	O	_	_	O	_	_	NoSpaceAfter
 unmöglich	O	_	O	_	_	O	_	_	_
 sei	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_15020
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -18806,6 +18810,7 @@ der	O	_	O	_	_	O	_	_	_
 Triumphpforte	O	_	O	_	_	O	_	_	NoSpaceAfter
 )	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_19258
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
@@ -22756,6 +22761,7 @@ gegen	O	_	O	_	_	O	_	_	_
 Uhr	O	_	O	_	_	O	_	_	_
 ab	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_23271
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -27649,6 +27655,7 @@ Ansicht	O	_	O	_	_	O	_	_	NoSpaceAfter
 bestärken	O	_	O	_	_	O	_	_	_
 möge	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_28293
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
@@ -30480,6 +30487,7 @@ nicht	O	_	O	_	_	O	_	_	_
 zu	O	_	O	_	_	O	_	_	_
 haben	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_31271
 # hipe2022:date = 1873-07-05
 # hipe2022:language = de
@@ -32794,6 +32802,7 @@ Zunge	O	_	O	_	_	O	_	_	_
 zu	O	_	O	_	_	O	_	_	_
 präsentiren	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_33596
 # hipe2022:date = 1895-07-06
 # hipe2022:language = de
@@ -33403,6 +33412,7 @@ Jägerndorf	B-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 =Benisch	O	_	O	_	_	O	_	_	_
 ein	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_34231
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
@@ -35555,6 +35565,7 @@ weiß	O	_	O	_	_	O	_	_	NoSpaceAfter
 ich	O	_	O	_	_	O	_	_	_
 weiß	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_de_36441
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de

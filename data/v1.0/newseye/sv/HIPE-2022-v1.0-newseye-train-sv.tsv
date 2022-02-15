@@ -2902,6 +2902,7 @@ To	O	_	O	_	_	O	_	_	NoSpaceAfter
 -	O	_	O	_	_	O	_	_	NoSpaceAfter
 pelius	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_2960
 # hipe2022:date = 1900-03-31
 # hipe2022:language = sv
@@ -7472,6 +7473,7 @@ en	O	_	O	_	_	O	_	_	_
 annan	O	_	O	_	_	O	_	_	_
 gång	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_7639
 # hipe2022:date = 1908-08-25
 # hipe2022:language = sv
@@ -11009,6 +11011,7 @@ kvinnliga	O	_	O	_	_	O	_	_	NoSpaceAfter
 kursernas	O	_	O	_	_	O	_	_	_
 byggnad	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_11220
 # hipe2022:date = 1913-04-18
 # hipe2022:language = sv
@@ -14501,6 +14504,7 @@ manifesta	O	_	O	_	_	O	_	_	NoSpaceAfter
 tionens	O	_	O	_	_	O	_	_	_
 efterspel	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_14771
 # hipe2022:date = 1911-10-18
 # hipe2022:language = sv
@@ -17185,6 +17189,7 @@ Albula	B-LOC	_	O	_	_	O	Q691069	_	_
 och	O	_	O	_	_	O	_	_	_
 Tauerntunnlarna	B-LOC	_	O	_	_	O	Q697537	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_17502
 # hipe2022:date = 1916-02-18
 # hipe2022:language = sv
@@ -20253,6 +20258,7 @@ till	O	_	O	_	_	O	_	_	_
 Durazzos	B-LOC	_	O	_	_	O	Q3303198	_	_
 hanm	I-LOC	_	O	_	_	O	Q3303198	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	EndOfSentence
+
 # hipe2022:document_id = train_sv_20642
 # hipe2022:date = 1899-07-22
 # hipe2022:language = sv
@@ -21427,6 +21433,7 @@ i	I-LOC	_	O	_	_	O	Q4411002	_	_
 Nådendals	I-LOC	_	O	_	_	O	Q4411002	_	_
 törsamling	I-LOC	_	O	_	_	O	Q4411002	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_21834
 # hipe2022:date = 1916-02-26
 # hipe2022:language = sv
@@ -24449,6 +24456,7 @@ a	I-LOC	_	O	_	_	O	Q662810	_	NoSpaceAfter
 -	I-LOC	_	O	_	_	O	Q662810	_	NoSpaceAfter
 Py	I-LOC	_	O	_	_	O	Q662810	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	EndOfSentence
+
 # hipe2022:document_id = train_sv_24927
 # hipe2022:date = 1867-02-20
 # hipe2022:language = sv
@@ -26168,6 +26176,7 @@ till	O	_	O	_	_	O	_	_	_
 sitt	O	_	O	_	_	O	_	_	_
 jagtslott	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_26674
 # hipe2022:date = 1874-02-20
 # hipe2022:language = sv
@@ -27970,6 +27979,7 @@ må	O	_	O	_	_	O	_	_	_
 ej	O	_	O	_	_	O	_	_	_
 gillas	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_28497
 # hipe2022:date = 1883-01-26
 # hipe2022:language = sv
@@ -31723,6 +31733,7 @@ något	O	_	O	_	_	O	_	_	_
 så	O	_	O	_	_	O	_	_	_
 galet	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_32293
 # hipe2022:date = 1848-07-21
 # hipe2022:language = sv
@@ -32939,6 +32950,7 @@ kop	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 silfwer	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_33527
 # hipe2022:date = 1851-06-20
 # hipe2022:language = sv
@@ -33979,6 +33991,7 @@ upphöra	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 Förf	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_34569
 # hipe2022:date = 1853-08-26
 # hipe2022:language = sv
@@ -35135,6 +35148,7 @@ att	O	_	O	_	_	O	_	_	_
 uttrycka	O	_	O	_	_	O	_	_	_
 tankar	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_35725
 # hipe2022:date = 1858-07-20
 # hipe2022:language = sv
@@ -36636,6 +36650,7 @@ ordens	I-ORG	_	O	_	_	O	NIL	_	_
 tredje	O	_	O	_	_	O	_	_	_
 klaß	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_37232
 # hipe2022:date = 1860-01-21
 # hipe2022:language = sv
@@ -38386,6 +38401,7 @@ till	O	_	O	_	_	O	_	_	_
 densammas	O	_	O	_	_	O	_	_	_
 hämmande	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_38998
 # hipe2022:date = 1863-07-25
 # hipe2022:language = sv
@@ -41466,6 +41482,7 @@ den	O	_	O	_	_	O	_	_	_
 juli	O	_	O	_	_	O	_	_	_
 1861	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_42108
 # hipe2022:date = 1871-07-20
 # hipe2022:language = sv
@@ -44020,6 +44037,7 @@ nuvarande	O	_	O	_	_	O	_	_	_
 provisoriska	O	_	O	_	_	O	_	_	NoSpaceAfter
 tillståndet	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_44693
 # hipe2022:date = 1876-11-18
 # hipe2022:language = sv
@@ -48200,6 +48218,7 @@ S	I-PER	_	O	_	_	O	Q11893509	_	NoSpaceAfter
 .	I-PER	_	O	_	_	O	Q11893509	_	_
 Hirwonen	I-PER	_	O	_	_	O	Q11893509	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_48935
 # hipe2022:date = 1886-07-24
 # hipe2022:language = sv
@@ -52904,6 +52923,7 @@ fruntimmers	O	_	O	_	_	O	_	_	_
 tragiska	O	_	O	_	_	O	_	_	NoSpaceAfter
 handlingssätt	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_sv_53705
 # hipe2022:date = 1887-01-07
 # hipe2022:language = sv

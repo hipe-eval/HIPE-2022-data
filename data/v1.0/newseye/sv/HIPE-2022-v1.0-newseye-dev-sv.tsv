@@ -383,6 +383,7 @@ flottilj	O	_	O	_	_	O	_	_	_
 af	O	_	O	_	_	O	_	_	_
 ångslupar	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_383
 # hipe2022:date = 1900-03-31
 # hipe2022:language = sv
@@ -710,6 +711,7 @@ gående	O	_	O	_	_	O	_	_	_
 ny	O	_	O	_	_	O	_	_	_
 fiskeristadga	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_715
 # hipe2022:date = 1908-08-25
 # hipe2022:language = sv
@@ -1312,6 +1314,7 @@ de	O	_	O	_	_	O	_	_	_
 i	O	_	O	_	_	O	_	_	NoSpaceAfter
 Uskyb	B-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_1325
 # hipe2022:date = 1913-04-18
 # hipe2022:language = sv
@@ -1814,6 +1817,7 @@ bolaget	I-PER	_	O	_	_	B-ORG	NIL	_	_
 Ota	I-PER	_	O	_	_	I-ORG	NIL	_	NoSpaceAfter
 ,	I-PER	_	O	_	_	O	NIL	_	_
 vi	I-PER	_	O	_	_	O	NIL	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_1829
 # hipe2022:date = 1911-10-18
 # hipe2022:language = sv
@@ -2565,6 +2569,7 @@ det	O	_	O	_	_	O	_	_	_
 odugliga	B-ORG	_	O	_	_	O	NIL	_	_
 Pekinghovets	I-ORG	_	O	_	_	O	NIL	_	_
 tyrannis	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_2582
 # hipe2022:date = 1916-02-18
 # hipe2022:language = sv
@@ -2885,6 +2890,7 @@ manövreringsför	O	_	O	_	_	O	_	_	NoSpaceAfter
 -	O	_	O	_	_	O	_	_	NoSpaceAfter
 mågan	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_2898
 # hipe2022:date = 1899-07-22
 # hipe2022:language = sv
@@ -3199,6 +3205,7 @@ blixt	O	_	O	_	_	O	_	_	_
 på	O	_	O	_	_	O	_	_	_
 Åland	B-LOC	_	O	_	_	O	Q5689	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_3208
 # hipe2022:date = 1916-02-26
 # hipe2022:language = sv
@@ -3581,6 +3588,7 @@ för	O	_	O	_	_	O	_	_	_
 båda	O	_	O	_	_	O	_	_	_
 parterna	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_3586
 # hipe2022:date = 1867-02-20
 # hipe2022:language = sv
@@ -3848,6 +3856,7 @@ per	O	_	O	_	_	O	_	_	NoSpaceAfter
 -	O	_	O	_	_	O	_	_	NoSpaceAfter
 soner	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_3844
 # hipe2022:date = 1874-02-20
 # hipe2022:language = sv
@@ -4273,6 +4282,7 @@ och	O	_	O	_	_	O	_	_	_
 mellanliggande	O	_	O	_	_	O	_	_	NoSpaceAfter
 jernwägsstationer	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_4273
 # hipe2022:date = 1883-01-26
 # hipe2022:language = sv
@@ -4836,6 +4846,7 @@ undertryckt	O	_	O	_	_	O	_	_	NoSpaceAfter
 war	O	_	O	_	_	O	_	_	_
 Rouher	B-PER	_	O	_	_	O	Q3060162	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_4831
 # hipe2022:date = --
 # hipe2022:language = sv
@@ -5295,6 +5306,7 @@ e	O	_	O	_	_	O	_	_	NoSpaceAfter
 m	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	EndOfSentence
+
 # hipe2022:document_id = dev_sv_5285
 # hipe2022:date = 1851-06-20
 # hipe2022:language = sv
@@ -5428,6 +5440,7 @@ Maj	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 Resande	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_5410
 # hipe2022:date = 1853-08-26
 # hipe2022:language = sv
@@ -5515,6 +5528,7 @@ i	O	_	O	_	_	O	_	_	_
 §	O	_	O	_	_	O	_	_	_
 4	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_5489
 # hipe2022:date = 1858-07-20
 # hipe2022:language = sv
@@ -5581,6 +5595,7 @@ norr	I-LOC	_	O	_	_	O	NIL	_	_
 om	I-LOC	_	O	_	_	O	NIL	_	_
 Kuopio	I-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_5546
 # hipe2022:date = 1860-01-21
 # hipe2022:language = sv
@@ -5688,6 +5703,7 @@ smittans	O	_	O	_	_	O	_	_	_
 widare	O	_	O	_	_	O	_	_	_
 fortplantande	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_5645
 # hipe2022:date = 1863-07-25
 # hipe2022:language = sv
@@ -5929,6 +5945,7 @@ sin	O	_	O	_	_	O	_	_	_
 höga	O	_	O	_	_	O	_	_	_
 börd	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_5877
 # hipe2022:date = 1871-07-20
 # hipe2022:language = sv
@@ -6524,6 +6541,7 @@ grund	O	_	O	_	_	O	_	_	NoSpaceAfter
 -	O	_	O	_	_	O	_	_	NoSpaceAfter
 läggning	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_6465
 # hipe2022:date = 1876-11-18
 # hipe2022:language = sv
@@ -6745,6 +6763,7 @@ i	O	_	O	_	_	O	_	_	_
 Pojo	B-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 skärgård	I-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_6678
 # hipe2022:date = 1886-07-24
 # hipe2022:language = sv
@@ -7045,6 +7064,7 @@ sist	O	_	O	_	_	O	_	_	_
 wisade	O	_	O	_	_	O	_	_	_
 sig	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = dev_sv_6971
 # hipe2022:date = 1887-01-07
 # hipe2022:language = sv

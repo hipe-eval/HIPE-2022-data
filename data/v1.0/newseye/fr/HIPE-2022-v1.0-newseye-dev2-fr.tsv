@@ -281,6 +281,7 @@ comme	O	_	O	_	_	O	_	_	_
 un	O	_	O	_	_	O	_	_	_
 frère	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_279
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -645,6 +646,7 @@ altération	O	_	O	_	_	O	_	_	_
 du	O	_	O	_	_	O	_	_	NoSpaceAfter
 métal	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_639
 # hipe2022:date = 1919-01-15
 # hipe2022:language = fr
@@ -1262,6 +1264,7 @@ dans	O	_	O	_	_	O	_	_	_
 la	O	_	O	_	_	O	_	_	_
 journée	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_1256
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -1832,6 +1835,7 @@ d	O	_	O	_	_	O	_	_	NoSpaceAfter
 un	O	_	O	_	_	O	_	_	NoSpaceAfter
 traité	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_1842
 # hipe2022:date = 1930-01-15
 # hipe2022:language = fr
@@ -2866,6 +2870,7 @@ mon	I-PER	_	O	_	_	O	Q711642	_	_
 Novarro	I-PER	_	O	_	_	O	Q711642	_	NoSpaceAfter
 )	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_2959
 # hipe2022:date = 1933-01-15
 # hipe2022:language = fr
@@ -4556,6 +4561,7 @@ socialiste	I-PER	_	O	_	_	I-ORG	NIL	_	_
 de	I-PER	_	O	_	_	I-ORG	NIL	_	NoSpaceAfter
 Tunisie	B-PER	_	O	_	_	B-ORG	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_4884
 # hipe2022:date = 1936-01-15
 # hipe2022:language = fr
@@ -5964,6 +5970,7 @@ lution	O	_	O	_	_	O	_	_	_
 actuelle	O	_	O	_	_	O	_	_	_
 »	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_6306
 # hipe2022:date = 1939-01-15
 # hipe2022:language = fr
@@ -7308,6 +7315,7 @@ Fcr	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	I-LOC	_	O	_	_	O	NIL	_	_
 3811	I-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_7694
 # hipe2022:date = 1936-01-15
 # hipe2022:language = fr
@@ -9148,6 +9156,7 @@ de	O	_	O	_	_	O	_	_	_
 cette	O	_	O	_	_	O	_	_	_
 femme	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_9572
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -10698,6 +10707,7 @@ me	O	_	O	_	_	O	_	_	_
 remercierez	O	_	O	_	_	O	_	_	_
 demain	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_11171
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -12566,6 +12576,7 @@ ves	O	_	O	_	_	O	_	_	_
 de	O	_	O	_	_	O	_	_	_
 serre	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_13068
 # hipe2022:date = 1854-01-15
 # hipe2022:language = fr
@@ -13769,6 +13780,7 @@ avait	O	_	O	_	_	O	_	_	_
 de	O	_	O	_	_	O	_	_	_
 beauté	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_14273
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -15279,6 +15291,7 @@ ci	O	_	O	_	_	O	_	_	_
 lui	O	_	O	_	_	O	_	_	_
 impute	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_15796
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -15966,6 +15979,7 @@ représentants	O	_	O	_	_	O	_	_	_
 du	O	_	O	_	_	O	_	_	_
 pays	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_16488
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -17172,6 +17186,7 @@ déclaré	O	_	O	_	_	O	_	_	_
 com¬	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfLine
 pétent	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_17738
 # hipe2022:date = 1877-01-15
 # hipe2022:language = fr
@@ -18159,6 +18174,7 @@ l	O	_	O	_	_	O	_	_	NoSpaceAfter
 a	O	_	O	_	_	O	_	_	_
 prise	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_18727
 # hipe2022:date = 1880-01-15
 # hipe2022:language = fr
@@ -19178,6 +19194,7 @@ l	O	_	O	_	_	O	_	_	NoSpaceAfter
 '	O	_	O	_	_	O	_	_	NoSpaceAfter
 opinion	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_19753
 # hipe2022:date = 1885-01-16
 # hipe2022:language = fr
@@ -19368,6 +19385,7 @@ notre	O	_	O	_	_	O	_	_	_
 situation	O	_	O	_	_	O	_	_	_
 continentale	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_19934
 # hipe2022:date = 1884-03-15
 # hipe2022:language = fr
@@ -19827,6 +19845,7 @@ Memph	B-LOC	_	O	_	_	O	Q16563	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_20400
 # hipe2022:date = 1892-01-15
 # hipe2022:language = fr
@@ -20278,6 +20297,7 @@ contre	O	_	O	_	_	O	_	_	_
 800	O	_	O	_	_	O	_	_	_
 hier	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_20859
 # hipe2022:date = 1900-01-15
 # hipe2022:language = fr
@@ -20530,6 +20550,7 @@ janvier	O	_	O	_	_	O	_	_	NoSpaceAfter
 Le	O	_	O	_	_	O	_	_	_
 paq	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_21110
 # hipe2022:date = 1910-01-15
 # hipe2022:language = fr
@@ -20730,6 +20751,7 @@ Pour	O	_	O	_	_	O	_	_	_
 le	O	_	O	_	_	O	_	_	_
 Terme	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_21305
 # hipe2022:date = 1919-01-15
 # hipe2022:language = fr
@@ -21758,6 +21780,7 @@ ses	O	_	O	_	_	O	_	_	_
 encourage¬	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfLine
 ments	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_22351
 # hipe2022:date = 1924-01-16
 # hipe2022:language = fr
@@ -22140,6 +22163,7 @@ sur	O	_	O	_	_	O	_	_	_
 leur	O	_	O	_	_	O	_	_	_
 répartition	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_22729
 # hipe2022:date = 1930-01-15
 # hipe2022:language = fr
@@ -23069,6 +23093,7 @@ mois	O	_	O	_	_	O	_	_	NoSpaceAfter
 20	O	_	O	_	_	O	_	_	_
 11/10	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_23678
 # hipe2022:date = 1940-01-15
 # hipe2022:language = fr
@@ -23603,6 +23628,7 @@ et	O	_	O	_	_	O	_	_	_
 quatre	O	_	O	_	_	O	_	_	_
 abstentions	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_24210
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -24378,6 +24404,7 @@ Réors	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 1415	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_25009
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -24687,6 +24714,7 @@ soudain	O	_	O	_	_	O	_	_	_
 imperceptible¬	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfLine
 ment	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_25314
 # hipe2022:date = NA
 # hipe2022:language = fr
@@ -25029,6 +25057,7 @@ nous	O	_	O	_	_	O	_	_	_
 avons	O	_	O	_	_	O	_	_	_
 utilisées	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_25650
 # hipe2022:date = 1938-05-05
 # hipe2022:language = fr
@@ -25896,6 +25925,7 @@ seront	O	_	O	_	_	O	_	_	_
 joués	O	_	O	_	_	O	_	_	_
 dimanche	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_26524
 # hipe2022:date = 1944-04-27
 # hipe2022:language = fr
@@ -27438,6 +27468,7 @@ ils	O	_	O	_	_	O	_	_	_
 se	O	_	O	_	_	O	_	_	_
 servent	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_28081
 # hipe2022:date = 1940-01-17
 # hipe2022:language = fr
@@ -29574,6 +29605,7 @@ voudraient	O	_	O	_	_	O	_	_	_
 nous	O	_	O	_	_	O	_	_	_
 démoraliser	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_30250
 # hipe2022:date = 1925-04-14
 # hipe2022:language = fr
@@ -29742,6 +29774,7 @@ sur	O	_	O	_	_	O	_	_	_
 le	O	_	O	_	_	O	_	_	_
 dos	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_30415
 # hipe2022:date = 1934-07-20
 # hipe2022:language = fr
@@ -30380,6 +30413,7 @@ deux	O	_	O	_	_	O	_	_	NoSpaceAfter
 yeux	O	_	O	_	_	O	_	_	_
 rougis	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fr_31054
 # hipe2022:date = 1946-12-27
 # hipe2022:language = fr

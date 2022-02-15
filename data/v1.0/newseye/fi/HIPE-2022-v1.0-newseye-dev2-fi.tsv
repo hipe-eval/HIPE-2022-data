@@ -1069,6 +1069,7 @@ sä	O	_	O	_	_	O	_	_	_
 lyhdyn	O	_	O	_	_	O	_	_	_
 hinnan	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_1096
 # hipe2022:date = 1915-08-25
 # hipe2022:language = fi
@@ -1283,6 +1284,7 @@ huo	O	_	O	_	_	O	_	_	NoSpaceAfter
 -	O	_	O	_	_	O	_	_	NoSpaceAfter
 mioon	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_1303
 # hipe2022:date = 1918-10-18
 # hipe2022:language = fi
@@ -1740,6 +1742,7 @@ k	O	_	O	_	_	O	_	_	NoSpaceAfter
 23	O	_	O	_	_	O	_	_	_
 pnä	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_1758
 # hipe2022:date = 1900-10-20
 # hipe2022:language = fi
@@ -2016,6 +2019,7 @@ p	O	_	O	_	_	O	_	_	NoSpaceAfter
 San	B-LOC	_	O	_	_	O	Q62	_	_
 Franciscossa	I-LOC	_	O	_	_	O	Q62	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_2029
 # hipe2022:date = 1901-06-22
 # hipe2022:language = fi
@@ -2101,6 +2105,7 @@ vieraan	O	_	O	_	_	O	_	_	NoSpaceAfter
 imelän	O	_	O	_	_	O	_	_	NoSpaceAfter
 värityksen	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_2106
 # hipe2022:date = 1903-07-16
 # hipe2022:language = fi
@@ -2158,6 +2163,7 @@ on	O	_	O	_	_	O	_	_	_
 koonnut	O	_	O	_	_	O	_	_	NoSpaceAfter
 miljoonansa	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_2154
 # hipe2022:date = 1905-09-23
 # hipe2022:language = fi
@@ -2588,6 +2594,7 @@ ja	O	_	O	_	_	O	_	_	_
 sen	O	_	O	_	_	O	_	_	_
 sellaisia	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_2585
 # hipe2022:date = 1906-07-21
 # hipe2022:language = fi
@@ -2771,6 +2778,7 @@ kutsuta	O	_	O	_	_	O	_	_	_
 antipatiseksi	O	_	O	_	_	O	_	_	NoSpaceAfter
 “	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_2761
 # hipe2022:date = 1909-01-22
 # hipe2022:language = fi
@@ -3049,6 +3057,7 @@ ostaneensa	O	_	O	_	_	O	_	_	NoSpaceAfter
 keksinnöt	O	_	O	_	_	O	_	_	_
 Aleksejewiltä	B-PER	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_3037
 # hipe2022:date = 1917-12-22
 # hipe2022:language = fi
@@ -3322,6 +3331,7 @@ taloudellista	O	_	O	_	_	O	_	_	_
 järjestelyä	O	_	O	_	_	O	_	_	_
 warten	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_3307
 # hipe2022:date = 1852-07-20
 # hipe2022:language = fi
@@ -3408,6 +3418,7 @@ Hän	O	_	O	_	_	O	_	_	_
 myös	O	_	O	_	_	O	_	_	_
 samassa	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_3384
 # hipe2022:date = 1865-01-20
 # hipe2022:language = fi
@@ -3672,6 +3683,7 @@ johtajain	O	_	O	_	_	O	_	_	_
 määräämänä	O	_	O	_	_	O	_	_	_
 aikana	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_3640
 # hipe2022:date = 1868-07-24
 # hipe2022:language = fi
@@ -3880,6 +3892,7 @@ nan	O	_	O	_	_	O	_	_	_
 tähden	O	_	O	_	_	O	_	_	_
 siunaustansa	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_3839
 # hipe2022:date = 1902-01-24
 # hipe2022:language = fi
@@ -4000,6 +4013,7 @@ Hämeenkatu	O	_	O	_	_	O	_	_	_
 ,	O	_	O	_	_	O	_	_	_
 awoinna	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_3951
 # hipe2022:date = 1850-01-18
 # hipe2022:language = fi
@@ -4056,6 +4070,7 @@ N:o	O	_	O	_	_	O	_	_	_
 Köyhiä	O	_	O	_	_	O	_	_	_
 Suomessa	B-LOC	_	O	_	_	O	Q62633	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_3998
 # hipe2022:date = 1854-01-20
 # hipe2022:language = fi
@@ -4217,6 +4232,7 @@ sen	O	_	O	_	_	O	_	_	_
 enemmän	O	_	O	_	_	O	_	_	_
 sanomista	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_4151
 # hipe2022:date = 1858-07-23
 # hipe2022:language = fi
@@ -4352,6 +4368,7 @@ n	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 e	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_4277
 # hipe2022:date = 1860-01-20
 # hipe2022:language = fi
@@ -4434,6 +4451,7 @@ ja	O	_	O	_	_	O	_	_	_
 25	O	_	O	_	_	O	_	_	_
 kopeekalla	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_4351
 # hipe2022:date = 1895-01-18
 # hipe2022:language = fi
@@ -4598,6 +4616,7 @@ näitä	O	_	O	_	_	O	_	_	_
 tahdottomia	O	_	O	_	_	O	_	_	_
 liikkeitä	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_4507
 # hipe2022:date = 1915-01-22
 # hipe2022:language = fi
@@ -4736,6 +4755,7 @@ tammik	O	_	O	_	_	O	_	_	NoSpaceAfter
 20	O	_	O	_	_	O	_	_	_
 p	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = test_fi_4640
 # hipe2022:date = 1891-07-24
 # hipe2022:language = fi

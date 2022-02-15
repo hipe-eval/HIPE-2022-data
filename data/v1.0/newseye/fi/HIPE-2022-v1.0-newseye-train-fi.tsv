@@ -2850,6 +2850,7 @@ presidenttiehdok	O	_	O	_	_	O	_	_	NoSpaceAfter
 -	O	_	O	_	_	O	_	_	NoSpaceAfter
 kuutta	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_2945
 # hipe2022:date = 1915-08-25
 # hipe2022:language = fi
@@ -6373,6 +6374,7 @@ perin	O	_	O	_	_	O	_	_	NoSpaceAfter
 harvinainen	O	_	O	_	_	O	_	_	NoSpaceAfter
 ilmiö	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_6545
 # hipe2022:date = 1918-10-18
 # hipe2022:language = fi
@@ -9198,6 +9200,7 @@ tavat	O	_	O	_	_	O	_	_	_
 yleisessä	O	_	O	_	_	O	_	_	_
 maatalousopetuksessa	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_9419
 # hipe2022:date = 1900-10-20
 # hipe2022:language = fi
@@ -14741,6 +14744,7 @@ kuun	O	_	O	_	_	O	_	_	_
 15	O	_	O	_	_	O	_	_	_
 pnä	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_15052
 # hipe2022:date = 1901-06-22
 # hipe2022:language = fi
@@ -15910,6 +15914,7 @@ kuin	O	_	O	_	_	O	_	_	_
 osuu	O	_	O	_	_	O	_	_	_
 oikeaan	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_16232
 # hipe2022:date = 1903-07-16
 # hipe2022:language = fi
@@ -17617,6 +17622,7 @@ kapteeni	I-PER	_	O	_	_	O	Q6084483	_	_
 William	I-PER	_	O	_	_	O	Q6084483	_	_
 Ruth	I-PER	_	O	_	_	O	Q6084483	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_17955
 # hipe2022:date = 1905-09-23
 # hipe2022:language = fi
@@ -19648,6 +19654,7 @@ puhuwan	O	_	O	_	_	O	_	_	_
 ni=	O	_	O	_	_	O	_	_	NoSpaceAfter
 met	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_20043
 # hipe2022:date = 1906-07-21
 # hipe2022:language = fi
@@ -22873,6 +22880,7 @@ turhaan	O	_	O	_	_	O	_	_	_
 käytettyjä	O	_	O	_	_	O	_	_	_
 waroja	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_23333
 # hipe2022:date = 1909-01-22
 # hipe2022:language = fi
@@ -26001,6 +26009,7 @@ heikontaa	O	_	O	_	_	O	_	_	_
 sen	O	_	O	_	_	O	_	_	_
 woimia	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_26518
 # hipe2022:date = 1917-12-22
 # hipe2022:language = fi
@@ -28414,6 +28423,7 @@ t	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 k	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_28999
 # hipe2022:date = 1852-07-20
 # hipe2022:language = fi
@@ -28571,6 +28581,7 @@ Hän	O	_	O	_	_	O	_	_	_
 lähestyy	O	_	O	_	_	O	_	_	_
 sinua	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_29150
 # hipe2022:date = 1854-01-24
 # hipe2022:language = fi
@@ -28756,6 +28767,7 @@ sen	O	_	O	_	_	O	_	_	_
 järween	O	_	O	_	_	O	_	_	_
 heittäisi	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_29326
 # hipe2022:date = 1865-01-20
 # hipe2022:language = fi
@@ -29756,6 +29768,7 @@ p	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 1830	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_30338
 # hipe2022:date = 1868-07-24
 # hipe2022:language = fi
@@ -30846,6 +30859,7 @@ myös	O	_	O	_	_	O	_	_	_
 sanottu	O	_	O	_	_	O	_	_	_
 rommista	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_31430
 # hipe2022:date = 1902-01-24
 # hipe2022:language = fi
@@ -32989,6 +33003,7 @@ ja	O	_	O	_	_	O	_	_	_
 6	O	_	O	_	_	O	_	_	_
 i	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_33667
 # hipe2022:date = 1850-01-18
 # hipe2022:language = fi
@@ -33301,6 +33316,7 @@ Karjalassa	B-LOC	_	O	_	_	O	Q192273	_	NoSpaceAfter
 jossa	O	_	O	_	_	O	_	_	_
 w	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_33970
 # hipe2022:date = 1852-07-20
 # hipe2022:language = fi
@@ -34149,6 +34165,7 @@ wahinkoa	O	_	O	_	_	O	_	_	_
 eli	O	_	O	_	_	O	_	_	_
 rasitusta	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	EndOfSentence
+
 # hipe2022:document_id = train_fi_34815
 # hipe2022:date = 1854-01-20
 # hipe2022:language = fi
@@ -34838,6 +34855,7 @@ A	I-PER	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	I-PER	_	O	_	_	O	NIL	_	_
 Snellmannille	I-PER	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_35515
 # hipe2022:date = 1858-07-23
 # hipe2022:language = fi
@@ -36188,6 +36206,7 @@ häitä	O	_	O	_	_	O	_	_	_
 tyttärellensä	O	_	O	_	_	O	_	_	NoSpaceAfter
 pitämän	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	EndOfSentence
+
 # hipe2022:document_id = train_fi_36869
 # hipe2022:date = 1860-01-20
 # hipe2022:language = fi
@@ -38053,6 +38072,7 @@ siis	O	_	O	_	_	O	_	_	_
 76	O	_	O	_	_	O	_	_	_
 henkeä	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_38746
 # hipe2022:date = 1883-01-25
 # hipe2022:language = fi
@@ -39991,6 +40011,7 @@ Wihit	O	_	O	_	_	O	_	_	NoSpaceAfter
 12	O	_	O	_	_	O	_	_	_
 pariskuntaa	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_40710
 # hipe2022:date = 1895-01-18
 # hipe2022:language = fi
@@ -42654,6 +42675,7 @@ tietämättä	O	_	O	_	_	O	_	_	_
 siitä	O	_	O	_	_	O	_	_	NoSpaceAfter
 mitään	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_43434
 # hipe2022:date = 1915-01-22
 # hipe2022:language = fi
@@ -44373,6 +44395,7 @@ minun	O	_	O	_	_	O	_	_	_
 elämän=	O	_	O	_	_	O	_	_	NoSpaceAfter
 urani	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
+
 # hipe2022:document_id = train_fi_45208
 # hipe2022:date = 1891-07-24
 # hipe2022:language = fi
