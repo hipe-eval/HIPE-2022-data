@@ -21,7 +21,7 @@ HIPE-2022 data is licensed under a [CC BY-NV-SA 4.0 License][cc-by-nc-sa].
 
 ## Primary datasets
 
-HIPE-2022 primary datasets are composed of historical newspapers and classic commentaries covering ca. 200 years, feature several languages and different entity tag sets and annotation schemes. They originate from several European cultural heritage projects, from HIPE organisers’ previous research project, and from the previous HIPE-2020 campaign. Some are already published, others are released for the first time for HIPE-2022.
+HIPE-2022 datasets are based on six primary datasets composed of historical newspapers and classic commentaries covering ca. 200 years. They feature several languages and different entity tag sets and annotation schemes and originate from several European cultural heritage projects, from HIPE organisers’ previous research project, and from the previous HIPE-2020 campaign. Some are already published, others are released for the first time for HIPE-2022.
 
 | Dataset alias | README | Document type | Languages |  Suitable for | Project | License |
 |---------|---------|---------------|-----------| ---------------|---------------| ---------------|
