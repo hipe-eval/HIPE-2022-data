@@ -7,7 +7,7 @@
 | **Original dataset**    | not available yet |
 | **Document type**       | commentary (19C) |
 | **Languages**           | English, French, German |
-| **Annotation guidelines** | [link]() |
+| **Annotation guidelines** | [link](annotation-guidelines-classics-KEs.pdf) |
 | **Annotation tool**     | [INCEpTION](https://inception-project.github.io/) |
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata) |
