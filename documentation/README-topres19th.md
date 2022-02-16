@@ -4,7 +4,7 @@
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| **Original dataset**    |[https://doi.org/10.23636/b1c4-py78](https://doi.org/10.23636/b1c4-py78)  |
+| **Original dataset**    |[https://doi.org/10.23636/r7d4-kw08](https://doi.org/10.23636/r7d4-kw08)  |
 | **Document type**       | newspaper (19C) |
 | **Languages**           | English |
 | **Annotation guidelines** | see README in original release and below |
@@ -12,7 +12,7 @@
 | **Original format and tagging scheme** | WebAnno 2.3 |
 | **Annotations**          | NERC, EL (towards Wikipedia) |
 | **Version (used in HIPE-2022)**   | v2 |
-| **Related publication**               |[Link](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/)  |
+| **Related publication**               |[A Dataset for Toponym Resolution in Nineteenth-Century English Newspapers](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/)  |
 | **License**              |[CC BY-NC-SA 4.0 Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)  |
 
 
@@ -27,7 +27,6 @@ The topres19th dataset focuses exclusively on toponyms.
 | STREET  | -      | no      | yes     |
 | ALIEN | -        | no      | yes     |
 | OTHER | -        | no      | yes     |
-| UNKNOWN | -      | no      | yes?    |
 | FICTION | -      | no      | yes     |
 
 
@@ -38,7 +37,6 @@ Type explanation (from original release guidelines):
 -  `STREET`: Streets, squares, etc. Optional link to Wikipedia article if it exists.
 -  `ALIEN`: Extraterrestrial locations (e.g. the moon). Optional link to Wikipedia article if it exists.
 -  `OTHER`: Others, as in famous trees (https://en.wikipedia.org/wiki/Lone_Cypress) or battlefields (https://en.wikipedia.org/wiki/Battle_of_Waterloo). Optional link to Wikipedia article if it exists.
--  `UNKNOWN`: If the location has no Wikipedia entry OR if you cannot determine what place it is, but are confident that it is a place. No link to Wikipedia.
 -  `FICTION`: If it is a fictional/mythical place (e.g. Lilliput). Optional link to Wikipedia article if it exists.
 
 
