@@ -12,7 +12,7 @@
 | **Original format and tagging scheme** | brat format |
 | **Annotations**          | NERC |
 | **Version (used in HIPE-2022)**   | v1.0 |
-| **Related publication**               |[link](https://infoscience.epfl.ch/record/221391))  |
+| **Related publication**               |[Diachronic evaluation of NER systems on old newspapers](https://infoscience.epfl.ch/record/221391)  |
 | **License** | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
 ### Entity tagset 

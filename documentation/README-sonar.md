@@ -10,9 +10,9 @@
 | **Annotation guidelines** |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5116015.svg)](https://doi.org/10.5281/zenodo.5116015)  |
 | **Annotation tool**     | [neat](https://github.com/qurator-spk/neat/blob/master/README.md#22-data-format) |
 | **Original format and tagging scheme** |`.tsv, IOB` |
-| **Annotations**          | NERC, EL (originally towards Wikipedia page URLS, mapped to wikidata IDs with [wikimapper](https://pypi.org/project/wikimapper/) and our own recent [DB dump (2022) ](https://files.ifi.uzh.ch/cl/siclemat/hipe-2022/data/wikimapper/index_enwiki-latest.db) |
+| **Annotations**          | NERC, EL (originally towards Wikipedia page URLS, mapped to wikidata IDs with [wikimapper](https://pypi.org/project/wikimapper/) and HIPE-2022's own recent [DB dump (2022) ](https://files.ifi.uzh.ch/cl/siclemat/hipe-2022/data/wikimapper/index_enwiki-latest.db) |
 | **Version (used in HIPE-2022)**   | v1.0 |
-| **Related publication**               |[Link](https://doi.org/10.1515/9783110691597-012)  |
+| **Related publication**               |[Named Entity Linking mit Wikidata und GND](https://doi.org/10.1515/9783110691597-012)  |
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 

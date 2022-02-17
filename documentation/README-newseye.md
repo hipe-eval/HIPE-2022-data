@@ -12,7 +12,7 @@
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata, unknown dump) |
 | **Version (used in HIPE-2022)**   | v1.0 |
-| **Related publication**               |[Link](https://dl.acm.org/doi/abs/10.1145/3404835.3463255)  |
+| **Related publication**               |[A Multilingual Dataset for Named Entity Recognition, Entity Linking and Stance Detection in Historical Newspapers](https://dl.acm.org/doi/abs/10.1145/3404835.3463255)  |
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 
