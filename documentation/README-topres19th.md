@@ -30,14 +30,14 @@ The topres19th dataset focuses exclusively on toponyms.
 | FICTION | -      | no      | yes     |
 
 
-Type explanation (from original release guidelines):
+TopRes19th toponym classes correspond to (descriptions taken from the README of the original dataset release v2):
 
-- `LOC`:  Refers to a real world place regardless of scale (region, city, neighborhood) with the exception of the additional, separate categories listed below;
-- `BUILDING`: Names of buildings (e.g. schools, hospitals, factories, palaces, etc.). Optional link to Wikipedia article if it exists.
--  `STREET`: Streets, squares, etc. Optional link to Wikipedia article if it exists.
--  `ALIEN`: Extraterrestrial locations (e.g. the moon). Optional link to Wikipedia article if it exists.
--  `OTHER`: Others, as in famous trees (https://en.wikipedia.org/wiki/Lone_Cypress) or battlefields (https://en.wikipedia.org/wiki/Battle_of_Waterloo). Optional link to Wikipedia article if it exists.
--  `FICTION`: If it is a fictional/mythical place (e.g. Lilliput). Optional link to Wikipedia article if it exists.
+* `BUILDING`: names of buildings, such as the 'British Museum'.
+* `STREET`: streets, roads, and other odonyms, such as 'Great Russell St'.
+* `LOC`: any other real world places regardless of type or scale, such as 'Bloomsbury', 'London' or 'Great Britain'.
+* `ALIEN`: extraterrestrial locations, such as 'Venus'.
+* `FICTION`: fictional or mythical places, such as 'Hell'.
+* `OTHER`: other types of entities with coordinates, such as events, like the 'Battle of Waterloo'.
 
 
 ### HIPE-2022 Tasks and Challenges
