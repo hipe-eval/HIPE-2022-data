@@ -4,20 +4,20 @@
 
 Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) evaluation lab on historical newspapers in three languages, HIPE-2022 is based on diverse datasets and aims at confronting systems with the challenges of **dealing with more languages, learning domain-specific entities, and adapting to diverse annotation tag sets**. The objective is to gain new insights into the _transferability_ of named entity processing approaches across languages, time periods, document types, and annotation tag sets.
 
-Please refer to:    
+For more information on the shared task, please refer to:    
 - :computer: the [website](https://hipe-eval.github.io/HIPE-2022/) for general information on the shared task and registration;    
-- :notebook: the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6045662.svg)](https://doi.org/10.5281/zenodo.6045662)
+- :notebook: the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6045662.svg)](https://doi.org/10.5281/zenodo.6045662).
 
-
-HIPE-2022 data is licensed under a [CC BY-NV-SA 4.0 License][cc-by-nc-sa].
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+Key information:    
+- **License**: HIPE-2022 data is released under a [CC BY-NV-SA 4.0 License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://doi.org/10.5281/zenodo.6089968) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6089968.svg)](https://doi.org/10.5281/zenodo.6089968)
+- **Release history**:     
+      - 15.02.2022: v1.0
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6089968.svg)](https://doi.org/10.5281/zenodo.6089968)
 
 ## Primary datasets
 
