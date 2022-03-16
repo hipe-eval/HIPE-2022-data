@@ -20,15 +20,16 @@
 
 The topres19th dataset focuses exclusively on toponyms.
 
-| Coarse-grained tagset | Fine-grained tagset | Nesting applies | Linking applies | 
-| ------| ------------| --------| --------|
-|LOC    | _        | no      | yes     |
-|BUILDING  | -     | no      | yes     |
-| STREET  | -      | no      | yes     |
-| ALIEN | -        | no      | yes     |
-| OTHER | -        | no      | yes     |
-| FICTION | -      | no      | yes     |
+| Coarse-grained tagset | Fine-grained tagset | Nesting applies | Linking applies | Present in HIPE 2022 data |
+| ------| ------------| --------| --------| -------------|
+|LOC    | _        | no      | yes     | yes |
+|BUILDING  | -     | no      | yes     | yes |
+| STREET  | -      | no      | yes     | yes |
+| ALIEN | -        | no      | yes     | no |
+| OTHER | -        | no      | yes     | no |
+| FICTION | -      | no      | yes     | no |
 
+Note: Due to data sparseness the tags ALIEN, OTHER and FICTION and their corresponding annotations (6 in total for the training/dev data) were removed in HIPE 2022.
 
 TopRes19th toponym classes correspond to (descriptions taken from the README of the original dataset release v2):
 
