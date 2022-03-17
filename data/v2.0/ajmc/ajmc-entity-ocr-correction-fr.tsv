@@ -1,0 +1,262 @@
+orig_token	gold_transcript	levenshtein_norm	entity_fine_type	wikidata_id	frequency
+Wander	Wunder	0.1666666666666666	pers.other	http://www.wikidata.org/entity/Q15438962	5
+Wander	Wunder	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q15438962	5
+Wander	Wunder	0.1666666666666666	pers.editor	http://www.wikidata.org/entity/Q15438962	5
+Philoce,	Philoct.	0.25	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+Philoce,	Philoct.	0.25	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+Philoce.	Philoct.	0.125	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+Philoce,	Philoct.	0.25	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+Philoce.	Philoct.	0.125	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+Philoce,	Philoct.	0.25	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+Philoce.	Philoct.	0.125	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+Philoce.	Philoct.	0.125	work.primlit	http://www.wikidata.org/entity/Q1415903	4
+QEd. Roi	OEd. Roi	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	3
+OEd. Col,	OEd. Col.	0.1111111111111111	work.primlit	http://www.wikidata.org/entity/Q294001	3
+Philoct,	Philoct.	0.125	work.primlit	http://www.wikidata.org/entity/Q1415903	3
+OEd. Col,	OEd. Col.	0.1111111111111111	work.primlit	http://www.wikidata.org/entity/Q294001	3
+Phil,	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	3
+Philoct,	Philoct.	0.125	work.primlit	http://www.wikidata.org/entity/Q1415903	3
+Phil,	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	3
+OEd. Col,	OEd. Col.	0.1111111111111111	work.primlit	http://www.wikidata.org/entity/Q294001	3
+QEd. Roi	OEd. Roi	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	3
+QEd. Roi	OEd. Roi	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	3
+Phil,	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	3
+Philoct,	Philoct.	0.125	work.primlit	http://www.wikidata.org/entity/Q1415903	3
+Earipide	Euripide	0.125	pers.author	http://www.wikidata.org/entity/Q48305	2
+“πεὶρ.	Antig.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q241077	2
+Schncidewin	Schneidewin	0.0909090909090909	pers.other	http://www.wikidata.org/entity/Q70043	2
+Sehneidewin	Schneidewin	0.0909090909090909	pers.other	http://www.wikidata.org/entity/Q70043	2
+OEd. οὶ	OEd. Roi	0.375	work.primlit	http://www.wikidata.org/entity/Q148643	2
+Sehneidewin	Schneidewin	0.0909090909090909	pers.other	http://www.wikidata.org/entity/Q70043	2
+11.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	2
+OEd. οὶ	OEd. Roi	0.375	work.primlit	http://www.wikidata.org/entity/Q148643	2
+Trachin,	Trachin.	0.125	work.primlit	http://www.wikidata.org/entity/Q945342	2
+OEd, Roi	OEd. Roi	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	2
+Trachin,	Trachin.	0.125	work.primlit	http://www.wikidata.org/entity/Q945342	2
+Mattbiæ	Matthiae	0.375	pers.other	http://www.wikidata.org/entity/Q4820726	2
+ΟΕά. Roi	OEd. Roi	0.375	work.primlit	http://www.wikidata.org/entity/Q148643	2
+“πεὶρ.	Antig.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q241077	2
+Trach,	Trach.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q945342	2
+QEdipe Roi	Oedipe Roi	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	2
+Schncidewin	Schneidewin	0.0909090909090909	pers.other	http://www.wikidata.org/entity/Q70043	2
+Trach,	Trach.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q945342	2
+Mattbiæ	Matthiae	0.375	pers.author	http://www.wikidata.org/entity/Q4820726	2
+11.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	2
+OEd, Roi	OEd. Roi	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	2
+QEdipe Roi	Oedipe Roi	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	2
+Earipide	Euripide	0.125	pers.author	http://www.wikidata.org/entity/Q48305	2
+ΟΕά. Roi	OEd. Roi	0.375	work.primlit	http://www.wikidata.org/entity/Q148643	2
+Libenias	Libanius	0.25	pers.author	http://www.wikidata.org/entity/Q263892	1
+ιρεῖγο	Électre	1.0	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Encide	Énéide	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q60220	1
+Atben.	Athen.	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q294923	1
+Εἰ.	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	1
+ΟΕ 4. οὶ,	OEd. Roi	0.7777777777777778	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Ογαεία	Oreste	1.0	work.primlit	http://www.wikidata.org/entity/Q663886	1
+ϑορδοεῖς	Sophocle	1.0	pers.author	http://www.wikidata.org/entity/Q11950683	1
+Henri Estienue	Henri Estienne	0.0714285714285714	pers.author	http://www.wikidata.org/entity/Q664748	1
+Ζίεριτο	Électre	1.0	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Μαϊμία	Matthiae	1.0	pers.author	http://www.wikidata.org/entity/Q4820726	1
+Sehnei · dewin	Schneidewin	0.2857142857142857	pers.author	http://www.wikidata.org/entity/Q70043	1
+ξι.	Él.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Δίοοι.	Elect.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q733444	1
+El.	Él.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Anci- gone	Antigone	0.125	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Schaeïidewin	Schneidewin	0.1666666666666666	pers.other	http://www.wikidata.org/entity/Q70043	1
+ϑεδπεῖ- dewin	Schneidewin	0.5454545454545454	pers.other	http://www.wikidata.org/entity/Q70043	1
+7|.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Εἰϊεπάι	Ellendt	1.0	pers.editor	http://www.wikidata.org/entity/Q18411800	1
+ΥΤα:»-. der	Wunder	0.7	pers.other	http://www.wikidata.org/entity/Q15438962	1
+Electre	Électre	0.1428571428571428	work.primlit	http://www.wikidata.org/entity/Q733444	1
+[:dam	Isthm.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q19175126	1
+ϑοδιποίἀοννίε	Schneidewin	1.0	pers.other	http://www.wikidata.org/entity/Q70043	1
+Οκέμεε	Guêpes	1.0	work.primlit	http://www.wikidata.org/entity/Q1217552	1
+Agamem- πον	Agamemnon	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q128176	1
+ΟΕ 4. (οἱ.	OEd. Col.	0.7	work.primlit	http://www.wikidata.org/entity/Q148643	1
+1.8 πιέπιο	Le même	0.9	pers.author	http://www.wikidata.org/entity/Q18411800	1
+δοἰιπεϊάεν η	Schneidewin	1.0	pers.other	http://www.wikidata.org/entity/Q70043	1
+OEd. Rot	OEd. Roi	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Athéua	Athéna	0.1666666666666666	pers.myth	http://www.wikidata.org/entity/Q37122	1
+Lettres à Articus	Lettres à Atticus	0.0588235294117647	work.primlit	http://www.wikidata.org/entity/Q3237044	1
+GEdipe & Colone	OEdipe à Colone	0.1333333333333333	work.primlit	http://www.wikidata.org/entity/Q294001	1
+70.	Ib.	0.6666666666666666	work.primlit		1
+ΡῬΙυΐωγασο	Plutarque	1.0	pers.author	http://www.wikidata.org/entity/Q41523	1
+Meteor,	Meteor.	0.1428571428571428	work.primlit	http://www.wikidata.org/entity/Q2741164	1
+Sclhimeidewin	Schneidewin	0.2307692307692307	pers.other	http://www.wikidata.org/entity/Q70043	1
+En- ripide	Euripide	0.125	pers.author	http://www.wikidata.org/entity/Q48305	1
+Sebneidewin	Schneidewin	0.1818181818181818	pers.other	http://www.wikidata.org/entity/Q70043	1
+Electrs	Électre	0.2857142857142857	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Tbestor	Thestor	0.1428571428571428	pers.myth	http://www.wikidata.org/entity/Q3985255	1
+OEd, Col.	OEd. Col.	0.1111111111111111	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Aristiqe	Aristide	0.125	pers.author	http://www.wikidata.org/entity/Q354431	1
+“πιὶρ.	Antig.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Pliiloct.	Philoct.	0.2222222222222222	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+Ῥλέϊοοιδίε	Philoctète	1.0	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+OEd. Ἀοΐ	OEd. Roi	0.375	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Ἐπουάῇ	Ellendt	1.0	pers.other	http://www.wikidata.org/entity/Q18411557	1
+“περ.	Antig.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Ῥλέϊοοι.	Philoct.	0.875	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+TIdem	Idem	0.2	pers.author	http://www.wikidata.org/entity/Q129772	1
+Ευτὶρίάε	Euripide	1.0	pers.author	http://www.wikidata.org/entity/Q48305	1
+ῥλέϊοοίδέα	Philoctète	1.0	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+Ρῥλὲΐ,	Phil.	1.0	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+ΤΙογόηναι	Troyennes	1.0	work.primlit	http://www.wikidata.org/entity/Q1216943	1
+Ῥλέπιοίασπποι	Phéniciennes	1.0	work.primlit	http://www.wikidata.org/entity/Q1233660	1
+Ἑατίρίάε	Euripide	1.0	pers.author	http://www.wikidata.org/entity/Q48305	1
+Οἀγεςέε	Odyssée	1.0	work.primlit	http://www.wikidata.org/entity/Q35160	1
+Lobeek	Lobeck	0.1666666666666666	pers.editor	http://www.wikidata.org/entity/Q84734	1
+OEd. ΚΒ.	OEd. R.	0.25	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Tencer	Teucer	0.1666666666666666	pers.myth	http://www.wikidata.org/entity/Q878184	1
+Thneyd.	Thucyd.	0.2857142857142857	pers.author	http://www.wikidata.org/entity/Q41683	1
+Οξά. Μοὶ	OEd. Roi	0.75	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Matthix	Matthiae	0.25	pers.author	http://www.wikidata.org/entity/Q1303669	1
+ldoche	Bothe	0.5	pers.editor	http://www.wikidata.org/entity/Q19197317	1
+Guéêpes	Guêpes	0.1428571428571428	work.primlit	http://www.wikidata.org/entity/Q1217552	1
+Agarnemnon	Agamemnon	0.2	work.primlit	http://www.wikidata.org/entity/Q3320792	1
+Pbilon	Philon	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q103041587	1
+Ménélus	Ménélas	0.1428571428571428	pers.myth	http://www.wikidata.org/entity/Q171839	1
+Antigune	Antigone	0.125	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Él,	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q540161	1
+Ῥτερπιεηὶ 869	Fragment 869	0.6923076923076923	work.fragm		1
+Eume- πἰάεε	Eumenides	0.5555555555555556	work.primlit	http://www.wikidata.org/entity/Q1233164	1
+Trackiæ.	Trachin.	0.25	work.primlit	http://www.wikidata.org/entity/Q945342	1
+1 εεΚ	Lobeck	1.0	pers.editor	http://www.wikidata.org/entity/Q84734	1
+OEd, Col,	OEd. Col.	0.2222222222222222	work.primlit	http://www.wikidata.org/entity/Q294001	1
+IU.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Ὠϊπάοτί	Dindorf	1.0	pers.editor	http://www.wikidata.org/entity/Q67533	1
+Schneidcwin	Schneidewin	0.0909090909090909	pers.other	http://www.wikidata.org/entity/Q70043	1
+Cresplionte	Chresphonte	0.2727272727272727	pers.myth	http://www.wikidata.org/entity/Q1788026	1
+Trackiniennes	Trachiniennes	0.0769230769230769	work.primlit	http://www.wikidata.org/entity/Q945342	1
+QEdipe à Colone	OEdipe à Colone	0.0666666666666666	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Τηαολίκπίονπας	Trachiniennes	1.0	work.primlit	http://www.wikidata.org/entity/Q945342	1
+QÆd, Col.	OEd. Col.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Hermana	Hermann	0.1428571428571428	pers.author	http://www.wikidata.org/entity/Q77616	1
+Οξαάϊΐρ. « Col.	OEdip. Col.	0.6	work.primlit	http://www.wikidata.org/entity/Q294001	1
+ΕἾ.	Él.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Dindurf	Dindorf	0.1428571428571428	pers.other	http://www.wikidata.org/entity/Q67533	1
+Iliude	Iliade	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Médés	Médée	0.2	work.primlit	http://www.wikidata.org/entity/Q286381	1
+Οξά. 7γν.	OEd. Tyr.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q148643	1
+OEdip. Col,	OEdip. Col.	0.0909090909090909	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Τγαολίπ.	Trachin.	0.875	work.primlit	http://www.wikidata.org/entity/Q945342	1
+Velléns Paterculus	Velléjus Paterculus	0.1052631578947368	pers.author	http://www.wikidata.org/entity/Q316098	1
+Agamemuon	Agamemnon	0.1111111111111111	pers.myth	http://www.wikidata.org/entity/Q128176	1
+ΟΕώ. οὶ	OEd. Roi	0.75	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Ale.	Alc.	0.25	work.primlit	http://www.wikidata.org/entity/Q1246408	1
+“4ἽἼπ|.	Ant.	0.8571428571428571	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Lauren- tianus À	Laurentianus A	0.0714285714285714	object.manuscr		1
+Trackin.	Trachin.	0.125	work.primlit	http://www.wikidata.org/entity/Q945342	1
+γτορέάϊα	Cyropédie	1.0	work.primlit	http://www.wikidata.org/entity/Q1145374	1
+Fllendt	Ellendt	0.1428571428571428	pers.editor	http://www.wikidata.org/entity/Q18411800	1
+Humère	Homère	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q6691	1
+Lex. δορὰ.	Lex. Soph.	0.4	work.seclit		1
+Eloctrs	Electre	0.2857142857142857	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Ho- τοῦτο	Homère	0.7142857142857143	pers.author	http://www.wikidata.org/entity/Q6691	1
+Α)αχ	Ajax	1.0	pers.myth	http://www.wikidata.org/entity/Q172725	1
+Méraclides	Héraclides	0.1	work.primlit	http://www.wikidata.org/entity/Q1233203	1
+De signis Ρίων.	De signis pluv.	0.2666666666666666	work.primlit		1
+O£d. Col.	OEd. Col.	0.1111111111111111	work.primlit	http://www.wikidata.org/entity/Q294001	1
+ϑορδοοῖα	Sophocle	1.0	pers.author	http://www.wikidata.org/entity/Q7235	1
+Track.	Trach.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q945342	1
+Hé- Fodote	Hérodote	0.125	pers.author	http://www.wikidata.org/entity/Q26825	1
+Promé- ἐλόε	Prométhée	0.4444444444444444	work.primlit	http://www.wikidata.org/entity/Q846870	1
+Schneidewia	Schneidewin	0.0909090909090909	pers.author	http://www.wikidata.org/entity/Q70043	1
+Μαϊ- thiæ	Matthiae	0.625	pers.editor	http://www.wikidata.org/entity/Q1303669	1
+ϑεμπηεί- dewin	Schneidewin	0.5833333333333334	pers.other	http://www.wikidata.org/entity/Q70043	1
+Élsctre	Electre	0.2857142857142857	work.primlit	http://www.wikidata.org/entity/Q733444	1
+ϑομπεϊάενϊῃ	Schneidewin	1.0	pers.other	http://www.wikidata.org/entity/Q70043	1
+OEdipe à Colvne	OEdipe à Colone	0.0666666666666666	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Eurysacés	Eurysacès	0.1111111111111111	pers.myth	http://www.wikidata.org/entity/Q1378566	1
+Οξά. Ἀοὲ	OEd. Roi	0.75	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Zon	Ion	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q614607	1
+ΟΕ. (οἷ.	OEd. Col.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Απεὶρ.	Antig.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q241077	1
+ΟΕἀ. Col,	OEd. Col.	0.4444444444444444	work.primlit	http://www.wikidata.org/entity/Q294001	1
+CEdipe Roi	OEdipe Roi	0.1	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Hulæ	Halae	0.6	loc	http://www.wikidata.org/entity/Q15632345	1
+Aristophune	Aristophane	0.0909090909090909	pers.author	http://www.wikidata.org/entity/Q43353	1
+Πόναοϊίαϊεε	Héraclides	1.0	work.primlit	http://www.wikidata.org/entity/Q1233203	1
+dl- ceste	Alceste	0.1428571428571428	work.primlit	http://www.wikidata.org/entity/Q1246408	1
+Laurentianus À	laurentianus A	0.1428571428571428	object.manuscr		1
+So- phocie	Sophocle	0.125	pers.author	http://www.wikidata.org/entity/Q7235	1
+Hcyne	Heyne	0.2	pers.author		1
+excursus l ad librum VII Zliad.,	excursus I ad librum VII Iliad.,	0.0625	work.seclit		1
+//.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Heynce	Heyne	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q63182	1
+excursns	excursus	0.125	work.seclit		1
+ΠΝ	Il.	1.0	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Métam,	Métam.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q184742	1
+ΟΕ. (οἷ,	OEd. Col.	0.7777777777777778	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Ἑυγί- pide	Euripide	0.5	pers.author	http://www.wikidata.org/entity/Q48305	1
+Cy- γορέάϊε	Cyropédie	0.7777777777777778	work.primlit	http://www.wikidata.org/entity/Q1145374	1
+1οἴεο Κ	Lobeck	1.0	pers.editor	http://www.wikidata.org/entity/Q84734	1
+Aurtig.	Anti.	0.4285714285714285	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Hercale	Hercule	0.1428571428571428	pers.myth	http://www.wikidata.org/entity/Q122248	1
+Schoeidewin	Schneidewin	0.0909090909090909	pers.other	http://www.wikidata.org/entity/Q70043	1
+Antisone	Antigone	0.125	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Furipide	Euripide	0.125	pers.author	http://www.wikidata.org/entity/Q48305	1
+fercule ſurieuæ	Hercule furieux	0.2	work.primlit	http://www.wikidata.org/entity/Q1233835	1
+ſon	Ion	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q614607	1
+Neuc	Neue	0.25	pers.author		1
+Dubrée	Dobrée	0.1666666666666666	pers.author		1
+Οοπέγε 1ερέϊπε	Contre Leptine	0.9285714285714286	work.primlit	http://www.wikidata.org/entity/Q4691037	1
+Ηοπιὲδτο	Homère	1.0	pers.author	http://www.wikidata.org/entity/Q6691	1
+Hérodute	Hérodote	0.125	pers.author	http://www.wikidata.org/entity/Q26825	1
+Τεαολ.	Trach.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q945342	1
+Αἰδαέα	Médée	1.0	work.primlit	http://www.wikidata.org/entity/Q286381	1
+Dẽmo- sthène	Démosthène	0.1	pers.author	http://www.wikidata.org/entity/Q117253	1
+Εὐυτγίμίάε	Euripide	1.0	pers.author	http://www.wikidata.org/entity/Q48305	1
+Sentences monrostiques	Sentences monostiques	0.0454545454545454	work.primlit		1
+Ζι.	Él.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Β}ιδηυ5	Rhianus	1.0	pers.author	http://www.wikidata.org/entity/Q2319055	1
+ΟΣ ά. Ἀοΐ	OEd. Roi	0.7777777777777778	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Mattlhiæ	Matthiae	0.375	pers.author	http://www.wikidata.org/entity/Q4820726	1
+Tracn.	Trach.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q945342	1
+O£d., Roë	OEd. Roi	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Υαπέετ	Wunder	1.0	pers.other		1
+Schneidewiu	Schneidewin	0.0909090909090909	pers.other	http://www.wikidata.org/entity/Q70043	1
+EFuménides	Eumenides	0.2	work.primlit	http://www.wikidata.org/entity/Q1233164	1
+ϑε)ιπεὶ- dewin	Schneidewin	0.5833333333333334	pers.other	http://www.wikidata.org/entity/Q70043	1
+Antig.	http://www.wikidata.org/entity/Q241077	0.9210526315789472	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Laurentianus ÀA	Laurentianus A	0.0666666666666666	object.manuscr		1
+OEd. Ἀοὲ	OEd. Roi	0.375	work.primlit	http://www.wikidata.org/entity/Q148643	1
+ΟΕ άΐρε ἃ Οοἵοπε	OEdipe à Colone	0.875	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Ῥίμάατο	Pindare	1.0	pers.author	http://www.wikidata.org/entity/Q134929	1
+Οἰγηινίσεες	Olympiques	1.0	work.primlit	http://www.wikidata.org/entity/Q18146776	1
+δε γὶς	Eschyle	1.0	pers.author	http://www.wikidata.org/entity/Q40939	1
+δηγομιόϊλόε	Prométhée	1.0	work.primlit	http://www.wikidata.org/entity/Q846870	1
+Ευτγὶρίάς	Euripide	1.0	pers.author	http://www.wikidata.org/entity/Q48305	1
+Su- phocle	Sophocle	0.125	pers.author	http://www.wikidata.org/entity/Q11950683	1
+OEd. Οοἷ	OEd. Roi	0.375	work.primlit	http://www.wikidata.org/entity/Q148643	1
+ΟΕ 4, Roi	OEd. Roi	0.5555555555555556	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Ῥλίϊοοι.	Philoct.	0.875	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+Ο4γ:ε- sée	Odyssée	0.625	work.primlit	http://www.wikidata.org/entity/Q35160	1
+Antiꝶ.	Antig.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q241077	1
+ῬΑ οοίόία	Philoctète	1.0	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+“πέροπε	Antigone	1.0	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Rhesus	Rhésus	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q667750	1
+Orests	Oreste	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q663886	1
+Énérde	Énéide	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q60220	1
+BotLe	Bothe	0.2	pers.other	http://www.wikidata.org/entity/Q19197317	1
+Eleet.	Elect.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	1
+OEd. Itoi	OEd. Roi	0.2222222222222222	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Ἐσ- chyle	Eschyle	0.2857142857142857	pers.author	http://www.wikidata.org/entity/Q40939	1
+“ξανι.	Agam.	0.8333333333333334	work.primlit	http://www.wikidata.org/entity/Q3320792	1
+βέμε,	Plut.	1.0	work.primlit	http://www.wikidata.org/entity/Q1196456	1
+ϑεδοεϊά ον	Schneidewin	1.0	pers.other	http://www.wikidata.org/entity/Q70043	1
+Ρλέίοει	Philoct.	1.0	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+Οἱ.	Ol.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q18146776	1
+Lubeck	Lobeck	0.1666666666666666	pers.other	http://www.wikidata.org/entity/Q84734	1
+Phitoce.	Philoct.	0.25	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+Ëleclre	Électre	0.2857142857142857	work.primlit	http://www.wikidata.org/entity/Q733444	1
+ΟΕ .(. (οί	OEd. Roi	0.8	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Sæppl.	Suppl.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q672319	1
+'Lysias	Lysias	0.1428571428571428	pers.author	http://www.wikidata.org/entity/Q310164	1
+Platon	Phédon	0.5	pers.author	http://www.wikidata.org/entity/Q859	1
+OE:l. Col.	OEd. Col.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Aatig.	Antig.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Ph-loce.	Philoct.	0.25	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+QEd., « Col.	OEd. « Col.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q294001	1
+ΟΕὠ, R.	OEd. R.	0.5714285714285714	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Ajaz	Ajax	0.25	pers.myth	http://www.wikidata.org/entity/Q172725	1
+Schueidewin	Schneidewin	0.0909090909090909	pers.editor	http://www.wikidata.org/entity/Q70043	1

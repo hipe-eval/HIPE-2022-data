@@ -16198,16 +16198,6 @@ XXII	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 361	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|LED0.00
 sqq	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	I-scope	_	I-scope	_	_	O	_	_	EndOfSentence|InPrimaryReference|LED0.00
-1031	O	_	O	_	_	O	_	_	NoSpaceAfter
-.	O	_	O	_	_	O	_	_	_
-Alév	O	_	O	_	_	O	_	_	NoSpaceAfter
-,	O	_	O	_	_	O	_	_	_
-continua	O	_	O	_	_	O	_	_	_
-tractione	O	_	O	_	_	O	_	_	NoSpaceAfter
-.	O	_	O	_	_	O	_	_	_
-[	O	_	O	_	_	O	_	_	NoSpaceAfter
-Lo	O	_	O	_	_	O	_	_	NoSpaceAfter
--	O	_	O	_	_	O	_	_	EndOfSentence
 1034	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 ’	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -23502,32 +23492,6 @@ l	O	_	O	_	_	O	_	_	NoSpaceAfter
 importance	O	_	O	_	_	O	_	_	_
 de	O	_	O	_	_	O	_	_	_
 cet	O	_	O	_	_	O	_	_	EndOfSentence
-4	O	_	O	_	_	O	_	_	NoSpaceAfter
-.	O	_	O	_	_	O	_	_	_
-À	O	_	O	_	_	O	_	_	_
-partir	O	_	O	_	_	O	_	_	_
-de	O	_	O	_	_	O	_	_	_
-la	O	_	O	_	_	O	_	_	_
-feuille	B-scope	_	B-scope	_	_	O	_	_	LED0.00
-43	I-scope	_	I-scope	_	_	O	_	_	NoSpaceAfter|LED0.00
-.	O	_	O	_	_	O	_	_	_
-Nous	O	_	O	_	_	O	_	_	_
-avons	O	_	O	_	_	O	_	_	_
-eonservé	O	_	O	_	_	O	_	_	_
-une	O	_	O	_	_	O	_	_	_
-épreuve	O	_	O	_	_	O	_	_	_
-de	O	_	O	_	_	O	_	_	_
-cette	O	_	O	_	_	O	_	_	_
-feuille	O	_	O	_	_	O	_	_	NoSpaceAfter
-,	O	_	O	_	_	O	_	_	_
-corrigée	O	_	O	_	_	O	_	_	NoSpaceAfter
-par	O	_	O	_	_	O	_	_	_
-M	O	_	O	_	_	O	_	_	NoSpaceAfter
-.	O	_	O	_	_	O	_	_	_
-Dübner	B-pers	_	B-pers.editor	_	_	O	Q97220	_	LED0.00
-quelques	O	_	O	_	_	O	_	_	_
-jours	O	_	O	_	_	O	_	_	_
-avant	O	_	O	_	_	O	_	_	EndOfSentence
 
 # hipe2022:original_source = data/preparation/corpus/fr/retokenized/lestragdiesdeso00tourgoog_0023.xmi
 # hipe2022:license = CC-BY
