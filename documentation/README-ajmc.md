@@ -7,22 +7,22 @@
 | **Original dataset**    | not available yet |
 | **Document type**       | commentary (19C) |
 | **Languages**           | English, French, German |
-| **Annotation guidelines** | [link](annotation-guidelines-classics-KEs.pdf) |
+| **Annotation guidelines** | [link](https://doi.org/10.5281/zenodo.6368101) |
 | **Annotation tool**     | [INCEpTION](https://inception-project.github.io/) |
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata) |
-| **Version (used in HIPE-2022)**   | `v1.0` |
+| **Version (used in HIPE-2022)**   | `v0.2` |
 | **Related publication**               | – |
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) |
 
 
 ### Description
 
-This dataset consists of NE-annotated historical commentaries in the field of Classics, and was created in the context of the [Ajax MultiCommentary project](https://mromanello.github.io/ajax-multi-commentary/). We annotated a set of Named Entities (NEs) of domain-specific interest, according to some newly-developed [annotation guidelines](./annotation-guidelines-classics-KEs.pdf). Such NEs feature a few domain-specific entity types such as works, material objects (e.g. manuscripts) and bibliographic references, in addition to more universal entities like persons, locations and organizations. Entity linking is performed against [Wikidata](http://wikidata.org/).
+This dataset consists of NE-annotated historical commentaries in the field of Classics, and was created in the context of the [Ajax MultiCommentary project](https://mromanello.github.io/ajax-multi-commentary/). We annotated a set of Named Entities (NEs) of domain-specific interest, according to some newly-developed [annotation guidelines](https://doi.org/10.5281/zenodo.6368101). Such NEs feature a few domain-specific entity types such as works, material objects (e.g. manuscripts) and bibliographic references, in addition to more universal entities like persons, locations and organizations. Entity linking is performed against [Wikidata](http://wikidata.org/).
 
 ## Composition
 
-[Commentaries](https://en.wikipedia.org/wiki/Commentary_(philology)) are a specific genre of scholarly publications that focus on one specific text (or part of it) and aim to provide the reader with in-depth information to understand this text. From an information extraction point of view, commentaries are very rich in terms of KEs as they contain mentions of mythological characters (heroes, gods, etc.), scholars, works of primary and secondary literature – all this in a style which favours conciseness and makes abundant usage of abbreviations.
+[Commentaries](https://en.wikipedia.org/wiki/Commentary_(philology)) are a specific genre of scholarly publications that focus on one specific text (or part of it) and aim to provide the reader with in-depth information to understand this text. From an information extraction point of view, commentaries are very rich in terms of NEs as they contain mentions of mythological characters (heroes, gods, etc.), scholars, works of primary and secondary literature – all this in a style which favours conciseness and makes abundant usage of abbreviations.
 
 For this dataset, we annotated randomly selected pages from three 19th century commentaries written in German, English and French about an Ancient Greek tragedy by Sophocles, the *Ajax*. As to the quality of the OCR, we used the output of the OCR engine Tesseract (see [this paper](https://arxiv.org/abs/2110.06817) for further details on OCR quality evaluation of these commentaries). An example of a commentary page is shown in [this image](ajmc-commentary-layout-regions.png).
 
