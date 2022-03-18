@@ -60,9 +60,21 @@ The *ajmc* dataset can be used for:
 - **Documents:** *ajmc* documents correspond to pages of classical commentaries (only pages contanining introduction/preface or commentary sections were selected).
 - **Sentence splitting:** annotated manually (see Guidelines, section 4).
 
-**HIPE-2022 v1.0 release notes**
+### Data release notes
 
-- Release v1.0 contains only a data sample (EN, DE). Train and dev sets will be included in the next HIPE-2022 release.
+**HIPE-2022-data v2.0**
+- This release contains dev and train set for all languages (EN, DE, FR). 
+- It also includes the mappings of OCR/gold transcript for those entities that are affected by OCR noise. These mappings will be of particurlar use for entity linking, where the impact of OCR noise on short entities is much higher than on other entities. These mappings are contained in three files named `ajmc-entity-ocr-correction-{LANG}.tsv` and located in the corpus' root directory. Each file contains the following columns:
+    - `entity_surface`: entity surface form as in the original OCR 
+    - `gold_transcript`: manual transcription (of entity surface form)
+    - `levenshtein_norm`: normalised levennshtein distance between `entity_surface` and `gold_transcript`
+    - `entity_fine_type`: fine-grained NE type
+    - `wikidata_id`: entity's Wikidata ID when entity is not NIL (otherwise empty value)
+    - `frequency`: the number of times that the same OCR error pattern occurs in dev and train sets (e.g. the abbreviation of Aeschylus' name is wrongly recognised Aſch. -> Äſch. 15 times in the DE corpus).
+
+**HIPE-2022-data v1.0**
+
+- This release contains only a data sample (EN, DE). Train and dev sets will be included in the next HIPE-2022 release.
 
 ### Domain specificity
 

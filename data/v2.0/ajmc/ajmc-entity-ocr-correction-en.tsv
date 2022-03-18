@@ -1,99 +1,73 @@
-orig_token	gold_transcript	levenshtein_norm	entity_fine_type	wikidata_id	frequency
-EL	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	6
+entity_surface	gold_transcript	levenshtein_norm	entity_fine_type	wikidata_id	frequency
 Thue.	Thuc.	0.2	pers.author	http://www.wikidata.org/entity/Q41683	6
 EL	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	6
-Thue.	Thuc.	0.2	work.primlit	http://www.wikidata.org/entity/Q41683	6
-Thue.	Thuc.	0.2	pers.author	http://www.wikidata.org/entity/Q41683	6
-EL	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	6
-EL	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	6
-Thue.	Thuc.	0.2	pers.author	http://www.wikidata.org/entity/Q41683	6
-EL	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	6
-Thue.	Thuc.	0.2	pers.author	http://www.wikidata.org/entity/Q41683	6
-Thue.	Thuc.	0.2	pers.author	http://www.wikidata.org/entity/Q41683	6
-Ten.	Xen.	0.25	pers.author	http://www.wikidata.org/entity/Q129772	5
-Ten.	Xen.	0.25	pers.author	http://www.wikidata.org/entity/Q129772	5
-Ten.	Xen.	0.25	pers.author	http://www.wikidata.org/entity/Q129772	5
-Ten.	Xen.	0.25	pers.author	http://www.wikidata.org/entity/Q129772	5
+Ten.	Xen.	0.25	pers.author	http://www.wikidata.org/entity/Q129772	4
+IL	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	3
 El	El.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q733444	3
 E.onL.	E. on L.	0.25	work.seclit		3
-E.onL.	E. on L.	0.25	work.seclit		3
-Ὁ. C.	O. C.	0.2	work.primlit		3
-El	El.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q733444	3
-IL	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	3
-Ὁ. C.	O. C.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	3
-El	El.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q733444	3
-IL	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	3
-E.onL.	E. on L.	0.25	work.seclit		3
-IL	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	3
-ΕἸ.	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q540161	2
-Pi.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	2
-ΟἹ.	Ol.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q18146776	2
-Eur,	Eur.	0.25	pers.author	http://www.wikidata.org/entity/Q48305	2
-P. .	P. V.	0.2	work.primlit	http://www.wikidata.org/entity/Q846870	2
-bel	bell	0.25	pers.editor		2
-Aesch,	Aesch.	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q40939	2
-O. T	O. T.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	2
-Slob.	Stob.	0.2	pers.author	http://www.wikidata.org/entity/Q444079	2
-Menelais	Menelaüs	0.125	pers.myth	http://www.wikidata.org/entity/Q171839	2
 Eur,	Eur.	0.25	pers.author	http://www.wikidata.org/entity/Q48305	2
 Pers,	Pers.	0.2	work.primlit	http://www.wikidata.org/entity/Q788458	2
-P. .	P. V.	0.2	work.primlit	http://www.wikidata.org/entity/Q846870	2
-ΕἸ.	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	2
+OL	Ol.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q18146776	2
+Ὁ. C.	O. C.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	2
 ΟἹ.	Ol.	0.6666666666666666	pers.author	http://www.wikidata.org/entity/Q18146776	2
-OL	Ol.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q18146776	2
-Pers,	Pers.	0.2	work.primlit	http://www.wikidata.org/entity/Q788458	2
-Pi.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	2
+ΕἸ.	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	2
 Aesch,	Aesch.	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q40939	2
-OL	Ol.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q18146776	2
-Dh.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	1
-O. 7	O.T.	0.5	work.primlit	http://www.wikidata.org/entity/Q148643	1
-P2.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	1
-Anat.	Andr.	0.4	work.primlit	http://www.wikidata.org/entity/Q512802	1
-II.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	1
-O. 7a.	O.T.	0.5	work.primlit	https://www.wikidata.org/wiki/Q148643	1
-ot.	or.	0.3333333333333333	work.primlit		1
-4122.	Ant.	0.8	work.primlit	http://www.wikidata.org/entity/Q241077	1
-Den.	Dem.	0.25	pers.author	http://www.wikidata.org/entity/Q117253	1
-Blut.	Plut.	0.2	work.primlit	http://www.wikidata.org/entity/Q1196456	1
-4g.	Ag.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q3320792	1
+Pi.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	2
+bel	bell	0.25	pers.editor		2
+P. .	P. V.	0.2	work.primlit	http://www.wikidata.org/entity/Q846870	2
 4le.	Alc.	0.5	work.primlit	http://www.wikidata.org/entity/Q1246408	1
+II.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Anat.	Andr.	0.4	work.primlit	http://www.wikidata.org/entity/Q512802	1
+P2.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+ot.	or.	0.3333333333333333	work.primlit		1
+Den.	Dem.	0.25	pers.author	http://www.wikidata.org/entity/Q117253	1
+O. 7·	O. T.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
+IUem.	Dem.	0.4	pers.author	http://www.wikidata.org/entity/Q117253	1
+Blut.	Plut.	0.2	work.primlit	http://www.wikidata.org/entity/Q1196456	1
+Plmt.	Plut.	0.2	work.primlit	http://www.wikidata.org/entity/Q1196456	1
 2- :	O. T.	1.0	work.primlit	http://www.wikidata.org/entity/Q294001	1
 fb.	ib.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q76347075	1
-O. 7·	O. T.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
-Fhet.	Rhet.	0.2	work.primlit	http://www.wikidata.org/entity/Q1896045	1
-Woo.	Nub.	0.75	work.primlit	http://www.wikidata.org/entity/Q868447	1
-Plmt.	Plut.	0.2	work.primlit	http://www.wikidata.org/entity/Q1196456	1
-Ο.7.	O.T.	0.5	work.primlit	http://www.wikidata.org/entity/Q148643	1
-Fers.	Pers.	0.2	work.primlit	http://www.wikidata.org/entity/Q788458	1
 Seppl.	Suppl.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q672319	1
-IUem.	Dem.	0.4	pers.author	http://www.wikidata.org/entity/Q117253	1
-Valckenir	Valckenär	0.1111111111111111	pers.editor	http://www.wikidata.org/entity/Q2155572	1
-Viz. Apoll	Vit. Apoll.	0.1818181818181818	work.primlit	http://www.wikidata.org/entity/Q1225196	1
-Juliue Caesar	Julius Caesar	0.0769230769230769	pers.other	http://www.wikidata.org/entity/Q1048	1
-ἐῤ.	ib.	0.6666666666666666	work.primlit		1
-W. H.	N. H.	0.2	work.primlit	http://www.wikidata.org/entity/Q442	1
-0. 7.	O. T.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Eupm.	Eum.	0.2	work.primlit	http://www.wikidata.org/entity/Q1233164	1
+Fers.	Pers.	0.2	work.primlit	http://www.wikidata.org/entity/Q788458	1
+O. T	O. T.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Slob.	Stob.	0.2	pers.author	http://www.wikidata.org/entity/Q444079	1
+Fhet.	Rhet.	0.2	work.primlit	http://www.wikidata.org/entity/Q1896045	1
+O. 7a.	O.T.	0.5	work.primlit	https://www.wikidata.org/wiki/Q148643	1
+HI.	H.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q674638	1
+V. A.	N. A.	0.2	work.primlit	http://www.wikidata.org/entity/Q26257566	1
+Sop1.	Soph.	0.2	work.primlit	http://www.wikidata.org/entity/Q471715	1
+Choéphoroe	Choëphoroe	0.1	work.primlit	http://www.wikidata.org/entity/Q11688406	1
+O. 7.	O. T.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	1
 Aci.	Ach.	0.25	work.primlit	http://www.wikidata.org/entity/Q1059987	1
-“42.	Ant.	0.75	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Woo.	Nub.	0.75	work.primlit	http://www.wikidata.org/entity/Q868447	1
+Dh.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+O. 7	O.T.	0.5	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Ο.7.	O.T.	0.5	work.primlit	http://www.wikidata.org/entity/Q148643	1
+4g.	Ag.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q3320792	1
+4122.	Ant.	0.8	work.primlit	http://www.wikidata.org/entity/Q241077	1
+Valckenir	Valckenär	0.1111111111111111	pers.editor	http://www.wikidata.org/entity/Q2155572	1
+Schweighiuser	Schweighäuser	0.0769230769230769	pers.editor	http://www.wikidata.org/entity/Q3174599	1
+Qd.	Od.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q35160	1
+Flbr.	Flor.	0.2	work.primlit	http://www.wikidata.org/entity/Q107029507	1
 ard cent. B.C	3rd cent B. C.	0.2857142857142857	date		1
+W. H.	N. H.	0.2	work.primlit	http://www.wikidata.org/entity/Q442	1
+257	El.	1.0	work.primlit	http://www.wikidata.org/entity/Q733444	1
+Juliue Caesar	Julius Caesar	0.0769230769230769	pers.other	http://www.wikidata.org/entity/Q1048	1
+Viz. Apoll	Vit. Apoll.	0.1818181818181818	work.primlit	http://www.wikidata.org/entity/Q1225196	1
+ἐῤ.	ib.	0.6666666666666666	work.primlit		1
+0. 7.	O. T.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
+“42.	Ant.	0.75	work.primlit	http://www.wikidata.org/entity/Q241077	1
 Pk.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	1
 77.	Tr.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q945342	1
-Flbr.	Flor.	0.2	work.primlit	http://www.wikidata.org/entity/Q107029507	1
+Appiam	Appian	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q190368	1
 Fer.	Ter.	0.25	pers.author	http://www.wikidata.org/entity/Q172048	1
 Ck.	Ch.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q11688406	1
 Miad	Iliad	0.4	work.primlit	http://www.wikidata.org/entity/Q8275	1
-257	El.	1.0	work.primlit	http://www.wikidata.org/entity/Q733444	1
-O. 7.	O. T.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	1
-Qd.	Od.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q35160	1
-Schweighiuser	Schweighäuser	0.0769230769230769	pers.editor	http://www.wikidata.org/entity/Q3174599	1
-Eupm.	Eum.	0.2	work.primlit	http://www.wikidata.org/entity/Q1233164	1
-Sop1.	Soph.	0.2	work.primlit	http://www.wikidata.org/entity/Q471715	1
-HI.	H.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q674638	1
-Choéphoroe	Choëphoroe	0.1	work.primlit	http://www.wikidata.org/entity/Q11688406	1
-V. A.	N. A.	0.2	work.primlit	http://www.wikidata.org/entity/Q26257566	1
-5. c¢. Τὶ	S. c. T.	0.4444444444444444	work.primlit	http://www.wikidata.org/entity/Q506546	1
-Phil,	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	1
-1.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+BRell. Civ.	Bell. Civ.	0.0909090909090909	work.primlit	http://www.wikidata.org/entity/Q87768678	1
+Agos	Argos	0.2	loc	http://www.wikidata.org/entity/Q13533353	1
+Cνn.	Cyn.	0.25	work.primlit	http://www.wikidata.org/entity/Q3008827	1
+Pind.	Pind. Ol. 10. 99	0.6875	pers.author	http://www.wikidata.org/entity/Q134929	1
 W. Scorr	W. SCOTT	0.5	pers.author	http://www.wikidata.org/entity/Q79025	1
 Essay onL.	Essay on L.	0.0909090909090909	work.seclit		1
 Phoen,	Phoen.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q1233660	1
@@ -103,9 +77,9 @@ Essay on IL.	Essay on L.	0.0833333333333333	work.seclit		1
 Ο. 7.	O. T.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
 Essay on L	Essay on L.	0.0909090909090909	work.seclit		1
 Ale.	Alc.	0.25	pers.author	http://www.wikidata.org/entity/Q212872	1
-Pind.	Pind. Ol. 10. 99	0.6875	pers.author	http://www.wikidata.org/entity/Q134929	1
-BRell. Civ.	Bell. Civ.	0.0909090909090909	work.primlit	http://www.wikidata.org/entity/Q87768678	1
+5. c¢. Τὶ	S. c. T.	0.4444444444444444	work.primlit	http://www.wikidata.org/entity/Q506546	1
 ΕἸ,	El.	1.0	work.primlit	http://www.wikidata.org/entity/Q540161	1
+Phil,	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	1
 5,	S.	1.0	pers.author		1
 Hat.	Hdt.	0.25	pers.author	http://www.wikidata.org/entity/Q26825	1
 Ο, C.	O. C.	0.4	work.primlit	http://www.wikidata.org/entity/Q294001	1
@@ -116,16 +90,12 @@ Zragicorum Graecorum Fragmenta	Tragicorum Graecorum Fragmenta	0.0333333333333333
 elios	Helios	0.1666666666666666	pers.myth	http://www.wikidata.org/entity/Q134270	1
 Diibner	Dübner	0.2857142857142857	pers.other	http://www.wikidata.org/entity/Q97220	1
 155%	1552/3	0.5	date		1
+1.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
 1],	Il.	1.0	work.primlit	http://www.wikidata.org/entity/Q8275	1
-1. A.	I. A.	0.2	work.primlit	http://www.wikidata.org/entity/Q1233770	1
-ἘΒ65.	Rhes.	0.8	work.primlit	http://www.wikidata.org/entity/Q667750	1
-Ο. 6,	O. C.	0.6	work.primlit	http://www.wikidata.org/entity/Q294001	1
-Appiam	Appian	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q190368	1
-Cνn.	Cyn.	0.25	work.primlit	http://www.wikidata.org/entity/Q3008827	1
 Fop.	Rep.	0.5	work.primlit		1
+//.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
 The .	Theb.	0.2	work.primlit	http://www.wikidata.org/entity/Q506546	1
 Bax	Pax	0.3333333333333333	work.primlit	http://www.wikidata.org/wiki/Q1193602	1
-Agos	Argos	0.2	loc	http://www.wikidata.org/entity/Q13533353	1
 Very.	Verg.	0.2	pers.author	http://www.wikidata.org/entity/Q1398	1
 ll.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	1
 Aphrodit	Aphrodite	0.1111111111111111	pers.myth	http://www.wikidata.org/entity/Q35500	1
@@ -133,8 +103,9 @@ Odys- neus	Odys- seus	0.125	pers.myth	http://www.wikidata.org/entity/Q47231	1
 fb.	Ib.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q123397	1
 Pinder	Pindar	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q134929	1
 circ. όοο---595 B.C.	circ. 600—595 B.C.	0.2222222222222222	date		1
-//.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Δ δίς	Rhet.	1.0	work.primlit	http://www.wikidata.org/entity/Q1896045	1
 Zl.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	1
+1. A.	I. A.	0.2	work.primlit	http://www.wikidata.org/entity/Q1233770	1
 //iad	Iliad	0.4	work.primlit	http://www.wikidata.org/entity/Q8275	1
 Dindgrf	Dindorf	0.1428571428571428	pers.editor	http://www.wikidata.org/entity/Q67533	1
 E.on 1,	E. on L.	0.375	work.seclit		1
@@ -143,4 +114,6 @@ El,	El.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q733444	1
 O. Ὁ,	O. C.	0.4	work.primlit	http://www.wikidata.org/entity/Q294001	1
 0.C.	O. C.	0.4	work.primlit	http://www.wikidata.org/entity/Q294001	1
 L. and 5.	L. and S.	0.1111111111111111	work.seclit		1
-Δ δίς	Rhet.	1.0	work.primlit	http://www.wikidata.org/entity/Q1896045	1
+Ο. 6,	O. C.	0.6	work.primlit	http://www.wikidata.org/entity/Q294001	1
+ἘΒ65.	Rhes.	0.8	work.primlit	http://www.wikidata.org/entity/Q667750	1
+Menelais	Menelaüs	0.125	pers.myth	http://www.wikidata.org/entity/Q171839	1
