@@ -50,7 +50,7 @@ The *sonar* dataset can be used for:
 
 - EL annotation are not present in current sonar file and will be added in the next release.
 
-**HIPE-2022 v2.0 release notes*
+**HIPE-2022 v2.0 release notes**
 - EL annotation is now part of the release.
 - Thorough revision of NER and NEL annotation have been done by the HIPE team.
 - Due to time limits, we could not revise all dev set pages completely to the end of the page. The material that could not be revised was removed from the dev set. Meaning, although there is a bit less material in the dev set now, it is fully revised.
