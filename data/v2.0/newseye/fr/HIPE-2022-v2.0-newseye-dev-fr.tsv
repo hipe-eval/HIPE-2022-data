@@ -316,7 +316,7 @@ calendes	O	_	O	_	_	O	_	_	_
 grecques	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_311
+# hipe2022:document_id = dev_fr_2
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -747,7 +747,7 @@ des	O	_	O	_	_	O	_	_	_
 peuples	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_738
+# hipe2022:document_id = dev_fr_3
 # hipe2022:date = 1919-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -961,7 +961,7 @@ sa	O	_	O	_	_	O	_	_	_
 résidence	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_945
+# hipe2022:document_id = dev_fr_4
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -1373,7 +1373,7 @@ Total	O	_	O	_	_	O	_	_	NoSpaceAfter
 977	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_1363
+# hipe2022:document_id = dev_fr_5
 # hipe2022:date = 1930-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -1683,7 +1683,7 @@ au	O	_	O	_	_	O	_	_	NoSpaceAfter
 Paramount	B-LOC	_	O	_	_	O	Q289908	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_1669
+# hipe2022:document_id = dev_fr_6
 # hipe2022:date = 1933-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -3287,7 +3287,7 @@ Foncier	I-ORG	_	O	_	_	O	NIL	_	_
 4760	O	_	O	_	_	O	_	_	_
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_3453
+# hipe2022:document_id = dev_fr_7
 # hipe2022:date = 1936-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -3685,7 +3685,7 @@ son	O	_	O	_	_	O	_	_	_
 enfant	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_3848
+# hipe2022:document_id = dev_fr_8
 # hipe2022:date = 1939-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -3972,7 +3972,7 @@ Benoit	I-PER	_	O	_	_	O	NIL	_	NoSpaceAfter
 Lévy	I-PER	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_4137
+# hipe2022:document_id = dev_fr_9
 # hipe2022:date = 1936-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -4461,7 +4461,7 @@ gros	O	_	O	_	_	O	_	_	_
 capitaliste	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_4624
+# hipe2022:document_id = dev_fr_10
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -4858,7 +4858,7 @@ excellent	O	_	O	_	_	O	_	_	_
 enseignement	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_5025
+# hipe2022:document_id = dev_fr_11
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -5205,7 +5205,7 @@ in	O	_	O	_	_	O	_	_	NoSpaceAfter
 8°	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_5368
+# hipe2022:document_id = dev_fr_12
 # hipe2022:date = 1854-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -6098,7 +6098,7 @@ l	O	_	O	_	_	O	_	_	NoSpaceAfter
 opinion	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_6259
+# hipe2022:document_id = dev_fr_13
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -6354,7 +6354,7 @@ chez	O	_	O	_	_	O	_	_	_
 lui	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_6505
+# hipe2022:document_id = dev_fr_14
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -6913,7 +6913,7 @@ libre¬	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfLine
 échange	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_7064
+# hipe2022:document_id = dev_fr_15
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -7362,7 +7362,7 @@ l	O	_	O	_	_	O	_	_	NoSpaceAfter
 Etolle	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_7516
+# hipe2022:document_id = dev_fr_16
 # hipe2022:date = 1877-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -8039,7 +8039,7 @@ cette	O	_	O	_	_	O	_	_	_
 occasion	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_8186
+# hipe2022:document_id = dev_fr_17
 # hipe2022:date = 1880-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -9036,7 +9036,7 @@ M	B-PER	_	O	_	_	O	Q182701	_	NoSpaceAfter
 Dufaure	I-PER	_	O	_	_	O	Q182701	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_9215
+# hipe2022:document_id = dev_fr_18
 # hipe2022:date = 1885-01-16
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -9228,7 +9228,7 @@ Interruptions	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 )	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_9398
+# hipe2022:document_id = dev_fr_19
 # hipe2022:date = 1884-03-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -9423,7 +9423,7 @@ sur	O	_	O	_	_	O	_	_	_
 juillet	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_9595
+# hipe2022:document_id = dev_fr_20
 # hipe2022:date = 1892-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -9699,7 +9699,7 @@ du	O	_	O	_	_	O	_	_	_
 billet	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_9876
+# hipe2022:document_id = dev_fr_21
 # hipe2022:date = 1900-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -10026,7 +10026,7 @@ arrivé	O	_	O	_	_	O	_	_	_
 Deptford	B-LOC	_	O	_	_	O	Q2308650	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_10216
+# hipe2022:document_id = dev_fr_22
 # hipe2022:date = 1910-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -10423,7 +10423,7 @@ et	O	_	O	_	_	O	_	_	_
 Sablé	B-LOC	_	O	_	_	O	Q828635	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_10611
+# hipe2022:document_id = dev_fr_23
 # hipe2022:date = 1919-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -10596,7 +10596,7 @@ principaux	O	_	O	_	_	O	_	_	_
 francs	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_10776
+# hipe2022:document_id = dev_fr_24
 # hipe2022:date = 1924-01-16
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -10894,7 +10894,7 @@ DE	O	_	O	_	_	O	_	_	NoSpaceAfter
 FRAINCE	B-LOC	_	O	_	_	O	Q142	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_11068
+# hipe2022:document_id = dev_fr_25
 # hipe2022:date = 1930-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -12103,7 +12103,7 @@ les	O	_	O	_	_	O	_	_	_
 caoutchoutières	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_12300
+# hipe2022:document_id = dev_fr_26
 # hipe2022:date = 1940-01-15
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -12251,7 +12251,7 @@ de	O	_	O	_	_	O	_	_	_
 trois	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_12447
+# hipe2022:document_id = dev_fr_27
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -12456,7 +12456,7 @@ Vienne	B-LOC	_	O	_	_	O	Q1741	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_12645
+# hipe2022:document_id = dev_fr_28
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -12812,7 +12812,7 @@ Dé¬	B-ORG	_	O	_	_	O	NIL	_	NoSpaceAfter|EndOfLine
 pôt	I-ORG	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_12996
+# hipe2022:document_id = dev_fr_29
 # hipe2022:date = NA
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -13060,7 +13060,7 @@ pleine	O	_	O	_	_	O	_	_	NoSpaceAfter
 Laponie	B-LOC	_	O	_	_	O	Q5700	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_13240
+# hipe2022:document_id = dev_fr_30
 # hipe2022:date = 1938-05-05
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -13308,7 +13308,7 @@ pleine	O	_	O	_	_	O	_	_	NoSpaceAfter
 Laponie	B-LOC	_	O	_	_	O	Q5700	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_13484
+# hipe2022:document_id = dev_fr_31
 # hipe2022:date = 1944-04-27
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -13668,7 +13668,7 @@ les	O	_	O	_	_	O	_	_	_
 payer	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_13840
+# hipe2022:document_id = dev_fr_32
 # hipe2022:date = 1940-01-17
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -16178,7 +16178,7 @@ IIIe	B-ORG	_	O	_	_	O	Q7318	_	_
 Reich	I-ORG	_	O	_	_	O	Q7318	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_16378
+# hipe2022:document_id = dev_fr_33
 # hipe2022:date = 1925-04-14
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -17085,7 +17085,7 @@ un	O	_	O	_	_	O	_	_	_
 pneu	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_17309
+# hipe2022:document_id = dev_fr_34
 # hipe2022:date = 1934-07-20
 # hipe2022:language = fr
 # hipe2022:dataset = newseye
@@ -20639,7 +20639,7 @@ Société	O	_	O	_	_	O	_	_	_
 future	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_fr_20906
+# hipe2022:document_id = dev_fr_35
 # hipe2022:date = 1946-12-27
 # hipe2022:language = fr
 # hipe2022:dataset = newseye

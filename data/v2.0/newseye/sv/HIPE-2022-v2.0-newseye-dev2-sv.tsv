@@ -696,7 +696,7 @@ J	I-PER	_	O	_	_	O	NIL	_	NoSpaceAfter
 Laurinus	I-PER	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_696
+# hipe2022:document_id = test_sv_2
 # hipe2022:date = 1900-03-31
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -1480,7 +1480,7 @@ till	O	_	O	_	_	O	_	_	_
 statsutskottet	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_1489
+# hipe2022:document_id = test_sv_3
 # hipe2022:date = 1908-08-25
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -1945,7 +1945,7 @@ i	O	_	O	_	_	O	_	_	_
 Tyskland	B-LOC	_	O	_	_	O	Q1206012	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_1962
+# hipe2022:document_id = test_sv_4
 # hipe2022:date = 1913-04-18
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -2389,7 +2389,7 @@ för	O	_	O	_	_	O	_	_	_
 publiken	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_2404
+# hipe2022:document_id = test_sv_5
 # hipe2022:date = 1911-10-18
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -2615,7 +2615,7 @@ ett	O	_	O	_	_	O	_	_	_
 anfallsvapen	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_2623
+# hipe2022:document_id = test_sv_6
 # hipe2022:date = 1916-02-18
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -2982,7 +2982,7 @@ der	O	_	O	_	_	O	_	_	_
 ytan	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_2986
+# hipe2022:document_id = test_sv_7
 # hipe2022:date = 1899-07-22
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -3347,7 +3347,7 @@ ryska	O	_	O	_	_	O	_	_	_
 familjen	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_3346
+# hipe2022:document_id = test_sv_8
 # hipe2022:date = 1916-02-26
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -3654,7 +3654,7 @@ omväg	O	_	O	_	_	O	_	_	NoSpaceAfter
 Verdun	B-LOC	_	O	_	_	O	Q154748	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_3646
+# hipe2022:document_id = test_sv_9
 # hipe2022:date = 1867-02-20
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -4053,7 +4053,7 @@ barn	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 barna	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_4038
+# hipe2022:document_id = test_sv_10
 # hipe2022:date = 1874-02-20
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -4324,7 +4324,7 @@ Dist	O	_	O	_	_	O	_	_	NoSpaceAfter
 =kurs	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_4314
+# hipe2022:document_id = test_sv_11
 # hipe2022:date = 1883-01-26
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -4910,7 +4910,7 @@ m	O	_	O	_	_	O	_	_	NoSpaceAfter
 fl	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_4898
+# hipe2022:document_id = test_sv_12
 # hipe2022:date = 1848-07-21
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -5394,7 +5394,7 @@ ordentlig	O	_	O	_	_	O	_	_	_
 beskickning	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_5377
+# hipe2022:document_id = test_sv_13
 # hipe2022:date = 1851-06-20
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -5607,7 +5607,7 @@ huset	I-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 Auktion	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_5582
+# hipe2022:document_id = test_sv_14
 # hipe2022:date = 1853-08-26
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -5771,7 +5771,7 @@ grammatikor	O	_	O	_	_	O	_	_	NoSpaceAfter
 utgifwen	O	_	O	_	_	O	_	_	_
 för	O	_	O	_	_	O	_	_	EndOfSentence
 
-# hipe2022:document_id = test_sv_5738
+# hipe2022:document_id = test_sv_15
 # hipe2022:date = 1858-07-20
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -5977,7 +5977,7 @@ Wogulernas	O	_	O	_	_	O	_	_	_
 språk	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_5935
+# hipe2022:document_id = test_sv_16
 # hipe2022:date = 1860-01-21
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -6155,7 +6155,7 @@ blifwa	O	_	O	_	_	O	_	_	_
 lifliga	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_6106
+# hipe2022:document_id = test_sv_17
 # hipe2022:date = 1863-07-25
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -6393,7 +6393,7 @@ grefve	B-PER	_	O	_	_	O	Q4993034	_	NoSpaceAfter
 Manderström	I-PER	_	O	_	_	O	Q4993034	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_6334
+# hipe2022:document_id = test_sv_18
 # hipe2022:date = 1871-07-20
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -6637,7 +6637,7 @@ franska	O	_	O	_	_	O	_	_	_
 regeringen	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_6571
+# hipe2022:document_id = test_sv_19
 # hipe2022:date = 1876-11-18
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -6752,7 +6752,7 @@ erhöll	O	_	O	_	_	O	_	_	_
 röster	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_6677
+# hipe2022:document_id = test_sv_20
 # hipe2022:date = 1886-07-24
 # hipe2022:language = sv
 # hipe2022:dataset = newseye
@@ -7028,7 +7028,7 @@ Skandinaviska	B-LOC	_	O	_	_	O	Q21195	_	_
 länderna	I-LOC	_	O	_	_	O	Q21195	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_sv_6944
+# hipe2022:document_id = test_sv_21
 # hipe2022:date = 1887-01-07
 # hipe2022:language = sv
 # hipe2022:dataset = newseye

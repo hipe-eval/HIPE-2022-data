@@ -1166,7 +1166,7 @@ einigten	I-LOC	_	O	_	_	O	NIL	_	_
 Staaten	I-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_1182
+# hipe2022:document_id = dev_de_2
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -2930,7 +2930,7 @@ auch	O	_	O	_	_	O	_	_	_
 hier	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_2966
+# hipe2022:document_id = dev_de_3
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -7079,7 +7079,7 @@ rechtsradikalen	O	_	O	_	_	O	_	_	_
 Verbände	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_7169
+# hipe2022:document_id = dev_de_4
 # hipe2022:date = 1864-07-02
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -14731,7 +14731,7 @@ unmöglich	O	_	O	_	_	O	_	_	_
 sei	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_15020
+# hipe2022:document_id = dev_de_5
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -18811,7 +18811,7 @@ Triumphpforte	O	_	O	_	_	O	_	_	NoSpaceAfter
 )	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_19258
+# hipe2022:document_id = dev_de_6
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -22762,7 +22762,7 @@ Uhr	O	_	O	_	_	O	_	_	_
 ab	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_23271
+# hipe2022:document_id = dev_de_7
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -27656,7 +27656,7 @@ bestärken	O	_	O	_	_	O	_	_	_
 möge	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_28293
+# hipe2022:document_id = dev_de_8
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -30488,7 +30488,7 @@ zu	O	_	O	_	_	O	_	_	_
 haben	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_31271
+# hipe2022:document_id = dev_de_9
 # hipe2022:date = 1873-07-05
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -32803,7 +32803,7 @@ zu	O	_	O	_	_	O	_	_	_
 präsentiren	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_33596
+# hipe2022:document_id = dev_de_10
 # hipe2022:date = 1895-07-06
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -33413,7 +33413,7 @@ Jägerndorf	B-LOC	_	O	_	_	O	NIL	_	NoSpaceAfter
 ein	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_34231
+# hipe2022:document_id = dev_de_11
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -35566,7 +35566,7 @@ ich	O	_	O	_	_	O	_	_	_
 weiß	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = dev_de_36441
+# hipe2022:document_id = dev_de_12
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye

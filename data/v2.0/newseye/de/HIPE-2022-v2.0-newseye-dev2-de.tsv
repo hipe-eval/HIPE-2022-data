@@ -2239,7 +2239,7 @@ Notiz	O	_	O	_	_	O	_	_	_
 gebeten	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_2290
+# hipe2022:document_id = test_de_2
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -5032,7 +5032,7 @@ Uhr	O	_	O	_	_	O	_	_	_
 geschlossen	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_5211
+# hipe2022:document_id = test_de_3
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -7905,7 +7905,7 @@ Vorwärts	O	_	O	_	_	O	_	_	_
 aus	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_8206
+# hipe2022:document_id = test_de_4
 # hipe2022:date = 1864-07-02
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -10522,7 +10522,7 @@ ihr	O	_	O	_	_	O	_	_	_
 Zuhälter	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_10865
+# hipe2022:document_id = test_de_5
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -12848,7 +12848,7 @@ Bl	O	_	O	_	_	O	_	_	NoSpaceAfter
 —	O	_	O	_	_	O	_	_	NoSpaceAfter
 3s1	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_13272
+# hipe2022:document_id = test_de_6
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -19308,7 +19308,7 @@ wieder	O	_	O	_	_	O	_	_	NoSpaceAfter
 Danksagung	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_19923
+# hipe2022:document_id = test_de_7
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -21603,7 +21603,7 @@ Vorarlberger	B-LOC	_	O	_	_	O	Q38981	_	_
 Sender	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_22296
+# hipe2022:document_id = test_de_8
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -24007,7 +24007,7 @@ Mauer	O	_	O	_	_	O	_	_	NoSpaceAfter
 14	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_24873
+# hipe2022:document_id = test_de_9
 # hipe2022:date = 1873-07-05
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -26741,7 +26741,7 @@ Szegedin	B-LOC	_	O	_	_	O	Q81581	_	_
 )	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_27703
+# hipe2022:document_id = test_de_10
 # hipe2022:date = 1895-07-06
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -33675,7 +33675,7 @@ zu	O	_	O	_	_	O	_	_	_
 canalisiren	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_34923
+# hipe2022:document_id = test_de_11
 # hipe2022:date = 1911-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
@@ -36132,7 +36132,7 @@ Mühlberg	O	_	O	_	_	O	_	_	_
 an	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter|EndOfSentence
 
-# hipe2022:document_id = test_de_37463
+# hipe2022:document_id = test_de_12
 # hipe2022:date = 1933-07-01
 # hipe2022:language = de
 # hipe2022:dataset = newseye
