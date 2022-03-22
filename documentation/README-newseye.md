@@ -45,11 +45,7 @@ The *newseye* dataset can be used for:
 	-  309 lines/tokens across all datasets in all languages contain the `###` subword marker.
 	-  at conversion time, some missing tab (`\t`) and malformed Wikidata QID were manually corrected.
 
-
-	
-**HIPE-2022 v1.0 release notes**
-
--  Some parts (mainly tables) of some German documents seem to be missing annotations. This will be fixed for the next HIPE-2022 release. 
+### Data release notes
 
 **HIPE-2022 v2.0 release notes**
 
@@ -60,8 +56,9 @@ The *newseye* dataset can be used for:
     
 Also, please note that `train_de_10` has a large chunk of ca. 100,000 non-annotated tokens at the beginning. 
 	
-	
+**HIPE-2022 v1.0 release notes**
 
+-  Some parts (mainly tables) of some German documents seem to be missing annotations. This will be fixed for the next HIPE-2022 release. 
 
 
 
