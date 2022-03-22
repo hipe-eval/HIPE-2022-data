@@ -14,6 +14,7 @@ Key information:
 - **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://doi.org/10.5281/zenodo.6089968) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6089968.svg)](https://doi.org/10.5281/zenodo.6089968)
 - **Release history**:     
       - 15.02.2022: v1.0
+      - 22.03.2022: v2.0
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
