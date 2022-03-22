@@ -45,16 +45,20 @@ The *newseye* dataset can be used for:
 	-  309 lines/tokens across all datasets in all languages contain the `###` subword marker.
 	-  at conversion time, some missing tab (`\t`) and malformed Wikidata QID were manually corrected.
 
+### Data release notes
 
+**HIPE-2022 v2.0 release notes**
+
+- In the document metadata of each file, the value of `# hipe2022:document_id` has (sligtly) changed: the number in `train_[lg]_[nb]` is now the sequence number of the document in the file (it was by mistake the token sequential number in previous release). Newseye orginal data does not have document id, it is an addition from HIPE-2022.
+- The train set of Newseye German data contained quite some parts with no annotations. Therefore we removed the following documents from the file `HIPE-2022-v2.0-newseye-train-de.tsv`: 
+    - documents `train_de_3`, `train_de_4` and `train_de_7`, which do not have any NE annotation;
+    - document `train_de_6`, which has less than 20 entities for 10,000 tokens.
+    
+Also, please note that `train_de_10` has a large chunk of ca. 100,000 non-annotated tokens at the beginning. 
 	
 **HIPE-2022 v1.0 release notes**
 
 -  Some parts (mainly tables) of some German documents seem to be missing annotations. This will be fixed for the next HIPE-2022 release. 
-
-	
-	
-	
-
 
 
 
