@@ -13,7 +13,7 @@ Key information:
 - **License**: HIPE-2022 data is released under a [CC BY-NV-SA 4.0 License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://doi.org/10.5281/zenodo.6089968) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6089968.svg)](https://doi.org/10.5281/zenodo.6089968)
 - **Release history**:     
-      - 15.02.2022: v1.0
+      - 15.02.2022: v1.0    
       - 22.03.2022: v2.0
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
