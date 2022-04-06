@@ -4,14 +4,22 @@
 
 Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) evaluation lab on historical newspapers in three languages, HIPE-2022 is based on diverse datasets and aims at confronting systems with the challenges of **dealing with more languages, learning domain-specific entities, and adapting to diverse annotation tag sets**. The objective is to gain new insights into the _transferability_ of named entity processing approaches across languages, time periods, document types, and annotation tag sets.
 
-For more information on the shared task, please refer to:    
-- :computer: the [website](https://hipe-eval.github.io/HIPE-2022/) for general information on the shared task and registration;    
-- :notebook: the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6045662.svg)](https://doi.org/10.5281/zenodo.6045662).
+[Key information](#key-information)    
+[Primary datasets](#primary-datasets)    
+[HIPE-2022 Releases](#hipe-2022-releases)    
+[HIPE-2022 Evaluation](#hipe-2022-evaluation)    
+[Acknowledgements](#acknowledgements)    
+[References](#references)
 
-Key information:    
+
+
+## Key information
+  
+- :computer: Visit the [**website**](https://hipe-eval.github.io/HIPE-2022/) for general information on the shared task and registration.    
+- :notebook: Read the [**Participation Guidelines**](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6045662.svg)](https://doi.org/10.5281/zenodo.6045662)
 - **License**: HIPE-2022 data is released under a [CC BY-NV-SA 4.0 License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-- **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://doi.org/10.5281/zenodo.6089968) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6089968.svg)](https://doi.org/10.5281/zenodo.6089968)
+- **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://zenodo.org/record/6375600) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6375600.svg)](https://doi.org/10.5281/zenodo.6375600)
 - **Release history**:     
       - 15.02.2022: v1.0    
       - 22.03.2022: v2.0
@@ -188,6 +196,9 @@ An overview of the evaluation settings is given below; refer to the [Participati
 The HIPE 2022 organizing team expresses her greatest appreciation to the CLEF-2022 Lab Organising Committee for the overall organization, to the members of the HIPE-2022 advisory board, namely Sally Chambers, Frédéric Kaplan and Clemens Neudecker, for their support, and to the partnering projects, namely AJMC, impresso-HIPE-2020, Living with Machines, NewsEye, and SoNAR, for contributing (and hiding) their NE-annotated datasets.
 
 ## References
+
+**About HIPE-2022**
+- M. Ehrmann, M. Romanello, A. Doucet, and S. Clematide, S. (2022). Introducing the HIPE 2022 Shared Task: Named Entity Recognition and Linking in Multilingual Historical Documents. In: Advances in Information Retrieval. ECIR 2022. Lecture Notes in Computer Science, vol 13186. Springer, Cham. [https://doi.org/10.1007/978-3-030-99739-7_44](https://doi.org/10.1007/978-3-030-99739-7_44) (link to [preprint](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/HIPE2022_ECIR_shortpaper_postprint.pdf)).
 
 **Datasets**
 
