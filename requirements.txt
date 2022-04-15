@@ -1,3 +1,4 @@
 jupyter
 jupyter_contrib_nbextensions
-https://github.com/hipe-eval/HIPE-pycommons/archive/refs/heads/develop.zip
+#https://github.com/hipe-eval/HIPE-pycommons/archive/refs/heads/develop.zip
+https://github.com/hipe-eval/HIPE-pycommons/archive/refs/tags/v0.3.0.zip
