@@ -6,7 +6,7 @@ TOKEN	NE-COARSE-LIT	NE-COARSE-METO	NE-FINE-LIT	NE-FINE-METO	NE-FINE-COMP	NE-NEST
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0071
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 λῆς	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 les	O	_	O	_	_	O	_	_	_
@@ -299,7 +299,7 @@ esse	O	_	O	_	_	O	_	_	EndOfSentence
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0080
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 312	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Tù	O	_	O	_	_	O	_	_	_
@@ -755,7 +755,7 @@ fatex	O	_	O	_	_	O	_	_	NoSpaceAfter
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0082
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 ποτ	O	_	O	_	_	O	_	_	NoSpaceAfter
 ’	O	_	O	_	_	O	_	_	_
 εἰ	O	_	O	_	_	O	_	_	_
@@ -1125,7 +1125,7 @@ a	O	_	O	_	_	O	_	_	EndOfSentence
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0084
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 876	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Ἐν	O	_	O	_	_	O	_	_	_
@@ -1477,7 +1477,7 @@ Roi	I-work	_	I-work.primlit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0088
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 438	O	_	O	_	_	O	_	_	NoSpaceAfter
 -	O	_	O	_	_	O	_	_	NoSpaceAfter
 449	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -1833,7 +1833,7 @@ xapi	O	_	O	_	_	O	_	_	_
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0096
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 tion	O	_	O	_	_	O	_	_	_
 de	O	_	O	_	_	O	_	_	_
 l	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -2155,7 +2155,7 @@ couverts	O	_	O	_	_	O	_	_	NoSpaceAfter
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0104
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 8640	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Ἐχτὸς	O	_	O	_	_	O	_	_	_
@@ -2410,7 +2410,7 @@ XX	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.38
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0105
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 658	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 "Eyyos	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -2760,7 +2760,7 @@ coneret	O	_	O	_	_	O	_	_	_
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0112
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 comme	O	_	O	_	_	O	_	_	_
 qUcrv	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
@@ -3227,7 +3227,7 @@ XIV	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.25
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0113
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 mer	O	_	O	_	_	O	_	_	_
 nommée	O	_	O	_	_	O	_	_	_
 par	O	_	O	_	_	O	_	_	_
@@ -3635,7 +3635,7 @@ agit	O	_	O	_	_	O	_	_	_
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0120
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 874	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Πλευρὸν	O	_	O	_	_	O	_	_	_
@@ -3882,7 +3882,7 @@ pasδῶρα	O	_	O	_	_	O	_	_	NoSpaceAfter
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0128
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 «	O	_	O	_	_	O	_	_	_
 significare	O	_	O	_	_	O	_	_	_
 potest	O	_	O	_	_	O	_	_	_
@@ -4101,7 +4101,7 @@ Agamemnon	B-work	_	B-work.primlit	_	_	O	Q3320792	_	InPrimaryReference|NoSpaceAft
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0137
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 484	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Παρών	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -4460,7 +4460,7 @@ lec	O	_	O	_	_	O	_	_	NoSpaceAfter
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0145
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 1256	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 N	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -4785,7 +4785,7 @@ Hermana	B-pers	_	B-pers.author	_	_	O	Q77616	_	NoSpaceAfter|LED0.14
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0153
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 4269	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Ὡς	O	_	O	_	_	O	_	_	_
@@ -4949,7 +4949,7 @@ Schneidewin	B-pers	_	B-pers.author	_	_	O	Q70043	_	NoSpaceAfter|LED0.00
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0062
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 [	O	_	O	_	_	O	_	_	NoSpaceAfter
 Cette	O	_	O	_	_	O	_	_	_
 explication	O	_	O	_	_	O	_	_	_
@@ -5030,7 +5030,7 @@ bas	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 δὰ	O	_	O	_	_	O	_	_	_
 vers	O	_	O	_	_	O	_	_	_
-83	O	_	O	_	_	O	_	_	NoSpaceAfter
+83	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	O	_	O	_	_	O	_	_	EndOfSentence
 D	O	_	O	_	_	O	_	_	NoSpaceAfter
 ’	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -5315,7 +5315,7 @@ hui	O	_	O	_	_	O	_	_	NoSpaceAfter
 # hipe2022:document_id = lestragdiesdeso00tourgoog_0063
 # hipe2022:dataset = ajmc
 # hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
-# ajmc:version = v0.2
+# ajmc:version = v0.3
 ἈΆ5	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Mivot1	O	_	O	_	_	O	_	_	NoSpaceAfter

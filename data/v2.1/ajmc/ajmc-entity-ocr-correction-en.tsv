@@ -9,7 +9,7 @@ Eur,	Eur.	0.25	pers.author	http://www.wikidata.org/entity/Q48305	2
 Pers,	Pers.	0.2	work.primlit	http://www.wikidata.org/entity/Q788458	2
 OL	Ol.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q18146776	2
 Ὁ. C.	O. C.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	2
-ΟἹ.	Ol.	0.6666666666666666	pers.author	http://www.wikidata.org/entity/Q18146776	2
+ΟἹ.	Ol.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q18146776	2
 ΕἸ.	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	2
 Aesch,	Aesch.	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q40939	2
 Pi.	Ph.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q1415903	2
@@ -113,7 +113,7 @@ Archil,	Archil.	0.1428571428571428	pers.author	http://www.wikidata.org/entity/Q2
 El,	El.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q733444	1
 O. Ὁ,	O. C.	0.4	work.primlit	http://www.wikidata.org/entity/Q294001	1
 0.C.	O. C.	0.4	work.primlit	http://www.wikidata.org/entity/Q294001	1
-L. and 5.	L. and S.	0.1111111111111111	work.seclit		1
+5.	S.	0.5	pers.author		1
 Ο. 6,	O. C.	0.6	work.primlit	http://www.wikidata.org/entity/Q294001	1
 ἘΒ65.	Rhes.	0.8	work.primlit	http://www.wikidata.org/entity/Q667750	1
 Menelais	Menelaüs	0.125	pers.myth	http://www.wikidata.org/entity/Q171839	1

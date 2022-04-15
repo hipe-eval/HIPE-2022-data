@@ -1,8 +1,8 @@
 entity_surface	gold_transcript	levenshtein_norm	entity_fine_type	wikidata_id	frequency
 0. R.	O. R.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	17
 Aſch.	Äſch.	0.2	pers.author	http://www.wikidata.org/entity/Q40939	15
+0. C.	O. C.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	10
 Od.	Öd.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q35160	8
-0. C.	O. C.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	8
 1.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	5
 Od. Tyr.	Öd. Tyr.	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	3
 Ὁ. R.	O. R.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	3
@@ -15,7 +15,7 @@ Od. T.	Öd.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q1486
 Lobe>	Lobeck	0.3333333333333333	pers.author	http://www.wikidata.org/entity/Q84734	2
 gan.	Agam.	0.4	work.primlit	http://www.wikidata.org/entity/Q3320792	1
 Pbil.	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	1
-0..6..	O. C.	0.6666666666666666	pers.author		1
+0..6..	O. C.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q294001	1
 O0. €.	O. C.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q294001	1
 11.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
 Menclaos	Menelaos	0.125	pers.myth	http://www.wikidata.org/entity/Q171839	1

@@ -1968,7 +1968,7 @@ like	O	_	O	_	_	O	_	_	_
 ,	O	_	O	_	_	O	_	_	_
 infr	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
-31	O	_	O	_	_	O	_	_	NoSpaceAfter
+31	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	O	_	O	_	_	O	_	_	EndOfSentence
 27	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
@@ -2021,9 +2021,9 @@ to	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 infr	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
-232	O	_	O	_	_	O	_	_	NoSpaceAfter
-,	O	_	O	_	_	O	_	_	_
-360	O	_	O	_	_	O	_	_	NoSpaceAfter
+232	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
+,	O	_	O	_	_	O	_	_	InPrimaryReference
+360	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 and	O	_	O	_	_	O	_	_	_
 was	O	_	O	_	_	O	_	_	_
@@ -2101,7 +2101,7 @@ Tecmessa	B-pers	_	B-pers.myth	_	_	O	Q10796858	_	NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 infr	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
-297	O	_	O	_	_	O	_	_	NoSpaceAfter
+297	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 but	O	_	O	_	_	O	_	_	_
 are	O	_	O	_	_	O	_	_	_
@@ -2151,10 +2151,10 @@ p	B-scope	_	B-scope	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
 and	O	_	O	_	_	O	_	_	_
 cp	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
-O	B-work	_	B-work.seclit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0.00
-.	I-work	_	I-work.seclit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0.00
-T	I-work	_	I-work.seclit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0.00
-.	I-work	_	I-work.seclit	_	_	O	Q148643	_	InPrimaryReference|LED0.00
+O	B-work	_	B-work.primlit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0.00
+.	I-work	_	I-work.primlit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0.00
+T	I-work	_	I-work.primlit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0.00
+.	I-work	_	I-work.primlit	_	_	O	Q148643	_	InPrimaryReference|LED0.00
 25	O	_	O	_	_	O	_	_	InPrimaryReference|NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 φθίνουσα	O	_	O	_	_	O	_	_	_
@@ -2223,7 +2223,7 @@ cp	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 infr	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
-772	O	_	O	_	_	O	_	_	NoSpaceAfter
+772	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 )	O	_	O	_	_	O	_	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 might	O	_	O	_	_	O	_	_	_
@@ -2287,7 +2287,7 @@ Cp	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 infr	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
-379	O	_	O	_	_	O	_	_	NoSpaceAfter
+379	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 Phil	B-work	_	B-work.primlit	_	_	O	Q1415903	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	I-work	_	I-work.primlit	_	_	O	Q1415903	_	InPrimaryReference|LED0.00
@@ -2430,9 +2430,9 @@ e	O	_	O	_	_	O	_	_	NoSpaceAfter
 οὐκ	O	_	O	_	_	O	_	_	_
 ἔνδον	O	_	O	_	_	O	_	_	_
 (	O	_	O	_	_	O	_	_	NoSpaceAfter
-1	O	_	O	_	_	O	_	_	NoSpaceAfter
-.	O	_	O	_	_	O	_	_	_
-7	O	_	O	_	_	O	_	_	NoSpaceAfter
+1	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.25
+.	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|LED0.25
+7	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.25
 ,	O	_	O	_	_	O	_	_	_
 supr	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
@@ -11502,11 +11502,11 @@ Cp	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
 Pind	B-pers	_	B-pers.author	_	_	O	Q134929	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	O	_	O	_	_	O	_	_	InPrimaryReference
-ΟἹ	B-pers	_	B-pers.author	_	_	O	Q18146776	_	InPrimaryReference|NoSpaceAfter|LED0.67
-.	I-pers	_	I-pers.author	_	_	O	Q18146776	_	InPrimaryReference|LED0.67
-7	O	_	O	_	_	O	_	_	InPrimaryReference|NoSpaceAfter
-.	O	_	O	_	_	O	_	_	InPrimaryReference
-55	O	_	O	_	_	O	_	_	InPrimaryReference|NoSpaceAfter
+ΟἹ	B-work	_	B-work.primlit	_	_	O	Q18146776	_	InPrimaryReference|NoSpaceAfter|LED0.67
+.	I-work	_	I-work.primlit	_	_	O	Q18146776	_	InPrimaryReference|LED0.67
+7	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
+.	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|LED0.00
+55	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 αἱ	O	_	O	_	_	O	_	_	_
 δὲ	O	_	O	_	_	O	_	_	_
@@ -17692,8 +17692,8 @@ infr	O	_	O	_	_	O	_	_	NoSpaceAfter
 720	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	O	_	O	_	_	O	_	_	_
 Compare	O	_	O	_	_	O	_	_	_
-Thue	B-work	_	B-work.primlit	_	_	O	Q41683	_	InPrimaryReference|NoSpaceAfter|LED0.20
-.	I-work	_	I-work.primlit	_	_	O	Q41683	_	InPrimaryReference|LED0.20
+Thue	B-pers	_	B-pers.author	_	_	O	Q41683	_	InPrimaryReference|NoSpaceAfter|LED0.20
+.	I-pers	_	I-pers.author	_	_	O	Q41683	_	InPrimaryReference|LED0.20
 1	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.80
 .	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|LED0.80
 τ	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.80
@@ -20111,10 +20111,10 @@ T	I-work	_	I-work.primlit	_	_	O	Q148643	_	InPrimaryReference|NoSpaceAfter|LED0.0
 foll	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 ;	O	_	O	_	_	O	_	_	_
-Ὁ	B-work	_	B-work.primlit	_	_	O	NIL	_	InPrimaryReference|NoSpaceAfter|LED0.20
-.	I-work	_	I-work.primlit	_	_	O	NIL	_	InPrimaryReference|LED0.20
-C	I-work	_	I-work.primlit	_	_	O	NIL	_	InPrimaryReference|NoSpaceAfter|LED0.20
-.	I-work	_	I-work.primlit	_	_	O	NIL	_	InPrimaryReference|LED0.20
+Ὁ	B-work	_	B-work.primlit	_	_	O	Q294001	_	InPrimaryReference|NoSpaceAfter|LED0.20
+.	I-work	_	I-work.primlit	_	_	O	Q294001	_	InPrimaryReference|LED0.20
+C	I-work	_	I-work.primlit	_	_	O	Q294001	_	InPrimaryReference|NoSpaceAfter|LED0.20
+.	I-work	_	I-work.primlit	_	_	O	Q294001	_	InPrimaryReference|LED0.20
 258	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|LED0.00
 foll	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|LED0.00
@@ -21836,7 +21836,7 @@ his	O	_	O	_	_	O	_	_	_
 haunt	O	_	O	_	_	O	_	_	_
 according	O	_	O	_	_	O	_	_	_
 to	O	_	O	_	_	O	_	_	_
-Aeschylus:	B-pers	_	B-pers.author	_	_	O	NIL	_	NoSpaceAfter|LED0.00
+Aeschylus:	B-pers	_	B-pers.author	_	_	O	Q40939	_	NoSpaceAfter|LED0.00
 Pers	B-work	_	B-work.primlit	_	_	O	Q788458	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	I-work	_	I-work.primlit	_	_	O	Q788458	_	InPrimaryReference|LED0.00
 448	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
@@ -21894,10 +21894,10 @@ snow	O	_	O	_	_	O	_	_	NoSpaceAfter
 smitten	O	_	O	_	_	O	_	_	_
 ridges	O	_	O	_	_	O	_	_	_
 of	O	_	O	_	_	O	_	_	_
-Cyllene	B-pers	_	B-pers.myth	_	_	O	NIL	_	NoSpaceAfter|LED0.00
+Cyllene	B-loc	_	B-loc	_	_	O	Q1232572	_	NoSpaceAfter|LED0.00
 .	O	_	O	_	_	O	_	_	NoSpaceAfter
 ”	O	_	O	_	_	O	_	_	EndOfSentence
-Cyllene	B-pers	_	B-pers.myth	_	_	O	NIL	_	LED0.00
+Cyllene	B-loc	_	B-loc	_	_	O	Q1232572	_	LED0.00
 is	O	_	O	_	_	O	_	_	_
 clearly	O	_	O	_	_	O	_	_	_
 visible	O	_	O	_	_	O	_	_	_
@@ -22182,10 +22182,10 @@ genitive	O	_	O	_	_	O	_	_	NoSpaceAfter
 like	O	_	O	_	_	O	_	_	_
 θανάτων	O	_	O	_	_	O	_	_	_
 in	O	_	O	_	_	O	_	_	_
-O	B-pers	_	B-pers.author	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
-.	I-pers	_	I-pers.author	_	_	O	_	_	InSecondaryReference|LED0.00
-T	I-pers	_	I-pers.author	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
-.	I-pers	_	I-pers.author	_	_	O	_	_	InSecondaryReference|LED0.00
+O	B-work	_	B-work.primlit	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
+.	I-work	_	I-work.primlit	_	_	O	_	_	InSecondaryReference|LED0.00
+T	I-work	_	I-work.primlit	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
+.	I-work	_	I-work.primlit	_	_	O	_	_	InSecondaryReference|LED0.00
 1200	B-scope	_	B-scope	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 θανάτων	O	_	O	_	_	O	_	_	_
@@ -22235,10 +22235,10 @@ sorrow	O	_	O	_	_	O	_	_	NoSpaceAfter
 ”	O	_	O	_	_	O	_	_	EndOfSentence
 See	O	_	O	_	_	O	_	_	_
 also	O	_	O	_	_	O	_	_	_
-O	B-pers	_	B-pers.author	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
-.	I-pers	_	I-pers.author	_	_	O	_	_	InSecondaryReference|LED0.00
-T	I-pers	_	I-pers.author	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
-.	I-pers	_	I-pers.author	_	_	O	_	_	InSecondaryReference|LED0.00
+O	B-work	_	B-work.primlit	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
+.	I-work	_	I-work.primlit	_	_	O	_	_	InSecondaryReference|LED0.00
+T	I-work	_	I-work.primlit	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
+.	I-work	_	I-work.primlit	_	_	O	_	_	InSecondaryReference|LED0.00
 187	B-scope	_	B-scope	_	_	O	_	_	InSecondaryReference|NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 ὧν	O	_	O	_	_	O	_	_	_
@@ -22324,8 +22324,8 @@ following	O	_	O	_	_	O	_	_	_
 ,	O	_	O	_	_	O	_	_	_
 cp	O	_	O	_	_	O	_	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
-Ant	B-work	_	B-work.primlit	_	_	O	NIL	_	InPrimaryReference|NoSpaceAfter|LED0.00
-.	I-work	_	I-work.primlit	_	_	O	NIL	_	InPrimaryReference|LED0.00
+Ant	B-work	_	B-work.primlit	_	_	O	Q241077	_	InPrimaryReference|NoSpaceAfter|LED0.00
+.	I-work	_	I-work.primlit	_	_	O	Q241077	_	InPrimaryReference|LED0.00
 200	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 -	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
 2	I-scope	_	I-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
@@ -22421,7 +22421,7 @@ go	O	_	O	_	_	O	_	_	_
 in	O	_	O	_	_	O	_	_	_
 search	O	_	O	_	_	O	_	_	_
 of	O	_	O	_	_	O	_	_	_
-Ajax	B-pers	_	B-pers.myth	_	_	O	NIL	_	NoSpaceAfter|LED0.00
+Ajax	B-pers	_	B-pers.myth	_	_	O	Q172725	_	NoSpaceAfter|LED0.00
 ,	O	_	O	_	_	O	_	_	_
 but	O	_	O	_	_	O	_	_	_
 first	O	_	O	_	_	O	_	_	_
@@ -23052,8 +23052,8 @@ of	O	_	O	_	_	O	_	_	EndOfSentence
 # ajmc:publication_date = 1881
 # ajmc:page = 128
 # ajmc:author = Campbell, Lewis
-Aesch	B-pers	_	B-pers.author	_	_	O	NIL	_	InPrimaryReference|NoSpaceAfter|LED0.00
-.	I-pers	_	I-pers.author	_	_	O	NIL	_	InPrimaryReference|LED0.00
+Aesch	B-pers	_	B-pers.author	_	_	O	Q40939	_	InPrimaryReference|NoSpaceAfter|LED0.00
+.	I-pers	_	I-pers.author	_	_	O	Q40939	_	InPrimaryReference|LED0.00
 Pers	B-work	_	B-work.primlit	_	_	O	Q788458	_	InPrimaryReference|NoSpaceAfter|LED0.00
 .	I-work	_	I-work.primlit	_	_	O	Q788458	_	InPrimaryReference|LED0.00
 576	B-scope	_	B-scope	_	_	O	_	_	InPrimaryReference|NoSpaceAfter|LED0.00
