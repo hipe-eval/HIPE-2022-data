@@ -1,0 +1,54 @@
+entity_surface	gold_transcript	levenshtein_norm	entity_fine_type	wikidata_id	frequency
+0. R.	O. R.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	17
+Aſch.	Äſch.	0.2	pers.author	http://www.wikidata.org/entity/Q40939	15
+0. C.	O. C.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	10
+Od.	Öd.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q35160	8
+1.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	5
+Od. Tyr.	Öd. Tyr.	0.125	work.primlit	http://www.wikidata.org/entity/Q148643	3
+Ὁ. R.	O. R.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	3
+Alias	Aias	0.2	pers.myth	http://www.wikidata.org/entity/Q172725	3
+ll.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	3
+Odyſjeus	Odyſſeus	0.125	pers.myth	http://www.wikidata.org/entity/Q47231	2
+Aia3	Aias	0.25	pers.myth	http://www.wikidata.org/entity/Q172725	2
+Ὁ. C.	O. C.	0.2	work.primlit	http://www.wikidata.org/entity/Q294001	2
+Od. T.	Öd.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q148643	2
+Lobe>	Lobeck	0.3333333333333333	pers.author	http://www.wikidata.org/entity/Q84734	2
+gan.	Agam.	0.4	work.primlit	http://www.wikidata.org/entity/Q3320792	1
+Pbil.	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+0..6..	O. C.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q294001	1
+O0. €.	O. C.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q294001	1
+11.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Menclaos	Menelaos	0.125	pers.myth	http://www.wikidata.org/entity/Q171839	1
+Aleäus	Alcäus	0.1666666666666666	pers.author	http://www.wikidata.org/entity/Q3608942	1
+Asam:	Agam.	0.4	work.primlit	http://www.wikidata.org/entity/Q3320792	1
+Alhen	Athen	0.2	loc	http://www.wikidata.org/entity/Q1524	1
+Eimsley	Elmsley	0.1428571428571428	pers.editor	http://www.wikidata.org/entity/Q7173848	1
+Soplhokles	Sophokles	0.1	pers.author	http://www.wikidata.org/entity/Q7235	1
+il.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Phil.	philoctetes	0.7272727272727273	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+D.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Here. Fur.	Herc. Fur	0.2	work.primlit	http://www.wikidata.org/entity/Q1233835	1
+Ale.	Alc.	0.25	work.primlit	http://www.wikidata.org/entity/Q1246408	1
+Ὁ. €.	O. C.	0.4	work.primlit	http://www.wikidata.org/entity/Q294001	1
+1].	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+ΕἸ.	El.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q733444	1
+0. Β.	O. R.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Gyr.	Cyr.	0.25	work.primlit	http://www.wikidata.org/entity/Q1145374	1
+δ.	Öd.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q35160	1
+Rhil.	Phil.	0.2	work.primlit	http://www.wikidata.org/entity/Q1415903	1
+u. ö.	Öd.	0.8	work.primlit	http://www.wikidata.org/entity/Q35160	1
+Trag. adesp.	Frag. adesp.	0.0833333333333333	work.fragm		1
+Ὁ. T.	O. T.	0.2	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Jon	Ion	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q614607	1
+äſch.	Äſch.	0.2	pers.author	http://www.wikidata.org/entity/Q40939	1
+Rr.	Kr.	0.3333333333333333	pers.author		1
+Cur.	Eur.	0.25	pers.author	http://www.wikidata.org/entity/Q48305	1
+Zl.	Il.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Od. K.	Öd. K.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q294001	1
+Aſh.	Asch.	0.4	pers.author	http://www.wikidata.org/entity/Q40939	1
+O. ΒΕ.	O. R.	0.3333333333333333	work.primlit	http://www.wikidata.org/entity/Q148643	1
+0. ἢ.	O. R.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
+O0. R.	O. R.	0.1666666666666666	work.primlit	http://www.wikidata.org/entity/Q148643	1
+N.	Il.	0.6666666666666666	work.primlit	http://www.wikidata.org/entity/Q8275	1
+Ο. Β.	O. R.	0.4	work.primlit	http://www.wikidata.org/entity/Q148643	1
+Hymn. Mereur.	Hymn. Mercur.	0.0769230769230769	work.primlit	http://www.wikidata.org/entity/Q20552131	1
