@@ -22,8 +22,8 @@ Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) 
 - **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://zenodo.org/record/6375600) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6375600.svg)](https://doi.org/10.5281/zenodo.6375600)
 - **Release history**:     
       - 15.02.2022: [v1.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v1.0)    
-      - 22.03.2022: [v2.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.0)
-      - 15.04.2022: [v2.1](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1)
+      - 22.03.2022: [v2.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.0)    
+      - 15.04.2022: [v2.1](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1)    
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
