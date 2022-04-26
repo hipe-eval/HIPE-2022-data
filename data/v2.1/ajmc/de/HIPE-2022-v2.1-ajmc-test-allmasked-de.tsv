@@ -1,0 +1,5085 @@
+TOKEN	NE-COARSE-LIT	NE-COARSE-METO	NE-FINE-LIT	NE-FINE-METO	NE-FINE-COMP	NE-NESTED	NEL-LIT	NEL-METO	MISC
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0008.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0008
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 8
+# ajmc:author = Wecklein, Nikolaus
+Leiche	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Achilleus	_	_	_	_	_	_	_	_	
+ſich	_	_	_	_	_	_	_	_	_
+unterhalten	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+ſchließlich	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+That	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	
+den	_	_	_	_	_	_	_	_	_
+Vorzug	_	_	_	_	_	_	_	_	_
+geben	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Darnach	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+entſchieden	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Im	_	_	_	_	_	_	_	_	_
+Unwillen	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+von	_	_	_	_	_	_	_	_	_
+Wahnſinn	_	_	_	_	_	_	_	_	_
+befallen	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+will	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Wut	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Atriden	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	
+ermorden	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+fällt	_	_	_	_	_	_	_	_	_
+aber	_	_	_	_	_	_	_	_	_
+über	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Herden	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Heeres	_	_	_	_	_	_	_	_	_
+her	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Schon	_	_	_	_	_	_	_	_	_
+hier	_	_	_	_	_	_	_	_	_
+alſo	_	_	_	_	_	_	_	_	_
+ſcheint	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Kränkung	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Groll	_	_	_	_	_	_	_	_	_
+wegen	_	_	_	_	_	_	_	_	_
+dieſer	_	_	_	_	_	_	_	_	_
+Kränkung	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſondern	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Gefühl	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+vor	_	_	_	_	_	_	_	_	_
+ſeinen	_	_	_	_	_	_	_	_	_
+Feinden	_	_	_	_	_	_	_	_	_
+lächerlich	_	_	_	_	_	_	_	_	_
+gemacht	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+haben	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Beweggrund	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Selbſtmordes	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+ſein	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+Dramatiſch	_	_	_	_	_	_	_	_	_
+war	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Stoff	_	_	_	_	_	_	_	_	_
+vor	_	_	_	_	_	_	_	_	_
+Sophokles	_	_	_	_	_	_	_	_	
+von	_	_	_	_	_	_	_	_	_
+Äſchylos	_	_	_	_	_	_	_	_	
+behandelt	_	_	_	_	_	_	_	_	_
+worden	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Θροῇσσαι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+denen	_	_	_	_	_	_	_	_	_
+vielleicht	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Trilogie	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Stüc>"OnJw»	_	_	_	_	_	_	_	_	Partial-5:11
+κοίσις	_	_	_	_	_	_	_	_	
+vorherging	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Stück	_	_	_	_	_	_	_	_	_
+Σαλαμίνιαι	_	_	_	_	_	_	_	_	
+folgte	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+In	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Drama	_	_	_	_	_	_	_	_	_
+Ὅπλων	_	_	_	_	_	_	_	_	
+κρίσις	_	_	_	_	_	_	_	_	
+mußten	_	_	_	_	_	_	_	_	_
+jedenfalls	_	_	_	_	_	_	_	_	_
+diejenigen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+nach	_	_	_	_	_	_	_	_	_
+deren	_	_	_	_	_	_	_	_	_
+Urteil	_	_	_	_	_	_	_	_	_
+entſchieden	_	_	_	_	_	_	_	_	_
+wurde	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Achäer	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+Troianer	_	_	_	_	_	_	_	_	_
+ſein	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Von	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Θοῇσσαι	_	_	_	_	_	_	_	_	
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+kriegsgefangene	_	_	_	_	_	_	_	_	_
+Frauen	_	_	_	_	_	_	_	_	_
+bildeten	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Chor	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+erfahren	_	_	_	_	_	_	_	_	_
+wir	_	_	_	_	_	_	_	_	_
+nur	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+daß	_	_	_	_	_	_	_	_	_
+darin	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Selbſtmord	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+nicht	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+Sophokles	_	_	_	_	_	_	_	_	
+auf	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Bühne	_	_	_	_	_	_	_	_	_
+dargeſtellt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſondern	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+einen	_	_	_	_	_	_	_	_	_
+Boten	_	_	_	_	_	_	_	_	_
+erzählt	_	_	_	_	_	_	_	_	_
+war	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Faſt	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+Widerſpruch	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Rolle	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welche	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	
+im	_	_	_	_	_	_	_	_	_
+Waffenſtreite	_	_	_	_	_	_	_	_	_
+ſpielt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſteht	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+Sophokles	_	_	_	_	_	_	_	_	
+das	_	_	_	_	_	_	_	_	_
+Benehmen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welches	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	
+dem	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+gegenüber	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Tag	_	_	_	_	_	_	_	_	_
+legt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Gleich	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Prologe	_	_	_	_	_	_	_	_	_
+tritt	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+uns	_	_	_	_	_	_	_	_	_
+als	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+edelgeſinnter	_	_	_	_	_	_	_	_	_
+Mann	_	_	_	_	_	_	_	_	_
+entgegen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welcher	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+troy	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Feindſchaft	_	_	_	_	_	_	_	_	_
+volle	_	_	_	_	_	_	_	_	_
+Gerechtigkeit	_	_	_	_	_	_	_	_	_
+widerfahren	_	_	_	_	_	_	_	_	_
+läßt	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+122	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+So	_	_	_	_	_	_	_	_	_
+kann	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+am	_	_	_	_	_	_	_	_	_
+Schluſſe	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Aufgabe	_	_	_	_	_	_	_	_	NoSpaceAfter
+erfüllen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Streit	_	_	_	_	_	_	_	_	_
+um	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Leiche	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+zu	_	_	_	_	_	_	_	_	_
+ſchlichten	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+gekränfte	_	_	_	_	_	_	_	_	_
+Ehre	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Helden	_	_	_	_	_	_	_	_	_
+wiederherzuſtellen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Denn	_	_	_	_	_	_	_	_	_
+wenn	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welcher	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Waffenſtreite	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Preis	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+ἀοιστεία	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+443	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+davongetragen	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+als	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Beſten	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Heeres	_	_	_	_	_	_	_	_	_
+erklärt	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+1340	_	_	_	_	_	_	_	_	
+f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſo	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	_
+damit	_	_	_	_	_	_	_	_	_
+ausgeſprochen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+daß	_	_	_	_	_	_	_	_	_
+dieſem	_	_	_	_	_	_	_	_	_
+Unrecht	_	_	_	_	_	_	_	_	_
+widerfahren	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Man	_	_	_	_	_	_	_	_	_
+ſieht	_	_	_	_	_	_	_	_	_
+daraus	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+daß	_	_	_	_	_	_	_	_	_
+Sophokles	_	_	_	_	_	_	_	_	
+die	_	_	_	_	_	_	_	_	_
+wiederhergeſtellte	_	_	_	_	_	_	_	_	_
+Ehre	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+ſich	_	_	_	_	_	_	_	_	_
+als	_	_	_	_	_	_	_	_	_
+Ziel	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Handlung	_	_	_	_	_	_	_	_	_
+gedacht	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0022.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0022
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 22
+# ajmc:author = Wecklein, Nikolaus
+wie	_	_	_	_	_	_	_	_	_
+1401	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+100	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Sarkaſtiſch	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+810	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+747	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+10	_	_	_	_	_	_	_	_	NoSpaceAfter
+]	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+εἶεν	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+eine	_	_	_	_	_	_	_	_	_
+Nebenform	_	_	_	_	_	_	_	_	NoSpaceAfter
+zu	_	_	_	_	_	_	_	_	_
+εἶα	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+αἰέν	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+αἰεί	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+τί	_	_	_	_	_	_	_	_	_
+γάρ	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+ja	_	_	_	_	_	_	_	_	_
+was	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+γάρ	_	_	_	_	_	_	_	_	_
+bezieht	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Gedanken	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+wir	_	_	_	_	_	_	_	_	_
+vergeſſen	_	_	_	_	_	_	_	_	_
+etwas	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+von	_	_	_	_	_	_	_	_	_
+Einem	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Rede	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Ähnlich	_	_	_	_	_	_	_	_	_
+983	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wo	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+gleiche	_	_	_	_	_	_	_	_	_
+Ellipſe	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+πράττει	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+oder	_	_	_	_	_	_	_	_	_
+vielmehr	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+was	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	_
+es	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Phil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+654	_	_	_	_	_	_	_	_	
+ἀλλ᾽	_	_	_	_	_	_	_	_	_
+ἔκφερ᾽	_	_	_	_	_	_	_	_	_
+αὐτό"	_	_	_	_	_	_	_	_	_
+τί	_	_	_	_	_	_	_	_	_
+γὰρ	_	_	_	_	_	_	_	_	_
+ἔτ᾽	_	_	_	_	_	_	_	_	_
+ἄλλ᾽	_	_	_	_	_	_	_	_	_
+ἐρᾷς	_	_	_	_	_	_	_	_	_
+λαβεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+1405	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+102	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ποῦ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἕστηκεν	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+was	_	_	_	_	_	_	_	_	_
+haſt	_	_	_	_	_	_	_	_	_
+du	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+ihm	_	_	_	_	_	_	_	_	_
+angefangen	_	_	_	_	_	_	_	_	_
+?	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	_
+ἕστηκεν	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+βέβηκεν	_	_	_	_	_	_	_	_	_
+ausdrucksvoller	_	_	_	_	_	_	_	_	_
+als	_	_	_	_	_	_	_	_	_
+ἐστί	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+1083	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ὅπου	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+τύχης	_	_	_	_	_	_	_	_	_
+ἕστηκεν).	_	_	_	_	_	_	_	_	NoSpaceAfter
+104	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ὀδυσσέα	_	_	_	_	_	_	_	_	_
+dreiſilbig	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+107	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+πρὶν	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+τί	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+77	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+κεοδάνῃς	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Sinne	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Befriedigung	_	_	_	_	_	_	_	_	_
+einer	_	_	_	_	_	_	_	_	_
+Luſt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+108	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Nach	_	_	_	_	_	_	_	_	_
+dieſem	_	_	_	_	_	_	_	_	_
+Verſe	_	_	_	_	_	_	_	_	_
+erſcholl	_	_	_	_	_	_	_	_	_
+wahrſcheinlich	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+303	_	_	_	_	_	_	_	_	
+erwähnte	_	_	_	_	_	_	_	_	_
+Lachen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+ſprichwörtlich	_	_	_	_	_	_	_	_	_
+wurde	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+(Aldyτειος	_	_	_	_	_	_	_	_	NoSpaceAfter
+γέλως	_	_	_	_	_	_	_	_	_
+*	_	_	_	_	_	_	_	_	_
+ἐπὶ	_	_	_	_	_	_	_	_	_
+τῶν	_	_	_	_	_	_	_	_	_
+παραφρόνως	_	_	_	_	_	_	_	_	_
+γελώντων	_	_	_	_	_	_	_	_	_
+Benob	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+43	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+Lachen	_	_	_	_	_	_	_	_	_
+voll	_	_	_	_	_	_	_	_	_
+tragiſcher	_	_	_	_	_	_	_	_	_
+Ironie	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+110	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Wenn	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+ϑάνῃ	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+πρὶν	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+anſchließt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſo	_	_	_	_	_	_	_	_	_
+ſchwebt	_	_	_	_	_	_	_	_	_
+doch	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+genaue	_	_	_	_	_	_	_	_	_
+Verhältnis	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Satzes	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welches	_	_	_	_	_	_	_	_	_
+ϑανεῖν	_	_	_	_	_	_	_	_	_
+οὔτι	_	_	_	_	_	_	_	_	_
+πῶ	_	_	_	_	_	_	_	_	_
+ϑέλω	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+πρὶν	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+φοινιχϑῇ	_	_	_	_	_	_	_	_	_
+verlangt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+mehr	_	_	_	_	_	_	_	_	_
+ſo	_	_	_	_	_	_	_	_	_
+deutlich	_	_	_	_	_	_	_	_	_
+vor	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+daß	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+πρῶτον	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+ϑάνῃ	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Klarheit	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Gedankens	_	_	_	_	_	_	_	_	_
+dienten	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+111	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+αἱ	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+zion	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+es	_	_	_	_	_	_	_	_	_
+war	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+Beſtrafung	_	_	_	_	_	_	_	_	_
+für	_	_	_	_	_	_	_	_	_
+Sklaven	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+xoeuaoroi	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+309	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+patibulum,	_	_	_	_	_	_	_	_	NoSpaceAfter
+crux	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+112	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+yaigew	_	_	_	_	_	_	_	_	_
+σε	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Ὁ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+i	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+dir	_	_	_	_	_	_	_	_	_
+na	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	_
+Wunſch	_	_	_	_	_	_	_	_	_
+gehen	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+ἐφίεμαι	_	_	_	_	_	_	_	_	_
+unterſcheidet	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+abweiſenden	_	_	_	_	_	_	_	_	_
+Formel	_	_	_	_	_	_	_	_	_
+χαίρειν	_	_	_	_	_	_	_	_	_
+o	_	_	_	_	_	_	_	_	_
+κελεύω	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+valere	_	_	_	_	_	_	_	_	_
+te	_	_	_	_	_	_	_	_	_
+inbeo	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+T	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+859	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+114	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Die	_	_	_	_	_	_	_	_	_
+nähere	_	_	_	_	_	_	_	_	_
+Beſtimmung	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+τὸ	_	_	_	_	_	_	_	_	_
+δρᾶν	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+τόδε	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+τέοψις	_	_	_	_	_	_	_	_	_
+angeſchloſſen	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+de	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+beſonders	_	_	_	_	_	_	_	_	NoSpaceAfter
+bei	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Ausdrücken	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Verlangens	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Objekt	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Infin	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+verb	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+fin	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+verbindet	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+3	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+B	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+φιλίου	_	_	_	_	_	_	_	_	_
+zo	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+Co	_	_	_	_	_	_	_	_	_
+στόιιατος	_	_	_	_	_	_	_	_	_
+παίδων	_	_	_	_	_	_	_	_	_
+προσπτύξασϑαι	_	_	_	_	_	_	_	_	_
+Eur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Med	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1399	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Über	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Dramatikern	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+ſeltenen	_	_	_	_	_	_	_	_	_
+Ge	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0023.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0023
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 23
+# ajmc:author = Wecklein, Nikolaus
+brauch	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Artikels	_	_	_	_	_	_	_	_	_
+beim	_	_	_	_	_	_	_	_	_
+Infinitiv	_	_	_	_	_	_	_	_	_
+ſtatt	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+bloßen	_	_	_	_	_	_	_	_	_
+Infin	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Kr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+II	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+50	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+115	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+γρῶ	_	_	_	_	_	_	_	_	_
+χγειοί	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+beabſichtigte	_	_	_	_	_	_	_	_	_
+Alliteration	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+wohl	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+ϑακεῖ"	_	_	_	_	_	_	_	_	_
+ϑανεῖν	_	_	_	_	_	_	_	_	_
+106	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+φείδου	_	_	_	_	_	_	_	_	_
+μηδέν	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+und	_	_	_	_	_	_	_	_	_
+οὐδὲν	_	_	_	_	_	_	_	_	_
+φείδεσϑαι	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+findet	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+öfters	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+ohne	_	_	_	_	_	_	_	_	_
+abhängigen	_	_	_	_	_	_	_	_	_
+Gen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Eur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Hek	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1044	_	_	_	_	_	_	_	_	
+ἄοασσε	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+φείδου	_	_	_	_	_	_	_	_	_
+μηδέν	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+116	_	_	_	_	_	_	_	_	_
+f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+In	_	_	_	_	_	_	_	_	_
+τοῦτό	_	_	_	_	_	_	_	_	_
+σοι	_	_	_	_	_	_	_	_	_
+ds	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+τοῦτο	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Stellung	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+de	_	_	_	_	_	_	_	_	_
+gehoben	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+nur	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+noch	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Eurip	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Fragm	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+776	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+τοῖς	_	_	_	_	_	_	_	_	_
+πλουτοῦσι	_	_	_	_	_	_	_	_	_
+τοῦτο	_	_	_	_	_	_	_	_	_
+δ᾽	_	_	_	_	_	_	_	_	_
+ἔμφυτον	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Die	_	_	_	_	_	_	_	_	_
+Bitte	_	_	_	_	_	_	_	_	_
+enthält	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+herbe	_	_	_	_	_	_	_	_	_
+tragiſche	_	_	_	_	_	_	_	_	_
+Ironie	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+119	_	_	_	_	_	_	_	_	_
+f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+yüoe0n	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+bedeutet	_	_	_	_	_	_	_	_	_
+für	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Vergangenheit	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Gleiche	_	_	_	_	_	_	_	_	_
+was	_	_	_	_	_	_	_	_	_
+εὑοεϑείη	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+für	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Gegenwart	_	_	_	_	_	_	_	_	_
+bedeutet	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἔτλη	_	_	_	_	_	_	_	_	_
+ποτ᾽	_	_	_	_	_	_	_	_	_
+ἄν	_	_	_	_	_	_	_	_	_
+411	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+οὐκ	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+ηὗρες	_	_	_	_	_	_	_	_	_
+1144	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+502	_	_	_	_	_	_	_	_	
+πόϑεν	_	_	_	_	_	_	_	_	_
+κλέος	_	_	_	_	_	_	_	_	_
+γ᾽	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+εὐκλεέστεοον	_	_	_	_	_	_	_	_	_
+κατέσχον	_	_	_	_	_	_	_	_	_
+ἢ	_	_	_	_	_	_	_	_	_
+τὸν	_	_	_	_	_	_	_	_	_
+αὐτάδελφον	_	_	_	_	_	_	_	_	_
+ἐν	_	_	_	_	_	_	_	_	_
+τάφῳ	_	_	_	_	_	_	_	_	_
+τιϑεῖσα	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	_
+Ko	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+105	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+5	_	_	_	_	_	_	_	_	
+Ὁ	_	_	_	_	_	_	_	_	
+Anm	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+121	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Die	_	_	_	_	_	_	_	_	_
+edlen	_	_	_	_	_	_	_	_	_
+Worte	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	
+bereiten	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Schluß	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Stückes	_	_	_	_	_	_	_	_	_
+vor	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wo	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Streit	_	_	_	_	_	_	_	_	_
+um	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Leiche	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+durch	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	
+geſchlichtet	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+Verzahnung	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+122	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+ὠτοικτείρω	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+ἔμπας	_	_	_	_	_	_	_	_	_
+ſtärker	_	_	_	_	_	_	_	_	_
+als	_	_	_	_	_	_	_	_	_
+ὅμως	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+124	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ro5μὸν	_	_	_	_	_	_	_	_	NoSpaceAfter
+σκοπῶν	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+ἀφορῶν	_	_	_	_	_	_	_	_	_
+εἰς	_	_	_	_	_	_	_	_	_
+τὰ	_	_	_	_	_	_	_	_	_
+ἀνϑοώπινα	_	_	_	_	_	_	_	_	_
+τὰ	_	_	_	_	_	_	_	_	_
+πάντων	_	_	_	_	_	_	_	_	_
+κοινά	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Da	_	_	_	_	_	_	_	_	NoSpaceAfter
+—	_	_	_	_	_	_	_	_	_
+rin	_	_	_	_	_	_	_	_	_
+liegt	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Grund	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+tragiſchen	_	_	_	_	_	_	_	_	_
+Furcht	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+126	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Pind	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Pyth	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+VIII	_	_	_	_	_	_	_	_	
+96	_	_	_	_	_	_	_	_	
+σκιᾶς	_	_	_	_	_	_	_	_	_
+ὄναρ	_	_	_	_	_	_	_	_	_
+ἄνϑοωπος	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+128	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Mit	_	_	_	_	_	_	_	_	_
+αὐτός	_	_	_	_	_	_	_	_	_
+weiſt	_	_	_	_	_	_	_	_	_
+Athena	_	_	_	_	_	_	_	_	
+darauf	_	_	_	_	_	_	_	_	_
+hin	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+daß	_	_	_	_	_	_	_	_	_
+es	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+gethan	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+766	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+rechtfertigt	_	_	_	_	_	_	_	_	_
+damit	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Beſtrafung	_	_	_	_	_	_	_	_	_
+desſelben.	_	_	_	_	_	_	_	_	NoSpaceAfter
+129	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ὄγκον	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+μηδένα	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+mache	_	_	_	_	_	_	_	_	_
+dich	_	_	_	_	_	_	_	_	_
+niht	_	_	_	_	_	_	_	_	_
+groß	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+130	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+βάϑει	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+βαϑύπλουτος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+λακπκόπλουτος	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+131	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Eur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Fragm	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+420	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+2	_	_	_	_	_	_	_	_	
+μικρὰ	_	_	_	_	_	_	_	_	_
+τὰ	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0031.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0031
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 31
+# ajmc:author = Wecklein, Nikolaus
+Tage	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Über	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Kraft	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Femin	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Adjetiva	_	_	_	_	_	_	_	_	_
+ſubſtantiviſch	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+machen	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Kr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+43	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+3	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+3	_	_	_	_	_	_	_	_	
+und	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+910	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Τελεύταντος	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Τελλεύταντος	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+leſen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+211f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+λέχος	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Sinne	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+ἄλογος	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+=	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Hom	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+343	_	_	_	_	_	_	_	_	
+τὴν	_	_	_	_	_	_	_	_	_
+ἐκ	_	_	_	_	_	_	_	_	_
+ϑυμοῦ	_	_	_	_	_	_	_	_	_
+φίλεον	_	_	_	_	_	_	_	_	_
+δουοικτητήν	_	_	_	_	_	_	_	_	_
+πεο	_	_	_	_	_	_	_	_	_
+¿odoav	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+ἀνέχει	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+τιμᾷ	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+hod	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+hält	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+918	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+οὐκ	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+ἄιδοις	_	_	_	_	_	_	_	_	_
+ὑπείποις	_	_	_	_	_	_	_	_	_
+ſ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ὁ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+α	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+οὐκ	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+ἄιδρις	_	_	_	_	_	_	_	_	_
+εἴης	_	_	_	_	_	_	_	_	_
+ὥστε	_	_	_	_	_	_	_	_	_
+ὑπειπεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+ὑπείποις,	_	_	_	_	_	_	_	_	NoSpaceAfter
+dicendo	_	_	_	_	_	_	_	_	_
+suggeras	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Herm	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+215	_	_	_	_	_	_	_	_	_
+Mit	_	_	_	_	_	_	_	_	_
+ϑανάτῳ	_	_	_	_	_	_	_	_	_
+ἴσον	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+K	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+529	_	_	_	_	_	_	_	_	
+ϑάνατος	_	_	_	_	_	_	_	_	_
+μὲν	_	_	_	_	_	_	_	_	_
+τάδ᾽	_	_	_	_	_	_	_	_	_
+ἀκούειν	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+216f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+μανίᾳ	_	_	_	_	_	_	_	_	_
+ἁλούς	_	_	_	_	_	_	_	_	_
+gibt	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+nähere	_	_	_	_	_	_	_	_	_
+Beſtimmung	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+ἀπελωβήϑη	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+217	_	_	_	_	_	_	_	_	_
+νύκτεοος	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+Kr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+57	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+5	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+4	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Cu	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+140	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+Anm	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+3	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ko	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+80	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ku	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+$	_	_	_	_	_	_	_	_	
+98	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+220	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+γοηστήοια	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+σφάγια	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἱερεῖα	_	_	_	_	_	_	_	_	_
+ironiſh	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+221	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+232	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Das	_	_	_	_	_	_	_	_	_
+aus	_	_	_	_	_	_	_	_	_
+Daktylen	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Trochäen	_	_	_	_	_	_	_	_	_
+zuſammengeſetzte	_	_	_	_	_	_	_	_	_
+Versmaß	_	_	_	_	_	_	_	_	_
+entſpricht	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+ſeiner	_	_	_	_	_	_	_	_	_
+wechſelnden	_	_	_	_	_	_	_	_	_
+Geſtaltung	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Aufregung	_	_	_	_	_	_	_	_	NoSpaceAfter
+des	_	_	_	_	_	_	_	_	_
+Chors	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+,	_	_	_	_	_	_	_	_	_
+TI	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+III	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+τοὺς	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+IV	_	_	_	_	_	_	_	_	_
+D	_	_	_	_	_	_	_	_	NoSpaceAfter
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+V	_	_	_	_	_	_	_	_	_
+,	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0039.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0039
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 39
+# ajmc:author = Wecklein, Nikolaus
+337	_	_	_	_	_	_	_	_	_
+f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+τοῖς	_	_	_	_	_	_	_	_	_
+πάλαι	_	_	_	_	_	_	_	_	_
+νοσήμασι	_	_	_	_	_	_	_	_	_
+ξυνοῦσι	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Stellung	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Phil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+1316	_	_	_	_	_	_	_	_	
+τὰς	_	_	_	_	_	_	_	_	_
+ἐκ	_	_	_	_	_	_	_	_	_
+ϑεῶν	_	_	_	_	_	_	_	_	_
+τύχας	_	_	_	_	_	_	_	_	_
+δοϑείσας	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+888	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+παοών	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+ſtatt	_	_	_	_	_	_	_	_	_
+eines	_	_	_	_	_	_	_	_	_
+adverbialen	_	_	_	_	_	_	_	_	_
+Ausdrucks	_	_	_	_	_	_	_	_	_
+πα	_	_	_	_	_	_	_	_	_
+Analogie	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Redeweiſe	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+nah	_	_	_	_	_	_	_	_	_
+welcher	_	_	_	_	_	_	_	_	_
+217	_	_	_	_	_	_	_	_	
+νύκτερος	_	_	_	_	_	_	_	_	_
+ſteht	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+gibt	_	_	_	_	_	_	_	_	_
+einen	_	_	_	_	_	_	_	_	_
+Gegenſaß	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+πάλαι	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+über	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Krankheit	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Vergangenheit	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Gegenwart	_	_	_	_	_	_	_	_	NoSpaceAfter
+ſich	_	_	_	_	_	_	_	_	_
+betrüben	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Äſch	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Cho	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1012	_	_	_	_	_	_	_	_	
+ἀποιμώξω	_	_	_	_	_	_	_	_	_
+παρών	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Vielleicht	_	_	_	_	_	_	_	_	_
+aber	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	_
+es	_	_	_	_	_	_	_	_	_
+urſprünglich	_	_	_	_	_	_	_	_	_
+μαϑών	_	_	_	_	_	_	_	_	_
+geheißen	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+nachdem	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+darüber	_	_	_	_	_	_	_	_	_
+aufgeklärt	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+316	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	EndOfSentence|NoSpaceAfter
+340	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἀμφί	_	_	_	_	_	_	_	_	_
+cauſal	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+um	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wegen	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Kr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Il	_	_	_	_	_	_	_	_	
+$	_	_	_	_	_	_	_	_	
+68	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+30	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+3	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Tekmeſſa	_	_	_	_	_	_	_	_	
+brachte	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Toben	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+wahnſinnigen	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+den	_	_	_	_	_	_	_	_	_
+Knaben	_	_	_	_	_	_	_	_	_
+beiſeite	_	_	_	_	_	_	_	_	NoSpaceAfter
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+531	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Darum	_	_	_	_	_	_	_	_	_
+ſagt	_	_	_	_	_	_	_	_	_
+ſie	_	_	_	_	_	_	_	_	_
+nachher	_	_	_	_	_	_	_	_	_
+ποῦ	_	_	_	_	_	_	_	_	_
+ποτ᾽	_	_	_	_	_	_	_	_	_
+εἰ	_	_	_	_	_	_	_	_	_
+ängſtlich	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Sinne	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+du	_	_	_	_	_	_	_	_	_
+biſt	_	_	_	_	_	_	_	_	_
+doch	_	_	_	_	_	_	_	_	_
+wohl	_	_	_	_	_	_	_	_	_
+ſicher	_	_	_	_	_	_	_	_	NoSpaceAfter
+?	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	EndOfSentence
+342	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Der	_	_	_	_	_	_	_	_	_
+Ruf	_	_	_	_	_	_	_	_	_
+nach	_	_	_	_	_	_	_	_	_
+Teukros	_	_	_	_	_	_	_	_	
+und	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Auftrag	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welchen	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+362	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+gibt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+bereiten	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+ſpätere	_	_	_	_	_	_	_	_	_
+Rolle	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Teukros	_	_	_	_	_	_	_	_	
+vor	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+Verzahnung	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Einſtweilen	_	_	_	_	_	_	_	_	_
+mußte	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+abweſend	_	_	_	_	_	_	_	_	_
+ſein	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+bemerkt	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+τὸ	_	_	_	_	_	_	_	_	_
+ἀπεῖναι	_	_	_	_	_	_	_	_	_
+Τεῦκρον»	_	_	_	_	_	_	_	_	_
+χρήσιμον	_	_	_	_	_	_	_	_	_
+τῇ	_	_	_	_	_	_	_	_	_
+οἰκονομίᾳ"	_	_	_	_	_	_	_	_	_
+παρὼν	_	_	_	_	_	_	_	_	_
+γὰρ	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+ἐκώλυεν	_	_	_	_	_	_	_	_	_
+αὐτὸν	_	_	_	_	_	_	_	_	_
+πρᾶξαι	_	_	_	_	_	_	_	_	_
+ἃ	_	_	_	_	_	_	_	_	_
+ἐβούλετο	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+848	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἐγὼ	_	_	_	_	_	_	_	_	_
+d	_	_	_	_	_	_	_	_	NoSpaceAfter
+'	_	_	_	_	_	_	_	_	_
+ἀπ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+für	_	_	_	_	_	_	_	_	_
+ἐμοῦ	_	_	_	_	_	_	_	_	_
+ἀπολλυμένου	_	_	_	_	_	_	_	_	NoSpaceAfter
+nach	_	_	_	_	_	_	_	_	_
+gewöhnlicher	_	_	_	_	_	_	_	_	_
+Weiſe	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+344	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δή	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+lat	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+dum	_	_	_	_	_	_	_	_	_
+häufig	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Jmperat	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+verbunden	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+345	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+καὶ	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+auch	_	_	_	_	_	_	_	_	_
+wirklich	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+ἐπ	_	_	_	_	_	_	_	_	NoSpaceAfter
+’	_	_	_	_	_	_	_	_	_
+ἐμοὶ	_	_	_	_	_	_	_	_	_
+βλέψας	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Bezug	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+330	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+346	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἰδού	_	_	_	_	_	_	_	_	_
+gibt	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+daß	_	_	_	_	_	_	_	_	_
+man	_	_	_	_	_	_	_	_	_
+einer	_	_	_	_	_	_	_	_	_
+Aufforderung	_	_	_	_	_	_	_	_	_
+nachkommt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+Mit	_	_	_	_	_	_	_	_	_
+διοίγω	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Anwendung	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Ekkyklems	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+mittels	_	_	_	_	_	_	_	_	_
+deſſen	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Innere	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Zuſchauern	_	_	_	_	_	_	_	_	_
+ſichtbar	_	_	_	_	_	_	_	_	_
+gemacht	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+äußerlich	_	_	_	_	_	_	_	_	_
+motiviert	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+δείκνυται	_	_	_	_	_	_	_	_	_
+ξιρήοης	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἡματωμένος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+μεταξὺ	_	_	_	_	_	_	_	_	_
+τῶν	_	_	_	_	_	_	_	_	_
+ποιμνίων	_	_	_	_	_	_	_	_	_
+καϑήμενος.	_	_	_	_	_	_	_	_	NoSpaceAfter
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+τὸ	_	_	_	_	_	_	_	_	_
+ἐκκύκλημα	_	_	_	_	_	_	_	_	_
+ἐπὶ	_	_	_	_	_	_	_	_	_
+ξύλων	_	_	_	_	_	_	_	_	_
+ὑψηλὸν	_	_	_	_	_	_	_	_	_
+βάϑοον	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+daher	_	_	_	_	_	_	_	_	_
+545	_	_	_	_	_	_	_	_	
+αἶρε	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+©	_	_	_	_	_	_	_	_	_
+ἐπίκειται	_	_	_	_	_	_	_	_	_
+ϑροόνος	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+vielleicht	_	_	_	_	_	_	_	_	_
+unſerer	_	_	_	_	_	_	_	_	_
+Stelle	_	_	_	_	_	_	_	_	_
+entnommen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+325	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+Poll	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+IV	_	_	_	_	_	_	_	_	
+128	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+348	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Das	_	_	_	_	_	_	_	_	_
+Versmaß	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Kommos	_	_	_	_	_	_	_	_	_
+beſteht	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0047.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0047
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 47
+# ajmc:author = Wecklein, Nikolaus
+des	_	_	_	_	_	_	_	_	_
+Acc	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+inneren	_	_	_	_	_	_	_	_	_
+Obj	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+448	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+κρίνειν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+entſcheidend	_	_	_	_	_	_	_	_	_
+zuerkennen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+πράτος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Vorrang	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+τὸ	_	_	_	_	_	_	_	_	_
+κρατεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+τὸ	_	_	_	_	_	_	_	_	_
+κρείσσονα	_	_	_	_	_	_	_	_	_
+εἶναι	_	_	_	_	_	_	_	_	_
+ἀοιστείᾳ	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+444	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἔμαοψεν	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+für	_	_	_	_	_	_	_	_	_
+ἔλαβεν	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+gehäſſige	_	_	_	_	_	_	_	_	_
+Beziehung	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	_
+denn	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+dieſem	_	_	_	_	_	_	_	_	_
+gilt	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+μάρπτειν	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+wegraffen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+reißen	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Trach	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+435	_	_	_	_	_	_	_	_	
+νοσοῦντι	_	_	_	_	_	_	_	_	_
+ληρεῖν	_	_	_	_	_	_	_	_	_
+für	_	_	_	_	_	_	_	_	_
+νοσοῦντι	_	_	_	_	_	_	_	_	_
+διαλέγεσϑαι	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+ἄλλος	_	_	_	_	_	_	_	_	_
+ἀντί	_	_	_	_	_	_	_	_	_
+findet	_	_	_	_	_	_	_	_	_
+ſid	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+öfters	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Tragikern	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+446	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἔπραξαν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+liſtige	_	_	_	_	_	_	_	_	_
+Mittel	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Ränke	_	_	_	_	_	_	_	_	_
+zuwenden	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+ἀνδοὸς	_	_	_	_	_	_	_	_	_
+τοῦδε	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+78	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+Das	_	_	_	_	_	_	_	_	_
+Nähere	_	_	_	_	_	_	_	_	_
+1135	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+κράτη	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+virtutes	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Heldenthaten.	_	_	_	_	_	_	_	_	NoSpaceAfter
+449	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἐψήφισαν	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+ἐπεψήφισαν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Stimmen	_	_	_	_	_	_	_	_	_
+abgeben	_	_	_	_	_	_	_	_	_
+laſſen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+zur	_	_	_	_	_	_	_	_	_
+Abſtimmung	_	_	_	_	_	_	_	_	_
+bringen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Der	_	_	_	_	_	_	_	_	_
+Aor	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+bedeutet	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+ihren	_	_	_	_	_	_	_	_	_
+ungerechten	_	_	_	_	_	_	_	_	_
+Urteilsſprüchen	_	_	_	_	_	_	_	_	NoSpaceAfter
+würde	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+für	_	_	_	_	_	_	_	_	_
+allemal	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+Ende	_	_	_	_	_	_	_	_	_
+gemacht	_	_	_	_	_	_	_	_	_
+worden	_	_	_	_	_	_	_	_	_
+ſein	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Hom	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+B	_	_	_	_	_	_	_	_	
+242	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+453	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+τοιοῖσδε	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+ἀφόβοις	_	_	_	_	_	_	_	_	_
+366	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſv	_	_	_	_	_	_	_	_	_
+armen	_	_	_	_	_	_	_	_	_
+Tieren	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+455	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἐιιοῦ	_	_	_	_	_	_	_	_	_
+μέν	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Gegenſatz	_	_	_	_	_	_	_	_	_
+ϑεῶν	_	_	_	_	_	_	_	_	_
+δὲ	_	_	_	_	_	_	_	_	_
+ἀναγκαζόντων	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+anderer	_	_	_	_	_	_	_	_	_
+Weiſe	_	_	_	_	_	_	_	_	_
+gegeben	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+457	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ὅστις	_	_	_	_	_	_	_	_	_
+bezieht	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+ſelbſt	_	_	_	_	_	_	_	_	_
+ergänzende	_	_	_	_	_	_	_	_	_
+μέ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+458	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+μὲ	_	_	_	_	_	_	_	_	_
+tritt	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Stelle	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Relativs	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Kr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+60	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+2	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+461	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+μόνους	_	_	_	_	_	_	_	_	_
+λιτών	_	_	_	_	_	_	_	_	_
+niht	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+allein	_	_	_	_	_	_	_	_	_
+laſſend	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ſondern	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+verlaſſend	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+μόνους	_	_	_	_	_	_	_	_	_
+ἐμοῦ	_	_	_	_	_	_	_	_	_
+λιπών	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Eur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Med	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+52	_	_	_	_	_	_	_	_	
+πῶς	_	_	_	_	_	_	_	_	_
+σοῦ	_	_	_	_	_	_	_	_	_
+Μήδεια	_	_	_	_	_	_	_	_	_
+λείπεσθαι	_	_	_	_	_	_	_	_	_
+θέλει	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	_
+Hom	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+I	_	_	_	_	_	_	_	_	
+437	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0049.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0049
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 49
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+πιγξ	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Ns	_	_	_	_	_	_	_	_	_
+τότ᾽	_	_	_	_	_	_	_	_	_
+ἀριζήλη	_	_	_	_	_	_	_	_	_
+φωνὴ	_	_	_	_	_	_	_	_	_
+γέver	_	_	_	_	_	_	_	_	NoSpaceAfter
+Αἰαχίδαο	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+19	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+τῷ	_	_	_	_	_	_	_	_	_
+σαχεςφόρῳ	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wegen	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+gewaltigen	_	_	_	_	_	_	_	_	_
+Schildes	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+572	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+11	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+7	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+219	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wodurch	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+schnellfüssigen	_	_	_	_	_	_	_	_	NoSpaceAfter
+Lokrischen	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Oileus	_	_	_	_	_	_	_	_	NoSpaceAfter
+’	_	_	_	_	_	_	_	_	_
+Sohn	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+unterschieden	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Zu	_	_	_	_	_	_	_	_	_
+dieser	_	_	_	_	_	_	_	_	NoSpaceAfter
+Ehrenwalle	_	_	_	_	_	_	_	_	_
+bildet	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+μάστιξ	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+später	_	_	_	_	_	_	_	_	_
+als	_	_	_	_	_	_	_	_	_
+μαστιγοφόρος	_	_	_	_	_	_	_	_	_
+heraustreienden	_	_	_	_	_	_	_	_	NoSpaceAfter
+wahnsinnigen	_	_	_	_	_	_	_	_	_
+Helden	_	_	_	_	_	_	_	_	_
+einen	_	_	_	_	_	_	_	_	_
+grellen	_	_	_	_	_	_	_	_	_
+Gegensatz	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+21	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ὃ	_	_	_	_	_	_	_	_	_
+σκοπόν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+unerklärlich	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dunkel	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Bezug	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+νυχτός	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+40	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Von	_	_	_	_	_	_	_	_	_
+hier	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+folgt	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+der	_	_	_	_	_	_	_	_	_
+Aufforderung	_	_	_	_	_	_	_	_	_
+12	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+23	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+11	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+2	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+486	_	_	_	_	_	_	_	_	
+ἡμεῖς	_	_	_	_	_	_	_	_	_
+δὲ	_	_	_	_	_	_	_	_	_
+κλέος	_	_	_	_	_	_	_	_	_
+οἷον	_	_	_	_	_	_	_	_	_
+ἀκούομεν	_	_	_	_	_	_	_	_	_
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+οὐδέ	_	_	_	_	_	_	_	_	_
+τι	_	_	_	_	_	_	_	_	_
+tduer	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+25	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+γάρ	_	_	_	_	_	_	_	_	_
+gcht	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+21	_	_	_	_	_	_	_	_	
+πρᾶγος	_	_	_	_	_	_	_	_	_
+ἄσκοπον	_	_	_	_	_	_	_	_	_
+ἔχει	_	_	_	_	_	_	_	_	_
+περάνας	_	_	_	_	_	_	_	_	_
+zurück	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+indem	_	_	_	_	_	_	_	_	NoSpaceAfter
+23	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+24	_	_	_	_	_	_	_	_	
+zur	_	_	_	_	_	_	_	_	_
+nähern	_	_	_	_	_	_	_	_	_
+Erläuterung	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+εἴπερ	_	_	_	_	_	_	_	_	_
+εἴργασται	_	_	_	_	_	_	_	_	_
+τάδε	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+das	_	_	_	_	_	_	_	_	_
+Folgende	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+229	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+dienen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Man	_	_	_	_	_	_	_	_	_
+beachte	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+viermalige	_	_	_	_	_	_	_	_	_
+γάρ	_	_	_	_	_	_	_	_	_
+seit	_	_	_	_	_	_	_	_	_
+20	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+21	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+ἐκ	_	_	_	_	_	_	_	_	_
+χειρός	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vonMenschenhand	_	_	_	_	_	_	_	_	NoSpaceAfter
+hingestreckt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+wilden	_	_	_	_	_	_	_	_	_
+Thieren	_	_	_	_	_	_	_	_	_
+zerrissen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Die	_	_	_	_	_	_	_	_	_
+Hirten	_	_	_	_	_	_	_	_	NoSpaceAfter
+lässt	_	_	_	_	_	_	_	_	_
+Soph	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+mitgemordet	_	_	_	_	_	_	_	_	_
+sein	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+231	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+weil	_	_	_	_	_	_	_	_	_
+sie	_	_	_	_	_	_	_	_	_
+sonst	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Thäter	_	_	_	_	_	_	_	_	_
+hätten	_	_	_	_	_	_	_	_	_
+verrathen	_	_	_	_	_	_	_	_	_
+können	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Mit	_	_	_	_	_	_	_	_	_
+&rzıστάταις	_	_	_	_	_	_	_	_	NoSpaceAfter
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+O	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+R	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1028	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+ϑ0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+πη	_	_	_	_	_	_	_	_	_
+δῶν	_	_	_	_	_	_	_	_	_
+nedie	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dieEbene	_	_	_	_	_	_	_	_	_
+durchstürmen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+845	_	_	_	_	_	_	_	_	
+διφρηλατεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+τὸν	_	_	_	_	_	_	_	_	_
+οὐρανόν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+164	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+31	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+poaleı	_	_	_	_	_	_	_	_	_
+re	_	_	_	_	_	_	_	_	_
+κἀδήλωσεν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+verkündet	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+gab	_	_	_	_	_	_	_	_	_
+danndie	_	_	_	_	_	_	_	_	_
+näheren	_	_	_	_	_	_	_	_	_
+Umstände	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Prä	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+sens	_	_	_	_	_	_	_	_	_
+neben	_	_	_	_	_	_	_	_	_
+Aor	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+406	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+32f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+zar	_	_	_	_	_	_	_	_	NoSpaceAfter
+’	_	_	_	_	_	_	_	_	_
+ἴχνος	_	_	_	_	_	_	_	_	_
+ἄσσω	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+20	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+σημαίνομαι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+τεχμαίgouct,lege	_	_	_	_	_	_	_	_	NoSpaceAfter
+ich	_	_	_	_	_	_	_	_	_
+miraus	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἐξιχνο	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+σχοποῦμαι	_	_	_	_	_	_	_	_	_
+997	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Odysseus	_	_	_	_	_	_	_	_	
+erkennt	_	_	_	_	_	_	_	_	_
+aus	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Spuren	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dass	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+der	_	_	_	_	_	_	_	_	_
+Thä	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+ter	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+aber	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Grund	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+wahnsinnigen	_	_	_	_	_	_	_	_	NoSpaceAfter
+Sehlachtens	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Forttreibens	_	_	_	_	_	_	_	_	NoSpaceAfter
+der	_	_	_	_	_	_	_	_	_
+Thiere	_	_	_	_	_	_	_	_	_
+erkennt	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+τὰ	_	_	_	_	_	_	_	_	_
+δέ	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+bevor	_	_	_	_	_	_	_	_	_
+ihn	_	_	_	_	_	_	_	_	_
+Athene	_	_	_	_	_	_	_	_	
+belehrt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+χοὺχ	_	_	_	_	_	_	_	_	_
+ἔχω	_	_	_	_	_	_	_	_	_
+U	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ὅτου	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ὅτου	_	_	_	_	_	_	_	_	_
+μάϑω	_	_	_	_	_	_	_	_	_
+ταῦτα	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wesshalb	_	_	_	_	_	_	_	_	_
+du	_	_	_	_	_	_	_	_	_
+mir	_	_	_	_	_	_	_	_	_
+gerade	_	_	_	_	_	_	_	_	NoSpaceAfter
+recht	_	_	_	_	_	_	_	_	_
+kommst	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+378	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Das	_	_	_	_	_	_	_	_	_
+rathlose	_	_	_	_	_	_	_	_	_
+Staunen	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+drückt	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+älteren	_	_	_	_	_	_	_	_	_
+Dichtern	_	_	_	_	_	_	_	_	NoSpaceAfter
+seltenen	_	_	_	_	_	_	_	_	_
+Verbindung	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Inf	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+aus	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+weiss	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+wem	_	_	_	_	_	_	_	_	_
+erfahren	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+ἐν	_	_	_	_	_	_	_	_	_
+ἀπόρῳ	_	_	_	_	_	_	_	_	_
+εἶχον	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0051.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0051
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 51
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+tet	_	_	_	_	_	_	_	_	NoSpaceAfter
+?	_	_	_	_	_	_	_	_	EndOfSentence
+El	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+377	_	_	_	_	_	_	_	_	
+7	_	_	_	_	_	_	_	_	_
+ταῦτα	_	_	_	_	_	_	_	_	_
+δή	_	_	_	_	_	_	_	_	_
+με	_	_	_	_	_	_	_	_	_
+καὶ	_	_	_	_	_	_	_	_	_
+βεβούλευνται	_	_	_	_	_	_	_	_	_
+ποιεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	EndOfSentence
+45	_	_	_	_	_	_	_	_	_
+ἐξεπράξατ᾽	_	_	_	_	_	_	_	_	_
+Laur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+A	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἐξέroasev	_	_	_	_	_	_	_	_	NoSpaceAfter
+vulgo	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+μὴ	_	_	_	_	_	_	_	_	_
+λέγε	_	_	_	_	_	_	_	_	_
+βούλευμα᾽	_	_	_	_	_	_	_	_	NoSpaceAfter
+οὐ	_	_	_	_	_	_	_	_	_
+‚	_	_	_	_	_	_	_	_	NoSpaceAfter
+vag	_	_	_	_	_	_	_	_	_
+ἣν	_	_	_	_	_	_	_	_	_
+βούλευμα	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἀλλὰ	_	_	_	_	_	_	_	_	_
+πρᾶγμ	_	_	_	_	_	_	_	_	_
+εἰ	_	_	_	_	_	_	_	_	_
+χατημέλησα	_	_	_	_	_	_	_	_	_
+ἐγώ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Da	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Medium	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+hier	_	_	_	_	_	_	_	_	_
+erforderlichen	_	_	_	_	_	_	_	_	NoSpaceAfter
+Sinne	_	_	_	_	_	_	_	_	_
+ohne	_	_	_	_	_	_	_	_	_
+Beispiel	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+habe	_	_	_	_	_	_	_	_	_
+ich	_	_	_	_	_	_	_	_	_
+ἐξέπραξ᾽	_	_	_	_	_	_	_	_	_
+ὧν	_	_	_	_	_	_	_	_	_
+geschrieben	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+46	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Nämlich	_	_	_	_	_	_	_	_	_
+ἐβουλεύσατο	_	_	_	_	_	_	_	_	_
+£	_	_	_	_	_	_	_	_	_
+Ev	_	_	_	_	_	_	_	_	_
+ἡμῖν	_	_	_	_	_	_	_	_	_
+χεῖρα	_	_	_	_	_	_	_	_	_
+χραίνεσϑαι	_	_	_	_	_	_	_	_	_
+φόνῳ	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+indem	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+seine	_	_	_	_	_	_	_	_	_
+Frage	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+44	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+erweiternd	_	_	_	_	_	_	_	_	_
+wiederholt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+da	_	_	_	_	_	_	_	_	_
+ihm	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+so	_	_	_	_	_	_	_	_	_
+tollkühnes	_	_	_	_	_	_	_	_	NoSpaceAfter
+Woagstück	_	_	_	_	_	_	_	_	_
+kaum	_	_	_	_	_	_	_	_	_
+glaublich	_	_	_	_	_	_	_	_	_
+scheint	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+47	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δόλιος	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+So	_	_	_	_	_	_	_	_	_
+sehr	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Groll	_	_	_	_	_	_	_	_	_
+wegen	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Zurücksetzung	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+gerade	_	_	_	_	_	_	_	_	_
+Wesen	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+verändert	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dass	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Dunkel	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Nacht	_	_	_	_	_	_	_	_	_
+seine	_	_	_	_	_	_	_	_	_
+Rache	_	_	_	_	_	_	_	_	_
+hinterlistig	_	_	_	_	_	_	_	_	_
+ausführen	_	_	_	_	_	_	_	_	_
+will	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Und	_	_	_	_	_	_	_	_	_
+dazu	_	_	_	_	_	_	_	_	_
+μόνος	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+29	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+294	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+trotzigen	_	_	_	_	_	_	_	_	_
+Vertrauen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+seine	_	_	_	_	_	_	_	_	_
+Stärke	_	_	_	_	_	_	_	_	_
+sei	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Stande	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Gesammtheit	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+bewältigen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+49	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δισσαὶ	_	_	_	_	_	_	_	_	_
+πύλαι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+δισσοὶ	_	_	_	_	_	_	_	_	_
+Argeidaı	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+5l	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δύςφοροι	_	_	_	_	_	_	_	_	_
+γνῶμαι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Wahnbilder	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+sonst	_	_	_	_	_	_	_	_	_
+δόξαι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἡπαgines),	_	_	_	_	_	_	_	_	NoSpaceAfter
+unter	_	_	_	_	_	_	_	_	_
+deren	_	_	_	_	_	_	_	_	_
+Wucht	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+VerStand	_	_	_	_	_	_	_	_	NoSpaceAfter
+erliegt	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+643	_	_	_	_	_	_	_	_	
+δύςφορος	_	_	_	_	_	_	_	_	_
+ἄτα	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+441	_	_	_	_	_	_	_	_	
+φρένες	_	_	_	_	_	_	_	_	_
+διάστροφοι	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Eine	_	_	_	_	_	_	_	_	_
+Glosse	_	_	_	_	_	_	_	_	_
+παραφόρους	_	_	_	_	_	_	_	_	_
+‚	_	_	_	_	_	_	_	_	_
+Irreführend.)	_	_	_	_	_	_	_	_	NoSpaceAfter
+52	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+7	_	_	_	_	_	_	_	_	_
+ἀνήκεστος	_	_	_	_	_	_	_	_	_
+χαὰρ	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+seine	_	_	_	_	_	_	_	_	_
+Lust	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Führer	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+ermorden	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wodurch	_	_	_	_	_	_	_	_	NoSpaceAfter
+er	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+unheilbares	_	_	_	_	_	_	_	_	_
+Unglück	_	_	_	_	_	_	_	_	_
+gestiftet	_	_	_	_	_	_	_	_	_
+haben	_	_	_	_	_	_	_	_	_
+würde	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+272	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+53	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ποῖμναι	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+zur	_	_	_	_	_	_	_	_	_
+Nahrung	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Heeres	_	_	_	_	_	_	_	_	_
+gehaltenen	_	_	_	_	_	_	_	_	_
+Heerden	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	_
+βουκόλων	_	_	_	_	_	_	_	_	_
+φ	_	_	_	_	_	_	_	_	_
+θουρήματα	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+βου	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+χόλια	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+Beutezügen	_	_	_	_	_	_	_	_	_
+gewonnenen	_	_	_	_	_	_	_	_	NoSpaceAfter
+und	_	_	_	_	_	_	_	_	_
+noch	_	_	_	_	_	_	_	_	_
+nnveriheilt	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Weide	_	_	_	_	_	_	_	_	_
+waren	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+146	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+175	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Zu	_	_	_	_	_	_	_	_	_
+σύμμικτα	_	_	_	_	_	_	_	_	_
+λείας	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+die	_	_	_	_	_	_	_	_	_
+gemischten	_	_	_	_	_	_	_	_	NoSpaceAfter
+Beutethiere	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1209	_	_	_	_	_	_	_	_	
+ἄσημα	_	_	_	_	_	_	_	_	_
+βοῆς	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+strata	_	_	_	_	_	_	_	_	_
+Mar	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+tritt	_	_	_	_	_	_	_	_	_
+ἄϑαστα	_	_	_	_	_	_	_	_	_
+αἷς	_	_	_	_	_	_	_	_	_
+Grund	_	_	_	_	_	_	_	_	_
+ngebend	_	_	_	_	_	_	_	_	_
+hinzu	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0055.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0055
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 55
+# ajmc:author = Wecklein, Nikolaus
+ἀγωνοϑέται	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+573	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+λυμεών	_	_	_	_	_	_	_	_	_
+Odyſſeus	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+ἀγωνάοχαι	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Atriden	_	_	_	_	_	_	_	_	_
+vorſchweben.	_	_	_	_	_	_	_	_	NoSpaceAfter
+574	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+αὐτό	_	_	_	_	_	_	_	_	_
+ankündigend	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+ἐπώνυμον	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+cognominem	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+hier	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+nach	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+du	_	_	_	_	_	_	_	_	_
+benannt	_	_	_	_	_	_	_	_	_
+biſt	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+576	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἑπτάβοιον	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	_
+aus	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Homeriſchen	_	_	_	_	_	_	_	_	_
+ἕπταβόειον	_	_	_	_	_	_	_	_	NoSpaceAfter
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+H	_	_	_	_	_	_	_	_	
+220	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+nach	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Homeriſchen	_	_	_	_	_	_	_	_	_
+ἐννεάβοιος	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+ἑκατόμβοιος	_	_	_	_	_	_	_	_	_
+gebildet.	_	_	_	_	_	_	_	_	_
+577	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+κοινά	_	_	_	_	_	_	_	_	_
+adverbial	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+546	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+τεϑάψεται	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+dritte	_	_	_	_	_	_	_	_	_
+Fut	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+einer	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+unfehlbar	_	_	_	_	_	_	_	_	_
+als	_	_	_	_	_	_	_	_	_
+abgeſchloſſen	_	_	_	_	_	_	_	_	_
+bevorſtehenden	_	_	_	_	_	_	_	_	_
+Folge	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	_
+Kr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+53	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+9	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+3	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Zur	_	_	_	_	_	_	_	_	_
+Sache	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Hom	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Ζ	_	_	_	_	_	_	_	_	
+418	_	_	_	_	_	_	_	_	
+ἀλλ	_	_	_	_	_	_	_	_	_
+ἄρα	_	_	_	_	_	_	_	_	_
+μιν	_	_	_	_	_	_	_	_	_
+κατέκηε	_	_	_	_	_	_	_	_	_
+σὺν	_	_	_	_	_	_	_	_	_
+ἔντεσι	_	_	_	_	_	_	_	_	_
+δαιδαλέοισι	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence|NoSpaceAfter
+Ἡ	_	_	_	_	_	_	_	_	_
+579	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δῶμα	_	_	_	_	_	_	_	_	_
+πάκτου	_	_	_	_	_	_	_	_	_
+bedeutet	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+bleibe	_	_	_	_	_	_	_	_	_
+draußen	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+ἐπισκήνους	_	_	_	_	_	_	_	_	_
+am	_	_	_	_	_	_	_	_	_
+Zelte	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vor	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Zelte	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Was	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+verbietet	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+kann	_	_	_	_	_	_	_	_	_
+natürlich	_	_	_	_	_	_	_	_	_
+Tekmeſſa	_	_	_	_	_	_	_	_	
+doh	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+unterlaſſen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+580	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+φιλοίκτιστον	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+(φιλοικτίομονὴ	_	_	_	_	_	_	_	_	NoSpaceAfter
+wie	_	_	_	_	_	_	_	_	_
+φιλόδυοτος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+φιλαίακτος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+φιλόϑυτος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+φιλόκλαυτος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+φιλόπευστος	_	_	_	_	_	_	_	_	_
+gebildet	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+581	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ϑᾶσσον	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ocius	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+.	_	_	_	_	_	_	_	_	_
+ϑοηνεῖν	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+plorare	_	_	_	_	_	_	_	_	_
+gebraucht	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+Beſprechungen	_	_	_	_	_	_	_	_	_
+waren	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+beſondere	_	_	_	_	_	_	_	_	_
+Art	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Heilverfahrens	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Hom	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+τ	_	_	_	_	_	_	_	_	
+457	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+583	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ποοϑυμίαν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+weil	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+ſolche	_	_	_	_	_	_	_	_	_
+Eile	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Verſchließung	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Zeltes	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+584	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Über	_	_	_	_	_	_	_	_	_
+ἀρέσκειν	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Acc	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Kr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	
+48	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+8	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+2	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+586	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+σωφρονεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Gehorſam	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+589	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἄγαν	_	_	_	_	_	_	_	_	_
+γε	_	_	_	_	_	_	_	_	_
+λυπεῖς	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+abſolut	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+läſtig	_	_	_	_	_	_	_	_	_
+ſein	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+573	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Mit	_	_	_	_	_	_	_	_	_
+ye	_	_	_	_	_	_	_	_	_
+weiſt	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+darauf	_	_	_	_	_	_	_	_	_
+hin	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+daß	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+nachgerade	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Allerläſtigſte	_	_	_	_	_	_	_	_	_
+vernommen	_	_	_	_	_	_	_	_	_
+habe	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+nämlich	_	_	_	_	_	_	_	_	_
+πρὸς	_	_	_	_	_	_	_	_	_
+ϑεῶν	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+590	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Gozeir	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+praestare	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+591	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+εὔφημα	_	_	_	_	_	_	_	_	_
+φώνει	_	_	_	_	_	_	_	_	_
+ὃ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+i	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+läſtere	_	_	_	_	_	_	_	_	_
+niht	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+Der	_	_	_	_	_	_	_	_	_
+Erregung	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/Wecklein1894_0063.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = Wecklein1894_0063
+# hipe2022:date = 1894-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokleus Aias
+# ajmc:publication_place = München
+# ajmc:publication_date = 1894
+# ajmc:page = 63
+# ajmc:author = Wecklein, Nikolaus
+des	_	_	_	_	_	_	_	_	_
+Zaleukos	_	_	_	_	_	_	_	_	
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Diod	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+XII	_	_	_	_	_	_	_	_	
+20	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Cic	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+de	_	_	_	_	_	_	_	_	
+amic	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+59	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+680	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἐς	_	_	_	_	_	_	_	_	_
+τὸ»	_	_	_	_	_	_	_	_	_
+φίλον	_	_	_	_	_	_	_	_	_
+ὑπουργῶν	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Eur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Hel	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1425	_	_	_	_	_	_	_	_	
+ἢν	_	_	_	_	_	_	_	_	_
+σὴν	_	_	_	_	_	_	_	_	_
+εἰς	_	_	_	_	_	_	_	_	_
+ἔμ᾽	_	_	_	_	_	_	_	_	_
+εὔνοιαν	_	_	_	_	_	_	_	_	_
+διδῷς	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+ὠφελεῖν	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+αὐτόν	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+Die	_	_	_	_	_	_	_	_	_
+angefangene	_	_	_	_	_	_	_	_	_
+Form	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Gedankens	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wornach	_	_	_	_	_	_	_	_	NoSpaceAfter
+ὑπουργοῦσιν	_	_	_	_	_	_	_	_	_
+ὠφελητέον	_	_	_	_	_	_	_	_	_
+folgen	_	_	_	_	_	_	_	_	_
+ſollte	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+geändert	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+βουλή	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+σομαι	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Rückſicht	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+zukünftige	_	_	_	_	_	_	_	_	_
+Ausführung	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Abſicht	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+Öd	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+T	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1077	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+684	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἀλλ᾽	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+σχήσει	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Selbſtironie	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+doch	_	_	_	_	_	_	_	_	_
+um	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Ausführung	_	_	_	_	_	_	_	_	NoSpaceAfter
+dieſer	_	_	_	_	_	_	_	_	_
+Grundſätze	_	_	_	_	_	_	_	_	_
+braucht	_	_	_	_	_	_	_	_	_
+man	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+bange	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+ſein	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+687	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ταὐτὰ	_	_	_	_	_	_	_	_	_
+τάδε	_	_	_	_	_	_	_	_	_
+τιμᾶτε	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+τὴν	_	_	_	_	_	_	_	_	_
+αὐτὴν	_	_	_	_	_	_	_	_	_
+τήνδε	_	_	_	_	_	_	_	_	_
+τιμὴν	_	_	_	_	_	_	_	_	_
+VELETE	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+τιμᾶν	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Gewähren	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+ἀτιμάζειν	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Abſchlagen	_	_	_	_	_	_	_	_	_
+einer	_	_	_	_	_	_	_	_	_
+Bitte	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+μοί	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	_
+dat	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+eth	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+verlangt	_	_	_	_	_	_	_	_	_
+alſo	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Chor	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+Gebet	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Göttern	_	_	_	_	_	_	_	_	NoSpaceAfter
+;	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+entſpricht	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+folgende	_	_	_	_	_	_	_	_	_
+Chorgeſang	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+689	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+μέλειν	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+perſönlich	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+El	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+342	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+ἡμῶν	_	_	_	_	_	_	_	_	_
+weiſt	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Beſtattung	_	_	_	_	_	_	_	_	_
+hin	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+692	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Der	_	_	_	_	_	_	_	_	_
+Doppel⸗	_	_	_	_	_	_	_	_	_
+ſinn	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+legten	_	_	_	_	_	_	_	_	_
+Wortes	_	_	_	_	_	_	_	_	_
+kennzeichnet	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+ganze	_	_	_	_	_	_	_	_	_
+Rede	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+geht	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+links	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+ab	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Tekmeſſa	_	_	_	_	_	_	_	_	
+tritt	_	_	_	_	_	_	_	_	_
+ins	_	_	_	_	_	_	_	_	_
+Zelt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+693	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+718	_	_	_	_	_	_	_	_	_
+zweites	_	_	_	_	_	_	_	_	_
+Staſimon	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Die	_	_	_	_	_	_	_	_	_
+täuſchende	_	_	_	_	_	_	_	_	_
+Rede	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+hat	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+ergreifende	_	_	_	_	_	_	_	_	_
+Peripetie	_	_	_	_	_	_	_	_	_
+zur	_	_	_	_	_	_	_	_	_
+Folge	_	_	_	_	_	_	_	_	_
+:	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Chor	_	_	_	_	_	_	_	_	_
+ſtimmt	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+Jubellied	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+ruft	_	_	_	_	_	_	_	_	_
+Pan	_	_	_	_	_	_	_	_	
+und	_	_	_	_	_	_	_	_	_
+Apollon	_	_	_	_	_	_	_	_	
+als	_	_	_	_	_	_	_	_	_
+Götter	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Tanzes	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Muſik	_	_	_	_	_	_	_	_	_
+herbei	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+um	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Freude	_	_	_	_	_	_	_	_	_
+über	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+glückliche	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+unerwartete	_	_	_	_	_	_	_	_	_
+Sinneswandlung	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+zu	_	_	_	_	_	_	_	_	_
+feiern	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Alsbald	_	_	_	_	_	_	_	_	_
+zeigt	_	_	_	_	_	_	_	_	_
+ſich	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+traurige	_	_	_	_	_	_	_	_	_
+Gegenteil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Das	_	_	_	_	_	_	_	_	_
+Versmaß	_	_	_	_	_	_	_	_	_
+dieſes	_	_	_	_	_	_	_	_	_
+Tanzliedes	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+ὑπόρχημαλ	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+iſt	_	_	_	_	_	_	_	_	_
+logaödiſch	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0067.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0067
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 67
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+251	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἐρέσσουσιν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+συντόνως	_	_	_	_	_	_	_	_	_
+κινοῦσιν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+1329	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Phil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1135	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+158	_	_	_	_	_	_	_	_	
+μῆτιν	_	_	_	_	_	_	_	_	_
+ἐρέσσων	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+In	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Gesprächen	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Tekmessa	_	_	_	_	_	_	_	_	
+und	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+mit	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+salaminischen	_	_	_	_	_	_	_	_	_
+Schilfsleuten	_	_	_	_	_	_	_	_	NoSpaceAfter
+werden	_	_	_	_	_	_	_	_	_
+nautische	_	_	_	_	_	_	_	_	_
+Ausdrücke	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Bilder	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Vorliebe	_	_	_	_	_	_	_	_	_
+gebraucht	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+206	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+257	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+351	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Phil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+828	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+δικρατεῖς	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+390	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+254	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+λιϑόλευστον	_	_	_	_	_	_	_	_	_
+Ἄρη	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+230	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+In	_	_	_	_	_	_	_	_	_
+heroischer	_	_	_	_	_	_	_	_	_
+Zeit	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+gewöhnliche	_	_	_	_	_	_	_	_	NoSpaceAfter
+Art	_	_	_	_	_	_	_	_	_
+gewaltsamer	_	_	_	_	_	_	_	_	_
+Ermordung	_	_	_	_	_	_	_	_	NoSpaceAfter
+durch	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+tobende	_	_	_	_	_	_	_	_	_
+Menge	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+oder	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+Fürsten	_	_	_	_	_	_	_	_	_
+verhängter	_	_	_	_	_	_	_	_	_
+Strafe	_	_	_	_	_	_	_	_	_
+φόνος	_	_	_	_	_	_	_	_	_
+δημόλευστος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+257	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+121	_	_	_	_	_	_	_	_	
+f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+zu	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+36	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Aesch	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Ag	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1599	_	_	_	_	_	_	_	_	
+δημορριφεῖς	_	_	_	_	_	_	_	_	NoSpaceAfter
+λεύσιμοι	_	_	_	_	_	_	_	_	_
+ἀραΐ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+1	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+3	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+57	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+"Rasch	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	NoSpaceAfter
+’	_	_	_	_	_	_	_	_	_
+Toben	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+gelegt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Süd	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welcher	_	_	_	_	_	_	_	_	_
+ohne	_	_	_	_	_	_	_	_	_
+Gewitter	_	_	_	_	_	_	_	_	NoSpaceAfter
+losstärmt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Unaufhörliche	_	_	_	_	_	_	_	_	_
+Leidenschaft	_	_	_	_	_	_	_	_	NoSpaceAfter
+vergleicht	_	_	_	_	_	_	_	_	_
+dagegen	_	_	_	_	_	_	_	_	_
+Ibykos	_	_	_	_	_	_	_	_	NoSpaceAfter
+fr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+Tmit	_	_	_	_	_	_	_	_	Partial--7:1
+dem	_	_	_	_	_	_	_	_	_
+ὑπὸ	_	_	_	_	_	_	_	_	_
+στεροπᾶς	_	_	_	_	_	_	_	_	NoSpaceAfter
+φλέγων	_	_	_	_	_	_	_	_	_
+Θρηΐκιος	_	_	_	_	_	_	_	_	_
+Βορέας	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+255	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+αἰσ᾽	_	_	_	_	_	_	_	_	_
+ἄπλατος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἢ	_	_	_	_	_	_	_	_	_
+μανία	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+261	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἡ	_	_	_	_	_	_	_	_	_
+γὰρ	_	_	_	_	_	_	_	_	_
+κοινωνία	_	_	_	_	_	_	_	_	_
+τῶν	_	_	_	_	_	_	_	_	_
+ἁμαρτημάτων	_	_	_	_	_	_	_	_	NoSpaceAfter
+φέρει	_	_	_	_	_	_	_	_	_
+τινὰ	_	_	_	_	_	_	_	_	_
+παραμυϑίαν	_	_	_	_	_	_	_	_	_
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+263	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Der	_	_	_	_	_	_	_	_	_
+Clior	_	_	_	_	_	_	_	_	_
+schlägt	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+schmerzhaften	_	_	_	_	_	_	_	_	_
+Zustand	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+gering	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+meint	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wenn	_	_	_	_	_	_	_	_	_
+nur	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Tobwuth	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+gelegt	_	_	_	_	_	_	_	_	_
+habe	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+so	_	_	_	_	_	_	_	_	_
+können	_	_	_	_	_	_	_	_	NoSpaceAfter
+wohl	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Dinge	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+noch	_	_	_	_	_	_	_	_	_
+zum	_	_	_	_	_	_	_	_	_
+Guten	_	_	_	_	_	_	_	_	_
+kehren	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+indem	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	NoSpaceAfter
+’	_	_	_	_	_	_	_	_	_
+Gemüth	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+schon	_	_	_	_	_	_	_	_	_
+beruhigen	_	_	_	_	_	_	_	_	_
+werde	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Chor	_	_	_	_	_	_	_	_	_
+seine	_	_	_	_	_	_	_	_	_
+Besorgniss	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+254	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+zurücknehmen	_	_	_	_	_	_	_	_	_
+könne	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Mit	_	_	_	_	_	_	_	_	_
+εὐτυχεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Trach	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+191	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+El	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+945	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	EndOfSentence
+Diesen	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+raschen	_	_	_	_	_	_	_	_	_
+Ausbruch	_	_	_	_	_	_	_	_	_
+freudiger	_	_	_	_	_	_	_	_	NoSpaceAfter
+Hoffnung	_	_	_	_	_	_	_	_	_
+sucht	_	_	_	_	_	_	_	_	_
+dann	_	_	_	_	_	_	_	_	_
+Tekmessa	_	_	_	_	_	_	_	_	
+durch	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Betrachtung	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+dämpfen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dass	_	_	_	_	_	_	_	_	_
+genau	_	_	_	_	_	_	_	_	_
+betrachtet	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+gemeinsame	_	_	_	_	_	_	_	_	NoSpaceAfter
+Lage	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+und	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Seinigen	_	_	_	_	_	_	_	_	NoSpaceAfter
+jetzt	_	_	_	_	_	_	_	_	_
+doppelt	_	_	_	_	_	_	_	_	_
+unglücklich	_	_	_	_	_	_	_	_	_
+sei	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+weil	_	_	_	_	_	_	_	_	_
+sie	_	_	_	_	_	_	_	_	_
+κοινοὶ	_	_	_	_	_	_	_	_	_
+ἐν	_	_	_	_	_	_	_	_	_
+κοινοῖς	_	_	_	_	_	_	_	_	_
+λυποῦν	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+ται	_	_	_	_	_	_	_	_	_
+267	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Tekmessa	_	_	_	_	_	_	_	_	
+sucht	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Chor	_	_	_	_	_	_	_	_	_
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+mit	_	_	_	_	_	_	_	_	_
+dialektischer	_	_	_	_	_	_	_	_	_
+Schärfe	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+rechte	_	_	_	_	_	_	_	_	_
+Ansicht	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Lage	_	_	_	_	_	_	_	_	_
+klar	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+machen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+indem	_	_	_	_	_	_	_	_	_
+sie	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+dieses	_	_	_	_	_	_	_	_	_
+Zergliedern	_	_	_	_	_	_	_	_	_
+ihres	_	_	_	_	_	_	_	_	_
+tiefen	_	_	_	_	_	_	_	_	_
+Schmerzes	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Verstand	_	_	_	_	_	_	_	_	_
+zum	_	_	_	_	_	_	_	_	_
+Herrn	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Gefühle	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+machen	_	_	_	_	_	_	_	_	_
+sucht	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+264	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Soph	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Laocoont	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+fr	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+4	_	_	_	_	_	_	_	_	
+Moχϑου	_	_	_	_	_	_	_	_	NoSpaceAfter
+γὰρ	_	_	_	_	_	_	_	_	_
+οὐδεὶς	_	_	_	_	_	_	_	_	_
+τοῦ	_	_	_	_	_	_	_	_	_
+παρελθόντος	_	_	_	_	_	_	_	_	_
+λόγος	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0075.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0075
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 75
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+nach	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+ἐν	_	_	_	_	_	_	_	_	_
+βουσὶ	_	_	_	_	_	_	_	_	_
+πεσών	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+bewaffneter	_	_	_	_	_	_	_	_	NoSpaceAfter
+Hand	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Heerden	_	_	_	_	_	_	_	_	NoSpaceAfter
+überfallend	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+während	_	_	_	_	_	_	_	_	_
+ich	_	_	_	_	_	_	_	_	_
+meine	_	_	_	_	_	_	_	_	_
+Plagegeister	_	_	_	_	_	_	_	_	_
+mir	_	_	_	_	_	_	_	_	_
+entgehen	_	_	_	_	_	_	_	_	_
+liess	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Streng	_	_	_	_	_	_	_	_	_
+logisch	_	_	_	_	_	_	_	_	_
+wäre	_	_	_	_	_	_	_	_	_
+ὃς	_	_	_	_	_	_	_	_	_
+μεϑεὶς	_	_	_	_	_	_	_	_	_
+τοὺς	_	_	_	_	_	_	_	_	_
+ἀλάστορας	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἐν	_	_	_	_	_	_	_	_	_
+βουσὶ	_	_	_	_	_	_	_	_	_
+πεσὼν	_	_	_	_	_	_	_	_	_
+χερὶ	_	_	_	_	_	_	_	_	_
+xrA	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+aber	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Widersinnige	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+That	_	_	_	_	_	_	_	_	_
+tritt	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Vorausstellung	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+pa	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+rataktisch	_	_	_	_	_	_	_	_	_
+gebauten	_	_	_	_	_	_	_	_	_
+Satzgliedes	_	_	_	_	_	_	_	_	_
+stärker	_	_	_	_	_	_	_	_	NoSpaceAfter
+hervor	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+375	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+xAvra	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+edle	_	_	_	_	_	_	_	_	_
+Heerden	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+Homer	_	_	_	_	_	_	_	_	
+xAvr«	_	_	_	_	_	_	_	_	_
+μῆλα	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+376	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δεύειν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vergiessen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+indem	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+verba	_	_	_	_	_	_	_	_	_
+humectandi	_	_	_	_	_	_	_	_	_
+öfter	_	_	_	_	_	_	_	_	_
+diese	_	_	_	_	_	_	_	_	_
+Bedeutung	_	_	_	_	_	_	_	_	_
+annehmen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+τέγγειν	_	_	_	_	_	_	_	_	_
+δακρύων	_	_	_	_	_	_	_	_	_
+ἄχναν	_	_	_	_	_	_	_	_	_
+Trach	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+848	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ῥαΐγειν	_	_	_	_	_	_	_	_	NoSpaceAfter
+χοάς	_	_	_	_	_	_	_	_	_
+etc	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+O	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+R	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1279	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+377	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἐξειργασμένο	_	_	_	_	_	_	_	_	_
+ἐς	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+τετελεσμένοις	_	_	_	_	_	_	_	_	NoSpaceAfter
+καὶ	_	_	_	_	_	_	_	_	_
+ἴασιν	_	_	_	_	_	_	_	_	_
+οὐκ	_	_	_	_	_	_	_	_	_
+ἔχουσιν	_	_	_	_	_	_	_	_	_
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+378	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Wie	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	_
+obliquen	_	_	_	_	_	_	_	_	_
+Casus	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+οὐδεὶς	_	_	_	_	_	_	_	_	_
+ὅστις	_	_	_	_	_	_	_	_	_
+οὐ	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+οὐχ	_	_	_	_	_	_	_	_	_
+ὅπως	_	_	_	_	_	_	_	_	_
+οὐ	_	_	_	_	_	_	_	_	_
+eingeschoben	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ohne	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Struetur	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+ändern	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+—	_	_	_	_	_	_	_	_	_
+οὐκ	_	_	_	_	_	_	_	_	_
+ἂν	_	_	_	_	_	_	_	_	_
+γένοιτο	_	_	_	_	_	_	_	_	_
+οὐϑαμῶς	_	_	_	_	_	_	_	_	NoSpaceAfter
+ταῦτα	_	_	_	_	_	_	_	_	_
+οὐχ	_	_	_	_	_	_	_	_	_
+ὧδε	_	_	_	_	_	_	_	_	_
+ἔχειν	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+33	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+385	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+379	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+πάνϑ	_	_	_	_	_	_	_	_	NoSpaceAfter
+'	_	_	_	_	_	_	_	_	_
+δρῶν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+näml	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+κακά	_	_	_	_	_	_	_	_	_
+nach	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Folgenden	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+πανοῦργε	_	_	_	_	_	_	_	_	_
+καὶ	_	_	_	_	_	_	_	_	_
+περίεργε	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+weil	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+der	_	_	_	_	_	_	_	_	_
+Hauptspäher	_	_	_	_	_	_	_	_	NoSpaceAfter
+des	_	_	_	_	_	_	_	_	_
+Heeres	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Phil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1013	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+381	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+xaxonıv	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἄλημα	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+(τρίμμα,	_	_	_	_	_	_	_	_	NoSpaceAfter
+περίτριμμα	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+nennt	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+den	_	_	_	_	_	_	_	_	_
+stets	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+listige	_	_	_	_	_	_	_	_	_
+Abenteuer	_	_	_	_	_	_	_	_	_
+bedachten	_	_	_	_	_	_	_	_	NoSpaceAfter
+Odysseus	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Hermann	_	_	_	_	_	_	_	_	
+erkl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+squalidus	_	_	_	_	_	_	_	_	NoSpaceAfter
+erro	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Bezug	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Verkleidung	_	_	_	_	_	_	_	_	NoSpaceAfter
+als	_	_	_	_	_	_	_	_	_
+Bettler	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+4	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+242	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Allein	_	_	_	_	_	_	_	_	_
+@Anue	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+320	_	_	_	_	_	_	_	_	
+=	_	_	_	_	_	_	_	_	_
+τρίμμα	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Da	_	_	_	_	_	_	_	_	_
+aber	_	_	_	_	_	_	_	_	_
+ἄλημα	_	_	_	_	_	_	_	_	_
+390	_	_	_	_	_	_	_	_	
+wicederkehrt,	_	_	_	_	_	_	_	_	NoSpaceAfter
+ist	_	_	_	_	_	_	_	_	_
+hier	_	_	_	_	_	_	_	_	_
+vielleicht	_	_	_	_	_	_	_	_	_
+ze	_	_	_	_	_	_	_	_	_
+A	_	_	_	_	_	_	_	_	_
+7	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+7μα	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+lesen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+C	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+960	_	_	_	_	_	_	_	_	
+ὦ	_	_	_	_	_	_	_	_	_
+λῆμ᾽	_	_	_	_	_	_	_	_	_
+ἀναιδές	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+445	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+᾿	_	_	_	_	_	_	_	_	EndOfSentence
+989	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Lacht	_	_	_	_	_	_	_	_	_
+Odysseus	_	_	_	_	_	_	_	_	
+jetzt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+so	_	_	_	_	_	_	_	_	_
+kann	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+bald	_	_	_	_	_	_	_	_	_
+jammern	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wenn	_	_	_	_	_	_	_	_	_
+es	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Gottheit	_	_	_	_	_	_	_	_	_
+gefällt.	_	_	_	_	_	_	_	_	NoSpaceAfter
+Aias	_	_	_	_	_	_	_	_	
+beachtet	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Spruch	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+statt	_	_	_	_	_	_	_	_	_
+ξὺν	_	_	_	_	_	_	_	_	_
+τῷ	_	_	_	_	_	_	_	_	_
+ϑεῷ	_	_	_	_	_	_	_	_	_
+habe	_	_	_	_	_	_	_	_	_
+ich	_	_	_	_	_	_	_	_	_
+ξύν	_	_	_	_	_	_	_	_	_
+τοι	_	_	_	_	_	_	_	_	_
+ϑεῷ	_	_	_	_	_	_	_	_	_
+geschrieben	_	_	_	_	_	_	_	_	_
+:	_	_	_	_	_	_	_	_	_
+σὺν	_	_	_	_	_	_	_	_	_
+ϑεῷ	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+σὺν	_	_	_	_	_	_	_	_	_
+ϑεοῖς	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+übliche	_	_	_	_	_	_	_	_	_
+Formel	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+O	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+R	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+148	_	_	_	_	_	_	_	_	
+ist	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+bestimmter	_	_	_	_	_	_	_	_	_
+Gott	_	_	_	_	_	_	_	_	_
+gemeint	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dass	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Menschen	_	_	_	_	_	_	_	_	_
+Geschick	_	_	_	_	_	_	_	_	NoSpaceAfter
+von	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Göttern	_	_	_	_	_	_	_	_	_
+abhange	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+sondern	_	_	_	_	_	_	_	_	_
+wünscht	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+sei	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+auch	_	_	_	_	_	_	_	_	_
+schwer	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Göttern	_	_	_	_	_	_	_	_	_
+gebeugt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Od	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+habhaft	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+werden	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Darauf	_	_	_	_	_	_	_	_	_
+mahnt	_	_	_	_	_	_	_	_	_
+ihn	_	_	_	_	_	_	_	_	_
+Tekmessa	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+ver	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+messen	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+reden	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+127	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Gewöhnlich	_	_	_	_	_	_	_	_	NoSpaceAfter
+wird	_	_	_	_	_	_	_	_	_
+386	_	_	_	_	_	_	_	_	
+dem	_	_	_	_	_	_	_	_	_
+Chore	_	_	_	_	_	_	_	_	_
+zugetheilt.	_	_	_	_	_	_	_	_	NoSpaceAfter
+Aber	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Gesänge	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Reden	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+348	_	_	_	_	_	_	_	_	
+bis	_	_	_	_	_	_	_	_	_
+430	_	_	_	_	_	_	_	_	
+sind	_	_	_	_	_	_	_	_	_
+symmetrisch	_	_	_	_	_	_	_	_	NoSpaceAfter
+so	_	_	_	_	_	_	_	_	_
+angeordnet	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dass	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+in	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+Iyrischen	_	_	_	_	_	_	_	_	_
+Partien	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+selbst	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Reden	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Chors	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Tekmessa	_	_	_	_	_	_	_	_	NoSpaceAfter
+einander	_	_	_	_	_	_	_	_	_
+gegenseitig	_	_	_	_	_	_	_	_	_
+entspre	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0083.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0083
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 83
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+493	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+συνηλλάχϑης	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+συνηρμόσϑης,	_	_	_	_	_	_	_	_	NoSpaceAfter
+γάμῳ	_	_	_	_	_	_	_	_	_
+συνεζεύχϑης	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+495	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἐφείς	_	_	_	_	_	_	_	_	_
+1297	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ὑποχειρίαν	_	_	_	_	_	_	_	_	_
+δούς	_	_	_	_	_	_	_	_	_
+τινι	_	_	_	_	_	_	_	_	_
+τῶν	_	_	_	_	_	_	_	_	_
+ἐχϑρῶν	_	_	_	_	_	_	_	_	_
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Minder	_	_	_	_	_	_	_	_	NoSpaceAfter
+gut	_	_	_	_	_	_	_	_	_
+bezeugt	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	_
+ἀφείς	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+aus	_	_	_	_	_	_	_	_	_
+496	_	_	_	_	_	_	_	_	
+ver	_	_	_	_	_	_	_	_	_
+schrieben	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+496	_	_	_	_	_	_	_	_	_
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+Denn	_	_	_	_	_	_	_	_	_
+geseizt	_	_	_	_	_	_	_	_	_
+du	_	_	_	_	_	_	_	_	_
+stirbst	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+lässt	_	_	_	_	_	_	_	_	_
+mich	_	_	_	_	_	_	_	_	_
+damit	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+τελευτήσας	_	_	_	_	_	_	_	_	_
+S	_	_	_	_	_	_	_	_	_
+᾿	_	_	_	_	_	_	_	_	NoSpaceAfter
+'	_	_	_	_	_	_	_	_	NoSpaceAfter
+ϑανώ»	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Stiche	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ohne	_	_	_	_	_	_	_	_	_
+deinen	_	_	_	_	_	_	_	_	_
+Schutz	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+so	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+unfehlbar	_	_	_	_	_	_	_	_	_
+unser	_	_	_	_	_	_	_	_	_
+Loos	_	_	_	_	_	_	_	_	_
+Sklaverei	_	_	_	_	_	_	_	_	_
+sein	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+‘‘	_	_	_	_	_	_	_	_	EndOfSentence
+Mit	_	_	_	_	_	_	_	_	_
+Rücksicht	_	_	_	_	_	_	_	_	NoSpaceAfter
+gerade	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+diese	_	_	_	_	_	_	_	_	_
+Besorgniss	_	_	_	_	_	_	_	_	_
+ordnet	_	_	_	_	_	_	_	_	_
+Atas	_	_	_	_	_	_	_	_	
+560	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+den	_	_	_	_	_	_	_	_	_
+Teukros	_	_	_	_	_	_	_	_	
+als	_	_	_	_	_	_	_	_	_
+Beschützer	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Seinigen	_	_	_	_	_	_	_	_	_
+an	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Der	_	_	_	_	_	_	_	_	_
+Conj	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+εἰ	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+O	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+ἢ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+198	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Die	_	_	_	_	_	_	_	_	_
+Lesart	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	_
+aus	_	_	_	_	_	_	_	_	_
+Laur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+A	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+BDindorf	_	_	_	_	_	_	_	_	
+hat	_	_	_	_	_	_	_	_	_
+y	_	_	_	_	_	_	_	_	_
+γὰρ	_	_	_	_	_	_	_	_	_
+.	_	_	_	_	_	_	_	_	_
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+geschrieben	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+sehr	_	_	_	_	_	_	_	_	_
+ansprechend	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+‘obwohl	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+εἰ	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+Trach	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+719	_	_	_	_	_	_	_	_	
+Sedozret	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+κεῖνος	_	_	_	_	_	_	_	_	_
+εἰ	_	_	_	_	_	_	_	_	_
+σφαλήσεται,	_	_	_	_	_	_	_	_	NoSpaceAfter
+Κείνῃ	_	_	_	_	_	_	_	_	_
+σὺν	_	_	_	_	_	_	_	_	_
+δρμῇ	_	_	_	_	_	_	_	_	_
+κἀμὲ	_	_	_	_	_	_	_	_	_
+συνθαωνεῖν	_	_	_	_	_	_	_	_	_
+ἅμα	_	_	_	_	_	_	_	_	_
+ver	_	_	_	_	_	_	_	_	_
+theidigen	_	_	_	_	_	_	_	_	_
+lässt	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Der	_	_	_	_	_	_	_	_	_
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+erklärt	_	_	_	_	_	_	_	_	_
+ταύτῃ	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+οὕτως	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+χατὰ	_	_	_	_	_	_	_	_	_
+τοῦτον	_	_	_	_	_	_	_	_	_
+τὸν	_	_	_	_	_	_	_	_	_
+τρόπον	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Früber	_	_	_	_	_	_	_	_	_
+hatte	_	_	_	_	_	_	_	_	_
+ich	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Sintenis	_	_	_	_	_	_	_	_	_
+red	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+φανῇς	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Phil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1339	_	_	_	_	_	_	_	_	
+πέρσας	_	_	_	_	_	_	_	_	_
+φανῇς	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+geschrieben	_	_	_	_	_	_	_	_	_
+,	_	_	_	_	_	_	_	_	_
+weil	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+ἀφῇς	_	_	_	_	_	_	_	_	_
+schon	_	_	_	_	_	_	_	_	_
+antieipirt	_	_	_	_	_	_	_	_	_
+würde	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+was	_	_	_	_	_	_	_	_	_
+erst	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Nachsatze	_	_	_	_	_	_	_	_	_
+ausgesprochen	_	_	_	_	_	_	_	_	_
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+werde	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+513	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Allein	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Gedanke	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	_
+vollkommen	_	_	_	_	_	_	_	_	_
+richtig	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+da	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+dovλεία	_	_	_	_	_	_	_	_	NoSpaceAfter
+erst	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+Folge	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+μόνην	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+ἀφεῖναι	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	EndOfSentence
+499	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δούλιον	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+guten	_	_	_	_	_	_	_	_	_
+Quellen:	_	_	_	_	_	_	_	_	NoSpaceAfter
+ob	_	_	_	_	_	_	_	_	_
+δούλιον	_	_	_	_	_	_	_	_	_
+στέρξειν	_	_	_	_	_	_	_	_	_
+To	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+mich	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Sklaverei	_	_	_	_	_	_	_	_	NoSpaceAfter
+fügen	_	_	_	_	_	_	_	_	_
+müssen	_	_	_	_	_	_	_	_	NoSpaceAfter
+?	_	_	_	_	_	_	_	_	EndOfSentence
+500	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Il	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+459	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Καί	_	_	_	_	_	_	_	_	_
+ποτέ	_	_	_	_	_	_	_	_	_
+τις	_	_	_	_	_	_	_	_	_
+εἴπῃσιν	_	_	_	_	_	_	_	_	_
+ἰδὼν	_	_	_	_	_	_	_	_	_
+κάτα	_	_	_	_	_	_	_	_	_
+δάκρυ	_	_	_	_	_	_	_	_	_
+χέουσαν	_	_	_	_	_	_	_	_	_
+»»Ἔχτορος	_	_	_	_	_	_	_	_	_
+nde	_	_	_	_	_	_	_	_	_
+γυνή	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ὃς	_	_	_	_	_	_	_	_	_
+ἀριστεύεσχε	_	_	_	_	_	_	_	_	NoSpaceAfter
+μιάχεσϑαι	_	_	_	_	_	_	_	_	_
+Τρώων	_	_	_	_	_	_	_	_	_
+ἱπποδάμων	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	EndOfSentence
+χαϑαστό	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+μενός	_	_	_	_	_	_	_	_	_
+μου	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Aesch	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Sieben	_	_	_	_	_	_	_	_	
+388	_	_	_	_	_	_	_	_	
+VEvsır	_	_	_	_	_	_	_	_	_
+ὀνείδει	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+503	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+τρέφει	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+644	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+€	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+186	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+504	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+δαίμων	_	_	_	_	_	_	_	_	_
+ἐλᾷ	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+N	_	_	_	_	_	_	_	_	_
+δυστυχία	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+sonst	_	_	_	_	_	_	_	_	_
+χαχοῖς	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+συμφοραῖς	_	_	_	_	_	_	_	_	_
+ἐλαύγεσϑαι.	_	_	_	_	_	_	_	_	NoSpaceAfter
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+275	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+406	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+505	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Tekm	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+setzt	_	_	_	_	_	_	_	_	_
+dieses	_	_	_	_	_	_	_	_	_
+αἰσχρόν	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+473	_	_	_	_	_	_	_	_	
+entgegen	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+thut	_	_	_	_	_	_	_	_	_
+indirect	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+Verweisung	_	_	_	_	_	_	_	_	NoSpaceAfter
+auf	_	_	_	_	_	_	_	_	_
+Teukros	_	_	_	_	_	_	_	_	
+560ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+hierauf	_	_	_	_	_	_	_	_	_
+-	_	_	_	_	_	_	_	_	_
+Bescheid	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+507	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+622	_	_	_	_	_	_	_	_	
+ſ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+ὅτε	_	_	_	_	_	_	_	_	_
+Ἴλιον	_	_	_	_	_	_	_	_	_
+ἀμφεμάχοντο	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+""	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+696	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+El	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+975	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+501	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+λόγοις	_	_	_	_	_	_	_	_	_
+ianrwv	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+con	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0092.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0092
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 92
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+614	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+φρενὸς	_	_	_	_	_	_	_	_	_
+οἰοβώτας	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+seinen	_	_	_	_	_	_	_	_	_
+Sinn	_	_	_	_	_	_	_	_	_
+auf	_	_	_	_	_	_	_	_	_
+einsame	_	_	_	_	_	_	_	_	_
+Weide	_	_	_	_	_	_	_	_	_
+führend	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+insofern	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+wie	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+krankes	_	_	_	_	_	_	_	_	_
+Weidethier	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+seiner	_	_	_	_	_	_	_	_	_
+Umgebung	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+trennt	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+seinen	_	_	_	_	_	_	_	_	_
+absonderlichen	_	_	_	_	_	_	_	_	_
+wahnsinnigen	_	_	_	_	_	_	_	_	_
+Vorstellungen	_	_	_	_	_	_	_	_	_
+herumschweift	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ohne	_	_	_	_	_	_	_	_	_
+freundlicher	_	_	_	_	_	_	_	_	_
+Zurede	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+folgen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+640	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+11	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	
+201	_	_	_	_	_	_	_	_	
+Ἤτοι	_	_	_	_	_	_	_	_	_
+ὃ	_	_	_	_	_	_	_	_	_
+χὰπ	_	_	_	_	_	_	_	_	_
+πεδίον	_	_	_	_	_	_	_	_	_
+τὸ	_	_	_	_	_	_	_	_	_
+Alnıov	_	_	_	_	_	_	_	_	_
+οἷος	_	_	_	_	_	_	_	_	_
+ἀλᾶτο	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Ὃν	_	_	_	_	_	_	_	_	_
+ϑυμὸν	_	_	_	_	_	_	_	_	_
+κατέδων	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+πάτον	_	_	_	_	_	_	_	_	_
+ἀνθρώπων	_	_	_	_	_	_	_	_	_
+ἀλε	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+είνων	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+Obgleich	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Tobwuth	_	_	_	_	_	_	_	_	_
+vorüber	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+redet	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Chor	_	_	_	_	_	_	_	_	_
+doch	_	_	_	_	_	_	_	_	_
+noch	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+μανία	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+weil	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	
+sich	_	_	_	_	_	_	_	_	_
+noch	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+Rach	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+Mordge	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+danken	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+geistiger	_	_	_	_	_	_	_	_	_
+Verwirrung	_	_	_	_	_	_	_	_	_
+frei	_	_	_	_	_	_	_	_	_
+machen	_	_	_	_	_	_	_	_	_
+kann	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+615	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+εὕρηται	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+γεγένηται	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+616	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἔργα	_	_	_	_	_	_	_	_	_
+χεροῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+gleichsam	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+Wort	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+χειρουργήματα	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+621	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ἔπεσε	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+ἐν	_	_	_	_	_	_	_	_	_
+ὀλιγωρίᾳ	_	_	_	_	_	_	_	_	_
+ἐστὶ	_	_	_	_	_	_	_	_	_
+παρὰ	_	_	_	_	_	_	_	_	_
+τοῖς	_	_	_	_	_	_	_	_	_
+᾿Ατρείδαις	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Schol	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+924	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+622	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+παλαιᾷ	_	_	_	_	_	_	_	_	_
+ἔντρ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+ἐνοῦσα	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+C	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1362	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+639	_	_	_	_	_	_	_	_	
+σύντροφος	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+ἁμέρᾳ	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+508	_	_	_	_	_	_	_	_	
+πολλῶν	_	_	_	_	_	_	_	_	_
+ἐτῶν	_	_	_	_	_	_	_	_	_
+κληροῦχος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+d	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+h	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+πολυετής	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+500	_	_	_	_	_	_	_	_	NoSpaceAfter|Partial-2:3
+.	_	_	_	_	_	_	_	_	
+C	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+1215	_	_	_	_	_	_	_	_	
+αἱ	_	_	_	_	_	_	_	_	_
+μαχραὶ	_	_	_	_	_	_	_	_	_
+ἁμέραι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+lange	_	_	_	_	_	_	_	_	_
+Menschenleben	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+νέος	_	_	_	_	_	_	_	_	_
+ἡμέρα	_	_	_	_	_	_	_	_	_
+=	_	_	_	_	_	_	_	_	_
+νεότης	_	_	_	_	_	_	_	_	_
+Eur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Ion	_	_	_	_	_	_	_	_	
+120	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+625	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+λευκῷ	_	_	_	_	_	_	_	_	_
+τε	_	_	_	_	_	_	_	_	_
+γήραι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+λευ	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+καίνοντε	_	_	_	_	_	_	_	_	_
+τὰς	_	_	_	_	_	_	_	_	_
+τρίχας	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+cano	_	_	_	_	_	_	_	_	_
+senio	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Das	_	_	_	_	_	_	_	_	_
+handschriftliche	_	_	_	_	_	_	_	_	_
+δέ	_	_	_	_	_	_	_	_	_
+statt	_	_	_	_	_	_	_	_	_
+re	_	_	_	_	_	_	_	_	_
+wäre	_	_	_	_	_	_	_	_	_
+nur	_	_	_	_	_	_	_	_	_
+möglich	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wenn	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+zwei	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+tes	_	_	_	_	_	_	_	_	_
+Prädikat	_	_	_	_	_	_	_	_	_
+einträte	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+etwa	_	_	_	_	_	_	_	_	_
+λευχὰ	_	_	_	_	_	_	_	_	_
+δὲ	_	_	_	_	_	_	_	_	_
+γήραι	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+Eur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Herc	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Fur	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+910	_	_	_	_	_	_	_	_	
+λευχὰ	_	_	_	_	_	_	_	_	_
+γήραι	_	_	_	_	_	_	_	_	_
+σώματα	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+627	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Die	_	_	_	_	_	_	_	_	_
+Mutter	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+ein	_	_	_	_	_	_	_	_	_
+sanftklagendes	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+schmelzendes	_	_	_	_	_	_	_	_	_
+Lied	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Nachtigall	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+El	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+147	_	_	_	_	_	_	_	_	
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+anstim	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+men	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+sondern	_	_	_	_	_	_	_	_	_
+αἵλινον	_	_	_	_	_	_	_	_	_
+αἴλινον	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+schallen	_	_	_	_	_	_	_	_	_
+lassen	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+wilden	_	_	_	_	_	_	_	_	_
+Schmerz	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Brust	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+zerschlagen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Haar	_	_	_	_	_	_	_	_	_
+zerraufen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+El	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+88f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Mit	_	_	_	_	_	_	_	_	_
+αἔλινον	_	_	_	_	_	_	_	_	_
+αἴλινον	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+schmerzliche	_	_	_	_	_	_	_	_	_
+Todtenklage	_	_	_	_	_	_	_	_	_
+allgemein	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dann	_	_	_	_	_	_	_	_	_
+im	_	_	_	_	_	_	_	_	_
+Gegensatze	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+γόος	_	_	_	_	_	_	_	_	_
+ἀηδόνειος	_	_	_	_	_	_	_	_	_
+nochmals	_	_	_	_	_	_	_	_	_
+bestimmter	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+herbere	_	_	_	_	_	_	_	_	_
+Schmerz	_	_	_	_	_	_	_	_	_
+durch	_	_	_	_	_	_	_	_	_
+ὀξυτ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+ade	_	_	_	_	_	_	_	_	_
+bezeichnet	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+423	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+So	_	_	_	_	_	_	_	_	_
+’	_	_	_	_	_	_	_	_	NoSpaceAfter
+ent	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+steht	_	_	_	_	_	_	_	_	_
+eine	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+Sophokles	_	_	_	_	_	_	_	_	
+nicht	_	_	_	_	_	_	_	_	_
+sel	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	_
+tene	_	_	_	_	_	_	_	_	_
+doppelte	_	_	_	_	_	_	_	_	_
+Apodosis	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+840	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1114	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+O	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+C	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+91	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+289	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+775	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Phil	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+269	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+O0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+R	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+338	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+468	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0108.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0108
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 108
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+88	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+πανύστατον	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+809	_	_	_	_	_	_	_	_	
+νέατον	_	_	_	_	_	_	_	_	_
+φέγγος	_	_	_	_	_	_	_	_	_
+λεύσσουσαν	_	_	_	_	_	_	_	_	_
+ἀελίου	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+801	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+χλειναί	_	_	_	_	_	_	_	_	_
+hiess	_	_	_	_	_	_	_	_	_
+Alhen	_	_	_	_	_	_	_	_	
+vorzugsweise	_	_	_	_	_	_	_	_	NoSpaceAfter
+seit	_	_	_	_	_	_	_	_	_
+Pindars	_	_	_	_	_	_	_	_	Partial-0:6
+χλειναὶ	_	_	_	_	_	_	_	_	_
+4	_	_	_	_	_	_	_	_	_
+ϑῶναι,	_	_	_	_	_	_	_	_	NoSpaceAfter
+δαιμόνιον	_	_	_	_	_	_	_	_	_
+πτολίεθρον	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+1221	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+—	_	_	_	_	_	_	_	_	_
+τὸ	_	_	_	_	_	_	_	_	_
+σύντρ	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+γένος	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+Athener	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+862	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+AITE	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+S64	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+98	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Im	_	_	_	_	_	_	_	_	_
+folgenden	_	_	_	_	_	_	_	_	_
+Verse	_	_	_	_	_	_	_	_	_
+aber	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+erste	_	_	_	_	_	_	_	_	_
+Person	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+C	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+6	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1329	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+866	_	_	_	_	_	_	_	_	_
+ff	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Die	_	_	_	_	_	_	_	_	_
+beiden	_	_	_	_	_	_	_	_	_
+Hälften	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+Chors	_	_	_	_	_	_	_	_	_
+treffen	_	_	_	_	_	_	_	_	_
+nach	_	_	_	_	_	_	_	_	_
+vergeblichem	_	_	_	_	_	_	_	_	_
+Suchen	_	_	_	_	_	_	_	_	NoSpaceAfter
+zusammen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+„	_	_	_	_	_	_	_	_	NoSpaceAfter
+Loquuntur	_	_	_	_	_	_	_	_	_
+singuli.	_	_	_	_	_	_	_	_	NoSpaceAfter
+Sunt	_	_	_	_	_	_	_	_	_
+haec	_	_	_	_	_	_	_	_	_
+antistrophica	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+atque	_	_	_	_	_	_	_	_	NoSpaceAfter
+μὲ	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+prima	_	_	_	_	_	_	_	_	_
+stropha	_	_	_	_	_	_	_	_	_
+duo	_	_	_	_	_	_	_	_	_
+primi	_	_	_	_	_	_	_	_	_
+hemichorü	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+sic	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+anlisiropha	_	_	_	_	_	_	_	_	NoSpaceAfter
+duo	_	_	_	_	_	_	_	_	_
+alterius	_	_	_	_	_	_	_	_	_
+hemichorü	_	_	_	_	_	_	_	_	_
+inter	_	_	_	_	_	_	_	_	_
+se	_	_	_	_	_	_	_	_	_
+colloquunlur	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+allera	_	_	_	_	_	_	_	_	_
+siropha	_	_	_	_	_	_	_	_	_
+aulem	_	_	_	_	_	_	_	_	_
+uni	_	_	_	_	_	_	_	_	_
+secundi	_	_	_	_	_	_	_	_	_
+hemichorü	_	_	_	_	_	_	_	_	_
+unus	_	_	_	_	_	_	_	_	NoSpaceAfter
+-	_	_	_	_	_	_	_	_	NoSpaceAfter
+primi	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+el	_	_	_	_	_	_	_	_	_
+sic	_	_	_	_	_	_	_	_	_
+eliam	_	_	_	_	_	_	_	_	_
+in	_	_	_	_	_	_	_	_	_
+anlisiropha	_	_	_	_	_	_	_	_	NoSpaceAfter
+respondet	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+“	_	_	_	_	_	_	_	_	_
+Hermann	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+866	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Die	_	_	_	_	_	_	_	_	_
+Mühe	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+A	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+aufzusuchen,	_	_	_	_	_	_	_	_	NoSpaceAfter
+hat	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+frühern	_	_	_	_	_	_	_	_	_
+Noth	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+ihm	_	_	_	_	_	_	_	_	_
+noch	_	_	_	_	_	_	_	_	_
+neue	_	_	_	_	_	_	_	_	_
+Noth	_	_	_	_	_	_	_	_	_
+hinzugefügt,	_	_	_	_	_	_	_	_	NoSpaceAfter
+weil	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Chor	_	_	_	_	_	_	_	_	_
+ihn	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+gefunden	_	_	_	_	_	_	_	_	NoSpaceAfter
+hat	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Die	_	_	_	_	_	_	_	_	_
+Parechesis	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+bei	_	_	_	_	_	_	_	_	_
+allen	_	_	_	_	_	_	_	_	_
+dramatischen	_	_	_	_	_	_	_	_	_
+Dichtern	_	_	_	_	_	_	_	_	_
+beliebt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+malt	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Lastende	_	_	_	_	_	_	_	_	_
+gehäufter	_	_	_	_	_	_	_	_	_
+nutzloser	_	_	_	_	_	_	_	_	NoSpaceAfter
+Mühe	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+1197	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Aesch	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+Pers	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+998	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+δόσιν	_	_	_	_	_	_	_	_	_
+χαχὰν	_	_	_	_	_	_	_	_	_
+χακῶν	_	_	_	_	_	_	_	_	_
+χακοῖς	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+R	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+1250	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+εἰ	_	_	_	_	_	_	_	_	_
+τέκν	_	_	_	_	_	_	_	_	_
+ἐκ	_	_	_	_	_	_	_	_	_
+τέκνων	_	_	_	_	_	_	_	_	_
+τέχοι	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ennius	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+Ouidquam	_	_	_	_	_	_	_	_	_
+quisquam	_	_	_	_	_	_	_	_	NoSpaceAfter
+quoiquam	_	_	_	_	_	_	_	_	_
+quod	_	_	_	_	_	_	_	_	_
+conveniat	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+negel	_	_	_	_	_	_	_	_	NoSpaceAfter
+?	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+0	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+C	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+658	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+869	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+d	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+h	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+οὐδεὶς	_	_	_	_	_	_	_	_	_
+τόπος	_	_	_	_	_	_	_	_	_
+ἐπιστώμένος	_	_	_	_	_	_	_	_	NoSpaceAfter
+ποιεῖ	_	_	_	_	_	_	_	_	_
+μὲ	_	_	_	_	_	_	_	_	_
+συμμαϑεῖν	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+kein	_	_	_	_	_	_	_	_	_
+Ort	_	_	_	_	_	_	_	_	_
+hat	_	_	_	_	_	_	_	_	_
+Kunde	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+so	_	_	_	_	_	_	_	_	EndOfSentence
+
+# hipe2022:original_source = data/preparation/corpus/de/retokenized/sophokle1v3soph_0116.xmi
+# hipe2022:license = CC-BY
+# hipe2022:language = de
+# hipe2022:document_type = commentary
+# hipe2022:document_id = sophokle1v3soph_0116
+# hipe2022:date = 1853-01-01
+# hipe2022:dataset = ajmc
+# hipe2022:applicable_columns = TOKEN NE-COARSE-LIT NE-FINE-LIT NE-NESTED NEL-LIT MISC
+# ajmc:version = v0.3
+# ajmc:title = Sophokles, erklärt
+# ajmc:publication_place = Leipzig
+# ajmc:publication_date = 1853
+# ajmc:page = 116
+# ajmc:author = Schneidewin, Friedrich Wilhelm
+ich	_	_	_	_	_	_	_	_	_
+dich	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+durch	_	_	_	_	_	_	_	_	_
+meine	_	_	_	_	_	_	_	_	_
+Entfernung	_	_	_	_	_	_	_	_	_
+nach	_	_	_	_	_	_	_	_	_
+Mysien	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	_
+verrathen	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+verkauft	_	_	_	_	_	_	_	_	NoSpaceAfter
+?	_	_	_	_	_	_	_	_	EndOfSentence
+Unterwegs	_	_	_	_	_	_	_	_	_
+war	_	_	_	_	_	_	_	_	_
+dem	_	_	_	_	_	_	_	_	_
+Teukros	_	_	_	_	_	_	_	_	
+die	_	_	_	_	_	_	_	_	_
+Kunde	_	_	_	_	_	_	_	_	_
+von	_	_	_	_	_	_	_	_	_
+Aias	_	_	_	_	_	_	_	_	NoSpaceAfter
+’	_	_	_	_	_	_	_	_	_
+Tode	_	_	_	_	_	_	_	_	_
+zugekommen	_	_	_	_	_	_	_	_	_
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+999	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	NoSpaceAfter
+:	_	_	_	_	_	_	_	_	_
+nun	_	_	_	_	_	_	_	_	_
+macht	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+sich	_	_	_	_	_	_	_	_	_
+Vorwürfe	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+dass	_	_	_	_	_	_	_	_	_
+er	_	_	_	_	_	_	_	_	_
+nicht	_	_	_	_	_	_	_	_	_
+zugegen	_	_	_	_	_	_	_	_	NoSpaceAfter
+gewesen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+um	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+That	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+verbindern	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+1006f	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+(	_	_	_	_	_	_	_	_	NoSpaceAfter
+Die	_	_	_	_	_	_	_	_	_
+Lesart	_	_	_	_	_	_	_	_	NoSpaceAfter
+der	_	_	_	_	_	_	_	_	_
+Bücher	_	_	_	_	_	_	_	_	_
+7urröAnzxas	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+welche	_	_	_	_	_	_	_	_	_
+Lobeck	_	_	_	_	_	_	_	_	
+erklärt	_	_	_	_	_	_	_	_	_
+πέπραγας	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+habe	_	_	_	_	_	_	_	_	_
+ich	_	_	_	_	_	_	_	_	_
+mit	_	_	_	_	_	_	_	_	_
+Hermanns	_	_	_	_	_	_	_	_	
+Emendation	_	_	_	_	_	_	_	_	_
+vertauscht,	_	_	_	_	_	_	_	_	NoSpaceAfter
+da	_	_	_	_	_	_	_	_	_
+andere	_	_	_	_	_	_	_	_	_
+Erklärungen	_	_	_	_	_	_	_	_	_
+so	_	_	_	_	_	_	_	_	_
+wenig	_	_	_	_	_	_	_	_	_
+als	_	_	_	_	_	_	_	_	_
+jene	_	_	_	_	_	_	_	_	_
+befriedigen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	NoSpaceAfter
+)	_	_	_	_	_	_	_	_	EndOfSentence
+981	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Vgl	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+904	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+985	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+μόνος	_	_	_	_	_	_	_	_	_
+kehrt	_	_	_	_	_	_	_	_	_
+trotz	_	_	_	_	_	_	_	_	_
+τέκνον	_	_	_	_	_	_	_	_	_
+zum	_	_	_	_	_	_	_	_	_
+natürlichen	_	_	_	_	_	_	_	_	_
+Geschlecht	_	_	_	_	_	_	_	_	_
+zurück	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+φίλε	_	_	_	_	_	_	_	_	_
+τέκνον	_	_	_	_	_	_	_	_	_
+Homer	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+986	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Mit	_	_	_	_	_	_	_	_	_
+xev7s	_	_	_	_	_	_	_	_	_
+wird	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Erfolg	_	_	_	_	_	_	_	_	_
+des	_	_	_	_	_	_	_	_	_
+ἀναρπάσαν	_	_	_	_	_	_	_	_	_
+vorweggenommen	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+5	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+zu	_	_	_	_	_	_	_	_	_
+69	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+517	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	_
+Ant	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	
+424	_	_	_	_	_	_	_	_	
+ὄρνις	_	_	_	_	_	_	_	_	_
+x&vis	_	_	_	_	_	_	_	_	NoSpaceAfter
+εὐνῆς	_	_	_	_	_	_	_	_	_
+νεοσσῶν	_	_	_	_	_	_	_	_	_
+ὀρφανὸν	_	_	_	_	_	_	_	_	_
+βλέzreı	_	_	_	_	_	_	_	_	NoSpaceAfter
+λέχος	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
+Wie	_	_	_	_	_	_	_	_	_
+man	_	_	_	_	_	_	_	_	_
+der	_	_	_	_	_	_	_	_	_
+Löwin	_	_	_	_	_	_	_	_	_
+das	_	_	_	_	_	_	_	_	_
+Junge	_	_	_	_	_	_	_	_	_
+raubt	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+wenn	_	_	_	_	_	_	_	_	_
+sie	_	_	_	_	_	_	_	_	_
+vom	_	_	_	_	_	_	_	_	_
+Lager	_	_	_	_	_	_	_	_	_
+fern	_	_	_	_	_	_	_	_	_
+ist	_	_	_	_	_	_	_	_	NoSpaceAfter
+,	_	_	_	_	_	_	_	_	_
+so	_	_	_	_	_	_	_	_	_
+möchte	_	_	_	_	_	_	_	_	_
+man	_	_	_	_	_	_	_	_	_
+den	_	_	_	_	_	_	_	_	_
+allein	_	_	_	_	_	_	_	_	_
+am	_	_	_	_	_	_	_	_	_
+Zelte	_	_	_	_	_	_	_	_	_
+zurückgelassenen	_	_	_	_	_	_	_	_	_
+Eurysakes	_	_	_	_	_	_	_	_	
+rauben	_	_	_	_	_	_	_	_	_
+und	_	_	_	_	_	_	_	_	_
+wie	_	_	_	_	_	_	_	_	_
+die	_	_	_	_	_	_	_	_	_
+zurückkehrende	_	_	_	_	_	_	_	_	NoSpaceAfter
+Löwin	_	_	_	_	_	_	_	_	_
+würden	_	_	_	_	_	_	_	_	_
+wir	_	_	_	_	_	_	_	_	_
+dann	_	_	_	_	_	_	_	_	_
+vergebens	_	_	_	_	_	_	_	_	_
+wüthen	_	_	_	_	_	_	_	_	NoSpaceAfter
+.	_	_	_	_	_	_	_	_	EndOfSentence
