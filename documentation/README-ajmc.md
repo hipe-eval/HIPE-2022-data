@@ -11,7 +11,7 @@
 | **Annotation tool**     | [INCEpTION](https://inception-project.github.io/) |
 | **Original format and tagging scheme** |`.tsv, IOB` |
 | **Annotations**          | NERC, EL (towards Wikidata) |
-| **Version (used in HIPE-2022)**   | `v0.2` |
+| **Version (used in HIPE-2022)**   | `v0.3` |
 | **Related publication**               | – |
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) |
 
