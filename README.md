@@ -18,12 +18,13 @@ Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) 
 - :computer: Visit the [**website**](https://hipe-eval.github.io/HIPE-2022/) for general information on the shared task and registration.    
 - :notebook: Read the [**Participation Guidelines**](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6045662.svg)](https://doi.org/10.5281/zenodo.6045662)
-- **License**: HIPE-2022 data is released under a [CC BY-NV-SA 4.0 License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **License**: HIPE-2022 data is released under a [CC BY-NC-SA 4.0 License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://zenodo.org/record/6375600) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6375600.svg)](https://doi.org/10.5281/zenodo.6375600)
 - **Release history**:     
       - 15.02.2022: [v1.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v1.0)    
       - 22.03.2022: [v2.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.0)    
-      - 15.04.2022: [v2.1](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1)    
+      - 15.04.2022: [v2.1](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1)   
+      - 26.04.2022: commit of masked test files in data v2.1 [link to PR]() 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
