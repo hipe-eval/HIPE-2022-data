@@ -48,6 +48,10 @@ The *sonar* dataset can be used for:
 
 ### Data release notes
 
+**HIPE-2022 v2.1 hotfix release notes**
+- dev set: EL annotation was in the wrong column (NE-NESTED) instead of NE-LIT. Fixed with the hotfix commit cc57462
+- dev set: empty tokens removed
+
 **HIPE-2022 v2.0 release notes**
 - EL annotation is now part of the release.
 - Thorough revision of NER and NEL annotation have been done by the HIPE team.
