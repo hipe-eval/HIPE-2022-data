@@ -24,8 +24,8 @@ Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) 
       - 15.02.2022: [v1.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v1.0)    
       - 22.03.2022: [v2.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.0)    
       - 15.04.2022: [v2.1](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1)   
-      - 26.04.2022: commit of allmasked test files in data v2.1 ([cf. PR#7](https://github.com/hipe-eval/HIPE-2022-data/pull/7))
-
+      - 26.04.2022: commit of all-masked test files for bundle 1 to 4 in data v2.1 ([cf. PR#7](https://github.com/hipe-eval/HIPE-2022-data/pull/7))     
+      - 05.05.2022: commit of EL-masked test files for bundle 5 in data v2.1 ([cf. PR#10](https://github.com/hipe-eval/HIPE-2022-data/pull/10)) 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
