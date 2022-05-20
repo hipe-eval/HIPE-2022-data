@@ -16,10 +16,17 @@ Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) 
 ## Key information
   
 - :computer: Visit the [**website**](https://hipe-eval.github.io/HIPE-2022/) for general information on the shared task and registration.    
-- :notebook: Read the [**Participation Guidelines**](https://doi.org/10.5281/zenodo.6045662) for detailed information on the tasks, datasets and evaluation settings.
+
+- :notebook: Read the [**Participation Guidelines**](https://doi.org/10.5281/zenodo.6045662) for detailed information about the tasks, datasets and evaluation.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6045662.svg)](https://doi.org/10.5281/zenodo.6045662)
+
 - **License**: HIPE-2022 data is released under a [CC BY-NC-SA 4.0 License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-- **Where to find the data**: in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder; in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases); on [zenodo](https://zenodo.org/record/6375600) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6375600.svg)](https://doi.org/10.5281/zenodo.6375600)
+
+- **Where to find the data**:      
+      - in the [data](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/) folder     
+      - in git [releases](https://github.com/hipe-eval/HIPE-2022-data/releases)      
+      - on [zenodo](https://zenodo.org/record/6375600) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6375600.svg)](https://doi.org/10.5281/zenodo.6375600)
+      
 - **Release history**:    
       - 15.02.2022: release [v1.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v1.0)    
       - 22.03.2022: release [v2.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.0)    
@@ -27,7 +34,7 @@ Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) 
       - 26.04.2022: commit of all-masked test files for bundle 1 to 4 in data v2.1 ([cf. PR#7](https://github.com/hipe-eval/HIPE-2022-data/pull/7) and release [v2.1-test_allmasked+sonar_hotfix](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test_allmasked%2Bsonar_hotfix))     
       - 05.05.2022: commit of EL-masked test files for bundle 5 in data v2.1 ([cf. PR#10](https://github.com/hipe-eval/HIPE-2022-data/pull/10))    
       - 13.05.2022: release of test files (except topres19th) used for the evaluation on 13.05.2022 ([cf. PR#11](https://github.com/hipe-eval/HIPE-2022-data/pull/11) and release [v2.1-test](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test))    
-      - 20.05.2022: release of topres19th test file used for the evaluation on 13.05.2022 ([cf. PR#12](https://github.com/hipe-eval/HIPE-2022-data/pull/12) and release [v2.1-test-all-unmasked](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test-all-unmasked)).
+      - 20.05.2022: release of topres19th test file used for the evaluation on 13.05.2022 ([cf. PR#12](https://github.com/hipe-eval/HIPE-2022-data/pull/12) and release [v2.1-test-all-unmasked](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test-all-unmasked))
 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
