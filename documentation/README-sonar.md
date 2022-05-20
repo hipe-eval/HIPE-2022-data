@@ -16,6 +16,9 @@
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 
+Please note that the SoNAR dataset has been revised by HIPE team (see release notes below).
+
+
 ### Entity tagset 
 
 | Coarse-grained tagset | Fine-grained tagset | Nesting applies | Linking applies | 
@@ -48,15 +51,22 @@ The *sonar* dataset can be used for:
 
 ### Data release notes
 
+**HIPE-2022 v2.1-test release notes**
+- test set: EL annotations have been extensively and thoroughly revised (xx QIDs links were corrected)    
+- link to release [v2.1-test](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test). 
+
 **HIPE-2022 v2.1 hotfix release notes**
 - dev set: EL annotation was in the wrong column (NE-NESTED) instead of NE-LIT. Fixed with the hotfix commit cc57462
-- dev set: empty tokens removed
+- dev set: empty tokens removed    
+- link to release [v2.1-test_allmasked%2Bsonar_hotfix](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test_allmasked%2Bsonar_hotfix)
 
 **HIPE-2022 v2.0 release notes**
 - EL annotation is now part of the release.
 - Thorough revision of NER and NEL annotation have been done by the HIPE team.
-- Due to time limits, we could not revise all dev set pages completely to the end of the page. The material that could not be revised was removed from the dev set. Meaning, although there is a bit less material in the dev set now, it is fully revised.
+- Due to time limits, we could not revise all dev set pages completely to the end of the page. The material that could not be revised was removed from the dev set. Meaning, although there is a bit less material in the dev set now, it is fully revised.        
+- link to release [v2.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.0)
 
-**HIPE-2022 v1.0 release notes**
 
+**HIPE-2022 v1.0 release notes**    
 - EL annotation are not present in current sonar file and will be added in the next release.
+- link to release [v1.0](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v1.0)
