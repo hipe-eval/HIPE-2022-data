@@ -16,9 +16,6 @@
 | **License** | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 
-Please note that the SoNAR dataset has been revised by HIPE team (see release notes below).
-
-
 ### Entity tagset 
 
 | Coarse-grained tagset | Fine-grained tagset | Nesting applies | Linking applies | 
@@ -38,6 +35,8 @@ The *sonar* dataset can be used for:
 
 
 ### Specificities and important information
+
+Please note that the SoNAR dataset has been revised by HIPE team (see release notes below).
 
 - **Documents:** sonar documents corresponds to newspaper articles (UPDATE)
 - **Train set:** for this dataset, there is no training set. Only a dev set that is representative for the test set in terms of newspapers and periods.
