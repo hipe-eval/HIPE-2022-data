@@ -27,7 +27,8 @@ Following the first [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020) 
       - 26.04.2022: commit of all-masked test files for bundle 1 to 4 in data v2.1 ([cf. PR#7](https://github.com/hipe-eval/HIPE-2022-data/pull/7) and release [v2.1-test_allmasked+sonar_hotfix](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test_allmasked%2Bsonar_hotfix))     
       - 05.05.2022: commit of EL-masked test files for bundle 5 in data v2.1 ([cf. PR#10](https://github.com/hipe-eval/HIPE-2022-data/pull/10))    
       - 13.05.2022: release of test files (except topres19th) used for the evaluation on 13.05.2022 ([cf. PR#11](https://github.com/hipe-eval/HIPE-2022-data/pull/11) and release [v2.1-test](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test))
-      - 20.05.2022: release of topres19th test file used for the evaluation on 13.05.2022 ([cf. PR#12](https://github.com/hipe-eval/HIPE-2022-data/pull/12) and release [v2.1-test-f]).
+      - 20.05.2022: release of topres19th test file used for the evaluation on 13.05.2022 ([cf. PR#12](https://github.com/hipe-eval/HIPE-2022-data/pull/12) and release [v2.1-test-all-unmasked](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test-all-unmasked)).
+
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
