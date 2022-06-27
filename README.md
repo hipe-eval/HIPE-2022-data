@@ -222,13 +222,13 @@ M. Ehrmann, M. Romanello, S. Najem-Meyer, A. Doucet, and S. Clematide (2022). [O
 
 ```
 @inproceedings{hipe2022_condensed_2022,
-    title = {{Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents}},
-    booktitle = {{Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022)}},
-     series    = {Lecture Notes in Computer Science (LNCS)},
+  title     = {{Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents}},
+  booktitle = {{Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022)}},
+  series    = {Lecture Notes in Computer Science (LNCS)},
   publisher = {Springer},
-    author    = {Ehrmann, Maud and Romanello, Matteo and Najem-Meyer, Sven and Doucet, Antoine and Clematide, Simon},
-    year = {2022},
-    editor = {Barrón-Cedeño, Alberto and Da San Martino, Giovanni and Degli Esposti, Mirko and Sebastiani, Fabrizio and Macdonald, Craig and Pasi, Gabriella and Hanbury, Allan and Potthast, Martin and Faggioli, Guglielmo and Ferro, Nicola
+  author    = {Ehrmann, Maud and Romanello, Matteo and Najem-Meyer, Sven and Doucet, Antoine and Clematide, Simon},
+  year      = {2022},
+  editor    = {Barrón-Cedeño, Alberto and Da San Martino, Giovanni and Degli Esposti, Mirko and Sebastiani, Fabrizio and Macdonald, Craig and Pasi, Gabriella and Hanbury, Allan and Potthast, Martin and Faggioli, Guglielmo and Ferro, Nicola
 }
 ```
 
@@ -238,13 +238,13 @@ M. Ehrmann, M. Romanello, A. Doucet, and S. Clematide (2022). [Introducing the H
 
 ```
 @inproceedings{ehrmann_introducing_2022,
-  title = {Introducing the {{HIPE}} 2022 Shared {{Task}}:{{Named}} Entity Recognition and Linking in Multilingual Historical Documents},
+  title     = {{Introducing the HIPE 2022 Shared Task:Named Entity Recognition and Linking in Multilingual Historical Documents}},
   booktitle = {Proceedings of the 44\textsuperscript{d} European Conference on {{IR}} Research ({{ECIR}} 2022)},
-  author = {Ehrmann, Maud and Romanello, Matteo and Clematide, Simon and Doucet, Antoine},
-  year = {2022},
+  author    = {Ehrmann, Maud and Romanello, Matteo and Clematide, Simon and Doucet, Antoine},
+  year      = {2022},
   publisher = {{Lecture Notes in Computer Science, Springer}},
-  address = {{Stavanger, Norway}},
-  url = {https://link.springer.com/chapter/10.1007/978-3-030-99739-7_44}
+  address   = {{Stavanger, Norway}},
+  url       = {https://link.springer.com/chapter/10.1007/978-3-030-99739-7_44}
 }
 ```
 
@@ -266,11 +266,11 @@ M. Ehrmann, M. Romanello, A. Doucet, and S. Clematide (2022). [Introducing the H
 
 ```
 @article{nerc_hist_survey,
-    title={{{A Survey of Named Entity Recognition and Classification in Historical Documents}},
-    author={Ehrmann, Maud and Hamdi, Ahmed  and Linhares Pontes, Elvys and Romanello, Matteo and Douvet, Antoine},
-    journal= {ACM Computing Surveys},
-    year={2022 (to appear)},
-    url = {https://arxiv.org/abs/2109.11406}
+  title   = {{A Survey of Named Entity Recognition and Classification in Historical Documents}},
+  author  = {Ehrmann, Maud and Hamdi, Ahmed  and Linhares Pontes, Elvys and Romanello, Matteo and Douvet, Antoine},
+  journal = {ACM Computing Surveys},
+  year    = {2022 (to appear)},
+  url     = {https://arxiv.org/abs/2109.11406}
 }
 ```
 
