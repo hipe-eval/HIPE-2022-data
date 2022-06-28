@@ -218,7 +218,7 @@ _information to come soon._
 
 - **LNCS HIPE-2020 Condensed Lab Overview Paper:**
 
-M. Ehrmann, M. Romanello, S. Najem-Meyer, A. Doucet, and S. Clematide (2022). [Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents](). In: Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022). Lecture Notes in Computer Science. Springer, Cham (link to [accepted version](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/IPE_2022_LNCS_CondensedLabOverview_accepted_version.pdf)).
+M. Ehrmann, M. Romanello, S. Najem-Meyer, A. Doucet, and S. Clematide (2022). [Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents](). In: Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022). Lecture Notes in Computer Science. Springer, Cham (link to [accepted version](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/HIPE_2022_LNCS_CondensedLabOverview_accepted_version.pdf)).
 
 ```
 @inproceedings{hipe2022_condensed_2022,
