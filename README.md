@@ -210,10 +210,45 @@ The HIPE 2022 organizing team expresses her greatest appreciation to the CLEF-20
 
 ## References
 
-**About HIPE-2022**
-- M. Ehrmann, M. Romanello, A. Doucet, and S. Clematide, S. (2022). Introducing the HIPE 2022 Shared Task: Named Entity Recognition and Linking in Multilingual Historical Documents. In: Advances in Information Retrieval. ECIR 2022. Lecture Notes in Computer Science, vol 13186. Springer, Cham. [https://doi.org/10.1007/978-3-030-99739-7_44](https://doi.org/10.1007/978-3-030-99739-7_44) (link to [preprint](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/HIPE2022_ECIR_shortpaper_postprint.pdf)).
+### About HIPE-2022
 
-**Datasets**
+- **CEUR HIPE-2020 extended overview paper:**
+
+_information to come soon._     
+
+- **LNCS HIPE-2020 Condensed Lab Overview Paper:**
+
+M. Ehrmann, M. Romanello, S. Najem-Meyer, A. Doucet, and S. Clematide (2022). [Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents](). In: Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022). Lecture Notes in Computer Science. Springer, Cham (link to [accepted version](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/HIPE_2022_LNCS_CondensedLabOverview_accepted_version.pdf)).
+
+```
+@inproceedings{hipe2022_condensed_2022,
+  title     = {{Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents}},
+  booktitle = {{Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022)}},
+  series    = {Lecture Notes in Computer Science (LNCS)},
+  publisher = {Springer},
+  author    = {Ehrmann, Maud and Romanello, Matteo and Najem-Meyer, Sven and Doucet, Antoine and Clematide, Simon},
+  year      = {2022},
+  editor    = {Barrón-Cedeño, Alberto and Da San Martino, Giovanni and Degli Esposti, Mirko and Sebastiani, Fabrizio and Macdonald, Craig and Pasi, Gabriella and Hanbury, Allan and Potthast, Martin and Faggioli, Guglielmo and Ferro, Nicola
+}
+```
+
+- **ECIR-2022 Introduction Short Paper:**    
+
+M. Ehrmann, M. Romanello, A. Doucet, and S. Clematide (2022). [Introducing the HIPE 2022 Shared Task: Named Entity Recognition and Linking in Multilingual Historical Documents](https://doi.org/10.1007/978-3-030-99739-7_44). In: Advances in Information Retrieval. ECIR 2022. Lecture Notes in Computer Science, vol 13186. Springer, Cham (link to [postprint](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/HIPE2022_ECIR_shortpaper_postprint.pdf)).
+
+```
+@inproceedings{ehrmann_introducing_2022,
+  title     = {{Introducing the HIPE 2022 Shared Task:Named Entity Recognition and Linking in Multilingual Historical Documents}},
+  booktitle = {Proceedings of the 44\textsuperscript{d} European Conference on {{IR}} Research ({{ECIR}} 2022)},
+  author    = {Ehrmann, Maud and Romanello, Matteo and Clematide, Simon and Doucet, Antoine},
+  year      = {2022},
+  publisher = {{Lecture Notes in Computer Science, Springer}},
+  address   = {{Stavanger, Norway}},
+  url       = {https://link.springer.com/chapter/10.1007/978-3-030-99739-7_44}
+}
+```
+
+### Datasets
 
 - M. C. Ardanuy et al., [A Dataset for Toponym Resolution in Nineteenth-Century English Newspapers](http://openhumanitiesdata.metajnl.com/articles/10.5334/johd.56/) J. Open Humanit. Data, vol. 8, Jan. 2022, doi: 10.5334/johd.56. 
 
@@ -225,9 +260,19 @@ The HIPE 2022 organizing team expresses her greatest appreciation to the CLEF-20
 
 - M. Romanello, N.-M. Sven, and R. Bruce, [Optical Character Recognition of 19th Century Classical Commentaries: the Current State of Affairs](https://doi.org/10.1145/3476887.3476911) in The 6th International Workshop on Historical Document Imaging and Processing, New York, NY, USA, Sep. 2021, pp. 1–6. doi: 10.1145/3476887.3476911.
 
-**Previous shared task and survey**
+### Previous shared task and survey
 
 -  M. Ehrmann, A. Hamdi, E. L. Pontes, M. Romanello, and A. Doucet, [Named Entity Recognition and Classification on Historical Documents: A Survey](http://arxiv.org/abs/2109.11406) ArXiv210911406, Sep. 2021. 
+
+```
+@article{nerc_hist_survey,
+  title   = {{A Survey of Named Entity Recognition and Classification in Historical Documents}},
+  author  = {Ehrmann, Maud and Hamdi, Ahmed  and Linhares Pontes, Elvys and Romanello, Matteo and Douvet, Antoine},
+  journal = {ACM Computing Surveys},
+  year    = {2022 (to appear)},
+  url     = {https://arxiv.org/abs/2109.11406}
+}
+```
 
 - M. Ehrmann, M. Romanello, A. Flückiger, and S. Clematide, [Extended Overview of CLEF HIPE 2020: Named Entity Processing on Historical Newspapers](https://infoscience.epfl.ch/record/281054) in Working Notes of CLEF 2020 - Conference and Labs of the Evaluation Forum, Thessaloniki, Greece, 2020, vol. 2696, p. 38. doi: 10.5281/zenodo.4117566. 
 
