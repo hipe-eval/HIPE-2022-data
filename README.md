@@ -192,9 +192,9 @@ The annotation types `NE-COARSE-METO, NE-FINE-METO, NE-FINE-COMP` are not consid
 
 ### Dataset statistics
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hipe-eval/HIPE-2022-data/HEAD?labpath=hipe2022-datasets-stats.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hipe-eval/HIPE-2022-data/HEAD?labpath=notebooks/hipe2022-datasets-stats.ipynb)
 
-Available via this [jupyter notebook](hipe2022-datasets-stats.ipynb).
+Available via this [jupyter notebook](notebooks/hipe2022-datasets-stats.ipynb).
 
 ## HIPE-2022 Evaluation
 
