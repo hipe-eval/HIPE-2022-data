@@ -212,6 +212,8 @@ The HIPE 2022 organizing team expresses her greatest appreciation to the CLEF-20
 
 ### About HIPE-2022
 
+- **HIPE-2022 Participant Papers** in [Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum](http://ceur-ws.org/Vol-3180/), edited by Faggioli, Guglielmo and Ferro, Nicola and Hanbury, Allan and Potthast, Martin.
+
 - **CEUR HIPE-2020 Extended Overview Paper (open access):**
 
 M. Ehrmann, M. Romanello, S. Najem-Meyer, A. Doucet, and S. Clematide (2022). [Extended Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents](http://ceur-ws.org/Vol-3180/paper-83.pdf). In Proceedings of the Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum, edited by Guglielmo Faggioli, Nicola Ferro, Allan Hanbury, and Martin Potthast, Vol. 3180. CEUR-WS, 2022. https://doi.org/10.5281/zenodo.6979577.
@@ -230,8 +232,6 @@ M. Ehrmann, M. Romanello, S. Najem-Meyer, A. Doucet, and S. Clematide (2022). [E
   url = {http://ceur-ws.org/Vol-3180/paper-83.pdf}
 }
 ```
-
-- HIPE-2022 Participant Papers in [Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum](http://ceur-ws.org/Vol-3180/), edited by Faggioli, Guglielmo and Ferro, Nicola and Hanbury, Allan and Potthast, Martin.
 
 - **LNCS HIPE-2020 Condensed Lab Overview Paper:**
 
