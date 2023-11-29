@@ -32925,10 +32925,10 @@ Cöln	B-LOC	_	O	_	_	O	Q365	_	NoSpaceAfter
 ,	O	_	O	_	_	O	_	_	_
 Leipzig	B-LOC	_	O	_	_	O	Q2079	_	NoSpaceAfter
 :	O	_	O	_	_	O	_	_	_
-Haa¬	B-PER	_	O	_	_	B-ORG	Q1405350	_	NoSpaceAfter|EndOfLine
-senstein	I-PER	_	O	_	_	I-ORG	Q56322697	_	_
-&	O	_	O	_	_	I-ORG	Q56322697	_	_
-Vogler	O	_	O	_	_	I-ORG	Q56322697	_	_
+Haa¬	B-ORG	_	O	_	_	B-PER	Q1405350	_	NoSpaceAfter|EndOfLine
+senstein	I-ORG	_	O	_	_	I-PER	Q56322697	_	_
+&	I-ORG	_	O	_	_	O	Q56322697	_	_
+Vogler	I-ORG	_	O	_	_	O	Q56322697	_	_
 in	O	_	O	_	_	O	_	_	_
 Hamburg	B-LOC	_	O	_	_	O	Q1055	_	NoSpaceAfter
 .	O	_	O	_	_	O	_	_	_
